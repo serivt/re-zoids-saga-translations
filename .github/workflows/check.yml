@@ -1,0 +1,26 @@
+name: Check translations
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: No templates or working files
+        run: |
+          if git ls-files | grep -E '\.pot$|-work\.po$'; then
+            echo "Templates and working files hold the ROM's text and must not be committed."
+            exit 1
+          fi
+      - name: Check the PO files
+        run: python3 tools/check.py po/*.po
+      - name: Install gettext
+        run: sudo apt-get install -y gettext
+      - name: Check with gettext
+        run: for f in po/*.po; do msgfmt --check-format -o /dev/null "$f"; done

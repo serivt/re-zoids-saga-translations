@@ -1,0 +1,29 @@
+name: Translation correction
+description: Suggest a better wording for a line of a translation.
+title: "[es] "
+labels: ["correction"]
+body:
+  - type: input
+    id: key
+    attributes:
+      label: Key
+      description: The message's `msgctxt`, e.g. `dialogue/397/0x58`. Leave it empty if you do not know it.
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+      description: The line as it reads in the game or in `po/es.po`.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed text
+      description: Your wording. Keep markers such as `{name}` as they are.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Where it appears
+      description: Chapter, place or scene, and a screenshot if you have one.

@@ -1,0 +1,5 @@
+# Templates and working files hold the ROM's Japanese text: never commit them.
+*.pot
+*-work.po
+*.mo
+__pycache__/
