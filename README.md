@@ -8,6 +8,7 @@ files, so anyone can read them and suggest corrections.
 | Language | File | State |
 |---|---|---|
 | Spanish (Spain) | [`po/es.po`](po/es.po) | Chapters 1–6 of the story, menus, guides and battles |
+| English (US) | [`po/en.po`](po/en.po) | Translated from the Spanish, same coverage; review welcome |
 
 ## No Japanese text here
 
