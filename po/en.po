@@ -12921,9 +12921,13 @@ msgctxt "port/launcher/rom-verified"
 msgid "port/launcher/rom-verified"
 msgstr "Zoids Saga, a verified dump."
 
-msgctxt "port/launcher/rom-unverified"
-msgid "port/launcher/rom-unverified"
-msgstr "Zoids Saga, but not a verified dump."
+msgctxt "port/launcher/rom-first-release"
+msgid "port/launcher/rom-first-release"
+msgstr "Original release: the port needs Rev 1."
+
+msgctxt "port/launcher/rom-unsupported"
+msgid "port/launcher/rom-unsupported"
+msgstr "Unknown dump: the port needs Rev 1."
 
 msgctxt "port/launcher/rom-other"
 msgid "port/launcher/rom-other"
