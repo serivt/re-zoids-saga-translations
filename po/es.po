@@ -5730,6 +5730,10 @@ msgctxt "name/153/0x0"
 msgid "name/153/0x0"
 msgstr "Berserk Fury Z"
 
+msgctxt "name/154/0x0"
+msgid "name/154/0x0"
+msgstr "Atory"
+
 msgctxt "name/155/0x0"
 msgid "name/155/0x0"
 msgstr "Regina"
