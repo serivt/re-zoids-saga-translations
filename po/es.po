@@ -4728,7 +4728,7 @@ msgstr "Guardia real\nCreo que ahora está en la sala\ndel fondo."
 
 msgctxt "dialogue/45/0x70"
 msgid "dialogue/45/0x70"
-msgstr "Guardia real\n...Por cierto, parecía estar\nbuscando al príncipe {name}."
+msgstr "Guardia real\n...Por cierto, parecía estar\nbuscando al príncipe\n{name}."
 
 msgctxt "dialogue/46/0x3"
 msgid "dialogue/46/0x3"
@@ -4952,7 +4952,7 @@ msgstr "Rey de Arcadia\n...Lo que buscan es el\nlegado antiguo..."
 
 msgctxt "dialogue/53/0x15d"
 msgid "dialogue/53/0x15d"
-msgstr "Rey de Arcadia\nTres Guerreros, ¡proteged el\nlegado antiguo con {name}!"
+msgstr "Rey de Arcadia\nTres Guerreros, ¡proteged el\nlegado antiguo con\n{name}!"
 
 msgctxt "dialogue/53/0x1a2"
 msgid "dialogue/53/0x1a2"
@@ -11028,7 +11028,7 @@ msgstr "Soldado (capitán)\n¡Hmpf! Tened más cuidado\na partir de ahora."
 
 msgctxt "dialogue/78/0x3"
 msgid "dialogue/78/0x3"
-msgstr "Roman\nUsted es el príncipe {name},\n¿verdad?"
+msgstr "Roman\nUsted es el príncipe\n{name}, ¿verdad?"
 
 msgctxt "dialogue/78/0x32"
 msgid "dialogue/78/0x32"
@@ -23112,7 +23112,7 @@ msgstr "Vecino\nDicen que el príncipe\n{name} está a salvo.\nOjalá el rey y l
 
 msgctxt "dialogue/780/0x3"
 msgid "dialogue/780/0x3"
-msgstr "Vecino\nDicen que el príncipe\n{name} se ha alzado contra\nel Emperador. ¡Qué valor!"
+msgstr "Vecino\nDicen que el príncipe\n{name} se ha alzado\ncontra el Emperador. ¡Qué valor!"
 
 msgctxt "dialogue/781/0x3"
 msgid "dialogue/781/0x3"
