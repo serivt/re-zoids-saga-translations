@@ -11586,6 +11586,10 @@ msgctxt "item/142/0x39"
 msgid "item/142/0x39"
 msgstr "Can't be used in link battles."
 
+msgctxt "battle-label/16/0x0"
+msgid "battle-label/16/0x0"
+msgstr "Enemy "
+
 msgctxt "battle-label/21/0x0"
 msgid "battle-label/21/0x0"
 msgstr "Can't be used in link battles."
