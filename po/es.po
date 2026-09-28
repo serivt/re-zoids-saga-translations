@@ -13061,6 +13061,51 @@ msgctxt "port/launcher/no"
 msgid "port/launcher/no"
 msgstr "No"
 
+#. The line to the screen with the version, the license and the project's pages
+msgctxt "port/launcher/about"
+msgid "port/launcher/about"
+msgstr "Acerca de"
+
+#. Help for the about line
+msgctxt "port/launcher/pick-about"
+msgid "port/launcher/pick-about"
+msgstr "Versión, licencia y páginas del proyecto."
+
+#. The label of the port's version on the about screen
+msgctxt "port/launcher/version"
+msgid "port/launcher/version"
+msgstr "Versión"
+
+#. The label of the port's license on the about screen
+msgctxt "port/launcher/license"
+msgid "port/launcher/license"
+msgstr "Licencia"
+
+#. The line of the port's repository, whose address follows on the next line
+msgctxt "port/launcher/project-page"
+msgid "port/launcher/project-page"
+msgstr "Proyecto en GitHub"
+
+#. The line of the translations' repository, whose address follows on the next line
+msgctxt "port/launcher/translations-page"
+msgid "port/launcher/translations-page"
+msgstr "Traducciones en GitHub"
+
+#. Help for a page's line on the about screen
+msgctxt "port/launcher/opens-page"
+msgid "port/launcher/opens-page"
+msgstr "Abre la página en tu navegador."
+
+#. The page could not be opened
+msgctxt "port/launcher/page-unopened"
+msgid "port/launcher/page-unopened"
+msgstr "No se ha podido abrir el navegador."
+
+#. The about screen's help
+msgctxt "port/launcher/about-help"
+msgid "port/launcher/about-help"
+msgstr "X: abrir   Z: volver"
+
 msgctxt "dialogue/69/0xc"
 msgid "dialogue/69/0xc"
 msgstr "Regina\n¡Príncipe! Primero hay que\naveriguar qué trama el\nenemigo al otro lado del\ntiempo."
