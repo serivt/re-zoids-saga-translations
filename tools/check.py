@@ -3,6 +3,10 @@
     python3 tools/check.py po/*.po
 
 Errors (the check fails):
+- po/languages.json, the list the game's launcher downloads from, that
+  cannot be read, lists a language twice, names one with a code other than
+  letters, digits, `-` and `_` or a file other than po/<code>.po, or leaves
+  out a PO file of po/;
 - a file that cannot be read, or has no header;
 - a message without a key, a key in an unknown form, or a key twice;
 - a `msgid` that is not the message's key (the ROM's text must not be published),
@@ -15,8 +19,10 @@ Warnings (printed, the check passes):
 - Japanese kana or kanji left in a translation.
 """
 
+import json
 import re
 import sys
+from pathlib import Path
 
 import po
 
@@ -28,6 +34,38 @@ KEY = re.compile(
 MARKER = re.compile(r"\{(name|var\d+:\d+|window:\d+|level|area|money|slot|button|count)\}")
 BRACES = re.compile(r"\{[^{}]*\}")
 JAPANESE = re.compile("[\u3040-\u30ff\u3400-\u9fff\uff01-\uff5e\uff61-\uff9f]")
+CODE = re.compile(r"^[A-Za-z0-9_-]+$")
+ROOT = Path(__file__).resolve().parents[1]
+INDEX = ROOT / "po" / "languages.json"
+
+
+def check_index():
+    """The errors of po/languages.json against the PO files of po/."""
+    try:
+        languages = json.loads(INDEX.read_text(encoding="utf-8"))["languages"]
+    except (OSError, ValueError, KeyError, TypeError) as error:
+        return [f"{INDEX.name}: cannot be read ({error})"]
+    errors, codes = [], set()
+    for number, language in enumerate(languages):
+        where = f"{INDEX.name}: language {number}"
+        if not isinstance(language, dict):
+            errors.append(f"{where} is not an object")
+            continue
+        code, name, file = (language.get(field) for field in ("code", "name", "file"))
+        if not isinstance(code, str) or not CODE.match(code):
+            errors.append(f"{where}: code {code!r} is not letters, digits, - and _")
+            continue
+        if code in codes:
+            errors.append(f"{where}: {code} listed twice")
+        codes.add(code)
+        if not isinstance(name, str) or not name.strip():
+            errors.append(f"{where}: {code} has no name")
+        if file != f"po/{code}.po" or not (ROOT / file).is_file():
+            errors.append(f"{where}: {code} names {file!r}, not the existing po/{code}.po")
+    for path in sorted((ROOT / "po").glob("*.po")):
+        if path.stem not in codes:
+            errors.append(f"{INDEX.name}: po/{path.name} is not listed")
+    return errors
 
 
 def check(path):
@@ -68,7 +106,10 @@ def check(path):
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
-    failed = False
+    index_errors = check_index()
+    for line in index_errors:
+        print("error:", line)
+    failed = bool(index_errors)
     for path in sys.argv[1:]:
         errors, warnings = check(path)
         for line in warnings:

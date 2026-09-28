@@ -61,8 +61,10 @@ The full reference is the main repository's
 
 Download the game from the main repository's
 [Releases](https://github.com/serivt/re-zoids-saga/releases) (or build it, see its
-README), start it, choose your ROM and pick a `.po` file from this repository as the
-translation. From the command line:
+README), start it and choose your ROM. The launcher's Translation line lists the
+languages of [`po/languages.json`](po/languages.json) and downloads the one you choose
+from this repository, the latest version of its file, kept for offline play; *From a
+file...* opens a `.po` file you have instead. From the command line:
 
 ```bash
 re-zoids-saga path/to/rom.gba --translation po/es.po
@@ -130,12 +132,19 @@ msgstr ""
 "Language: fr\n"
 ```
 
-save it as `po/fr.po`, then follow the steps above with it.
+save it as `po/fr.po`, then follow the steps above with it, and list it in
+[`po/languages.json`](po/languages.json) so the launcher offers it: its code (the file's
+name), its name in the language itself and its file.
+
+```json
+{ "code": "fr", "name": "Français", "file": "po/fr.po" }
+```
 
 ## Checks
 
 [`tools/check.py`](tools/check.py) runs on every push and pull request, together with
-gettext's `msgfmt --check-format`. It fails on unreadable files, unknown or repeated
+gettext's `msgfmt --check-format`. It fails on a `po/languages.json` that leaves out a
+PO file or names one wrongly, on unreadable files, unknown or repeated
 keys, a `msgid` other than the key, Japanese text in `msgid` or comments, and empty
 translations; it warns about unknown markers and Japanese left in a translation.
 

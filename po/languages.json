@@ -1,0 +1,6 @@
+{
+  "languages": [
+    { "code": "en", "name": "English", "file": "po/en.po" },
+    { "code": "es", "name": "Español", "file": "po/es.po" }
+  ]
+}
