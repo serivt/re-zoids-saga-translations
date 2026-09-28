@@ -12921,6 +12921,42 @@ msgctxt "port/launcher/pick-translation"
 msgid "port/launcher/pick-translation"
 msgstr "Choose a translation file (.po), or none."
 
+msgctxt "port/launcher/from-file"
+msgid "port/launcher/from-file"
+msgstr "From a file..."
+
+msgctxt "port/launcher/downloaded"
+msgid "port/launcher/downloaded"
+msgstr "downloaded"
+
+msgctxt "port/launcher/choose-translation"
+msgid "port/launcher/choose-translation"
+msgstr "Download a translation, or open a file."
+
+msgctxt "port/launcher/looking-up"
+msgid "port/launcher/looking-up"
+msgstr "Looking for translations online..."
+
+msgctxt "port/launcher/offline"
+msgid "port/launcher/offline"
+msgstr "The translations cannot be reached online."
+
+msgctxt "port/launcher/downloads"
+msgid "port/launcher/downloads"
+msgstr "Downloads it from the translations' site."
+
+msgctxt "port/launcher/downloading"
+msgid "port/launcher/downloading"
+msgstr "Downloading {name}..."
+
+msgctxt "port/launcher/download-failed"
+msgid "port/launcher/download-failed"
+msgstr "The download failed."
+
+msgctxt "port/launcher/translation-help"
+msgid "port/launcher/translation-help"
+msgstr "X: choose   Z: back"
+
 msgctxt "port/launcher/rom-verified"
 msgid "port/launcher/rom-verified"
 msgstr "Zoids Saga, a verified dump."

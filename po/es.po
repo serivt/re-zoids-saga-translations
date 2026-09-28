@@ -12921,6 +12921,42 @@ msgctxt "port/launcher/pick-translation"
 msgid "port/launcher/pick-translation"
 msgstr "Elige una traducción (.po), o ninguna."
 
+msgctxt "port/launcher/from-file"
+msgid "port/launcher/from-file"
+msgstr "Desde un archivo..."
+
+msgctxt "port/launcher/downloaded"
+msgid "port/launcher/downloaded"
+msgstr "descargada"
+
+msgctxt "port/launcher/choose-translation"
+msgid "port/launcher/choose-translation"
+msgstr "Descarga una traducción o abre un archivo."
+
+msgctxt "port/launcher/looking-up"
+msgid "port/launcher/looking-up"
+msgstr "Buscando traducciones en línea..."
+
+msgctxt "port/launcher/offline"
+msgid "port/launcher/offline"
+msgstr "No se pudo consultar las traducciones."
+
+msgctxt "port/launcher/downloads"
+msgid "port/launcher/downloads"
+msgstr "Se descarga del sitio de traducciones."
+
+msgctxt "port/launcher/downloading"
+msgid "port/launcher/downloading"
+msgstr "Descargando {name}..."
+
+msgctxt "port/launcher/download-failed"
+msgid "port/launcher/download-failed"
+msgstr "La descarga falló."
+
+msgctxt "port/launcher/translation-help"
+msgid "port/launcher/translation-help"
+msgstr "X: elegir   Z: volver"
+
 msgctxt "port/launcher/rom-verified"
 msgid "port/launcher/rom-verified"
 msgstr "Zoids Saga, volcado verificado."
