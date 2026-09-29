@@ -12870,6 +12870,34 @@ msgctxt "port/save-slots/overwrite"
 msgid "port/save-slots/overwrite"
 msgstr "¿Sobrescribir la ranura {slot}?"
 
+msgctxt "port/options/speed"
+msgid "port/options/speed"
+msgstr "Vel. de mensajes"
+
+msgctxt "port/options/speed-help"
+msgid "port/options/speed-help"
+msgstr "Mensajes de combate: 1 es la más rápida"
+
+msgctxt "port/options/battle-animations"
+msgid "port/options/battle-animations"
+msgstr "Anim. de combate"
+
+msgctxt "port/options/battle-animations-help"
+msgid "port/options/battle-animations-help"
+msgstr "Con NO se omiten las escenas de ataque"
+
+msgctxt "port/options/on"
+msgid "port/options/on"
+msgstr "SÍ"
+
+msgctxt "port/options/off"
+msgid "port/options/off"
+msgstr "NO"
+
+msgctxt "port/options/keys"
+msgid "port/options/keys"
+msgstr "Izq./Der.: cambiar   B: volver"
+
 #. The thanks once chapter 1, the end of the demo, is over: up to 3 lines of 224 pixels in the story box
 msgctxt "port/demo/thanks"
 msgid "port/demo/thanks"
@@ -13168,6 +13196,34 @@ msgstr "no"
 msgctxt "port/launcher/volume"
 msgid "port/launcher/volume"
 msgstr "Volumen"
+
+msgctxt "port/launcher/mode"
+msgid "port/launcher/mode"
+msgstr "Modo de juego"
+
+msgctxt "port/launcher/classic"
+msgid "port/launcher/classic"
+msgstr "Clásico"
+
+msgctxt "port/launcher/enhanced"
+msgid "port/launcher/enhanced"
+msgstr "Mejorado"
+
+msgctxt "port/launcher/battle-animations"
+msgid "port/launcher/battle-animations"
+msgstr "Animaciones de combate"
+
+msgctxt "port/launcher/pick-mode"
+msgid "port/launcher/pick-mode"
+msgstr "Como el original, o con mejoras."
+
+msgctxt "port/launcher/classic-note"
+msgid "port/launcher/classic-note"
+msgstr "Se juega igual que el original."
+
+msgctxt "port/launcher/enhanced-note"
+msgid "port/launcher/enhanced-note"
+msgstr "Añade las mejoras activadas aquí."
 
 msgctxt "port/launcher/options-help"
 msgid "port/launcher/options-help"
