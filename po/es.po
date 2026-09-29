@@ -12957,6 +12957,90 @@ msgctxt "port/launcher/translation-help"
 msgid "port/launcher/translation-help"
 msgstr "X: elegir   Z: volver"
 
+msgctxt "port/launcher/touch-size"
+msgid "port/launcher/touch-size"
+msgstr "Tamaño del pad"
+
+msgctxt "port/launcher/touch-opacity"
+msgid "port/launcher/touch-opacity"
+msgstr "Opacidad del pad"
+
+msgctxt "port/launcher/touch-help"
+msgid "port/launcher/touch-help"
+msgstr "Toca o A: elegir   B: quitar"
+
+msgctxt "port/launcher/touch-options-help"
+msgid "port/launcher/touch-options-help"
+msgstr "Izq./Der.: cambiar   A: elegir   B: volver"
+
+msgctxt "port/launcher/touch-list-help"
+msgid "port/launcher/touch-list-help"
+msgstr "Toca o A: elegir   B: volver"
+
+msgctxt "port/launcher/touch-about-help"
+msgid "port/launcher/touch-about-help"
+msgstr "Toca o A: abrir   B: volver"
+
+msgctxt "port/launcher/pick-touch-options"
+msgid "port/launcher/pick-touch-options"
+msgstr "Sonido, pad y partidas."
+
+msgctxt "port/launcher/saves"
+msgid "port/launcher/saves"
+msgstr "Partidas"
+
+msgctxt "port/launcher/slot"
+msgid "port/launcher/slot"
+msgstr "Ranura {slot}"
+
+msgctxt "port/launcher/slot-saved"
+msgid "port/launcher/slot-saved"
+msgstr "guardada"
+
+msgctxt "port/launcher/slot-empty"
+msgid "port/launcher/slot-empty"
+msgstr "vacía"
+
+msgctxt "port/launcher/export"
+msgid "port/launcher/export"
+msgstr "Exportar..."
+
+msgctxt "port/launcher/import"
+msgid "port/launcher/import"
+msgstr "Importar..."
+
+msgctxt "port/launcher/saves-help"
+msgid "port/launcher/saves-help"
+msgstr "Copia partidas a o desde un emulador."
+
+msgctxt "port/launcher/export-help"
+msgid "port/launcher/export-help"
+msgstr "Escribe una copia de esta partida."
+
+msgctxt "port/launcher/import-help"
+msgid "port/launcher/import-help"
+msgstr "Reemplaza esta partida (queda en .bak)."
+
+msgctxt "port/launcher/exported"
+msgid "port/launcher/exported"
+msgstr "La partida se exportó."
+
+msgctxt "port/launcher/imported"
+msgid "port/launcher/imported"
+msgstr "La partida se importó."
+
+msgctxt "port/launcher/not-a-save"
+msgid "port/launcher/not-a-save"
+msgstr "No es una partida de Zoids Saga."
+
+msgctxt "port/launcher/copy-failed"
+msgid "port/launcher/copy-failed"
+msgstr "No se pudo copiar la partida."
+
+msgctxt "port/launcher/rom-first"
+msgid "port/launcher/rom-first"
+msgstr "Elige primero tu ROM."
+
 msgctxt "port/launcher/rom-verified"
 msgid "port/launcher/rom-verified"
 msgstr "Zoids Saga, volcado verificado."

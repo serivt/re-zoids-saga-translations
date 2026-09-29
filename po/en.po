@@ -12957,6 +12957,90 @@ msgctxt "port/launcher/translation-help"
 msgid "port/launcher/translation-help"
 msgstr "X: choose   Z: back"
 
+msgctxt "port/launcher/touch-size"
+msgid "port/launcher/touch-size"
+msgstr "Pad size"
+
+msgctxt "port/launcher/touch-opacity"
+msgid "port/launcher/touch-opacity"
+msgstr "Pad opacity"
+
+msgctxt "port/launcher/touch-help"
+msgid "port/launcher/touch-help"
+msgstr "Tap or A: choose   B: clear"
+
+msgctxt "port/launcher/touch-options-help"
+msgid "port/launcher/touch-options-help"
+msgstr "Left/Right: change   A: choose   B: back"
+
+msgctxt "port/launcher/touch-list-help"
+msgid "port/launcher/touch-list-help"
+msgstr "Tap or A: choose   B: back"
+
+msgctxt "port/launcher/touch-about-help"
+msgid "port/launcher/touch-about-help"
+msgstr "Tap or A: open   B: back"
+
+msgctxt "port/launcher/pick-touch-options"
+msgid "port/launcher/pick-touch-options"
+msgstr "Sound, the pad and saves."
+
+msgctxt "port/launcher/saves"
+msgid "port/launcher/saves"
+msgstr "Saves"
+
+msgctxt "port/launcher/slot"
+msgid "port/launcher/slot"
+msgstr "Slot {slot}"
+
+msgctxt "port/launcher/slot-saved"
+msgid "port/launcher/slot-saved"
+msgstr "saved"
+
+msgctxt "port/launcher/slot-empty"
+msgid "port/launcher/slot-empty"
+msgstr "empty"
+
+msgctxt "port/launcher/export"
+msgid "port/launcher/export"
+msgstr "Export..."
+
+msgctxt "port/launcher/import"
+msgid "port/launcher/import"
+msgstr "Import..."
+
+msgctxt "port/launcher/saves-help"
+msgid "port/launcher/saves-help"
+msgstr "Copy saves to or from an emulator."
+
+msgctxt "port/launcher/export-help"
+msgid "port/launcher/export-help"
+msgstr "Writes a copy of this save."
+
+msgctxt "port/launcher/import-help"
+msgid "port/launcher/import-help"
+msgstr "Replaces this save (kept as .bak)."
+
+msgctxt "port/launcher/exported"
+msgid "port/launcher/exported"
+msgstr "The save was exported."
+
+msgctxt "port/launcher/imported"
+msgid "port/launcher/imported"
+msgstr "The save was imported."
+
+msgctxt "port/launcher/not-a-save"
+msgid "port/launcher/not-a-save"
+msgstr "That file is not a Zoids Saga save."
+
+msgctxt "port/launcher/copy-failed"
+msgid "port/launcher/copy-failed"
+msgstr "The save could not be copied."
+
+msgctxt "port/launcher/rom-first"
+msgid "port/launcher/rom-first"
+msgstr "Choose your ROM first."
+
 msgctxt "port/launcher/rom-verified"
 msgid "port/launcher/rom-verified"
 msgstr "Zoids Saga, a verified dump."
