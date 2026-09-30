@@ -12886,6 +12886,14 @@ msgctxt "port/options/battle-animations-help"
 msgid "port/options/battle-animations-help"
 msgstr "OFF skips the attack scenes"
 
+msgctxt "port/options/damage-numbers"
+msgid "port/options/damage-numbers"
+msgstr "Damage nums."
+
+msgctxt "port/options/damage-numbers-help"
+msgid "port/options/damage-numbers-help"
+msgstr "ON shows the damage under each Zoid"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "ON"
@@ -13212,6 +13220,10 @@ msgstr "Enhanced"
 msgctxt "port/launcher/battle-animations"
 msgid "port/launcher/battle-animations"
 msgstr "Battle animations"
+
+msgctxt "port/launcher/damage-numbers"
+msgid "port/launcher/damage-numbers"
+msgstr "Damage numbers"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"

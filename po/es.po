@@ -12886,6 +12886,14 @@ msgctxt "port/options/battle-animations-help"
 msgid "port/options/battle-animations-help"
 msgstr "Con NO se omiten las escenas de ataque"
 
+msgctxt "port/options/damage-numbers"
+msgid "port/options/damage-numbers"
+msgstr "Núm. de daño"
+
+msgctxt "port/options/damage-numbers-help"
+msgid "port/options/damage-numbers-help"
+msgstr "Con SÍ se ve el daño bajo cada Zoid"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "SÍ"
@@ -13212,6 +13220,10 @@ msgstr "Mejorado"
 msgctxt "port/launcher/battle-animations"
 msgid "port/launcher/battle-animations"
 msgstr "Animaciones de combate"
+
+msgctxt "port/launcher/damage-numbers"
+msgid "port/launcher/damage-numbers"
+msgstr "Números de daño"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"
