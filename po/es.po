@@ -15754,6 +15754,10 @@ msgctxt "dialogue/207/0x519"
 msgid "dialogue/207/0x519"
 msgstr "Dr. D\nJo, jo, jo. ¡Id y dadlo\ntodo!"
 
+msgctxt "dialogue/208/0xc"
+msgid "dialogue/208/0xc"
+msgstr "Dr. D\nJo, jo, jo, jo. ¡Id y\ndadlo todo!"
+
 msgctxt "dialogue/209/0xc"
 msgid "dialogue/209/0xc"
 msgstr "Capitán Herman\n¿Estará a salvo el Gojulas\nZG que fue al fuerte\nKronos?"
@@ -23218,6 +23222,4570 @@ msgctxt "dialogue/485/0x101"
 msgid "dialogue/485/0x101"
 msgstr "{name}\n......"
 
+msgctxt "dialogue/486/0xc"
+msgid "dialogue/486/0xc"
+msgstr "Emperador\nGale, buen trabajo."
+
+msgctxt "dialogue/486/0x3a"
+msgid "dialogue/486/0x3a"
+msgstr "Gale\nMajestad."
+
+msgctxt "dialogue/486/0x56"
+msgid "dialogue/486/0x56"
+msgstr "Emperador\nHe leído tu informe."
+
+msgctxt "dialogue/486/0x7e"
+msgid "dialogue/486/0x7e"
+msgstr "Emperador\nEl Death Saurer es un\nZoid realmente magnífico.\n¿Qué opinas, Opis?"
+
+msgctxt "dialogue/486/0xcd"
+msgid "dialogue/486/0xcd"
+msgstr "Opis\nSí, es un Zoid realmente\nmagnífico. Aunque su\npunto débil sería el\nventilador de suministro\nde partículas cargadas\nde la espalda."
+
+msgctxt "dialogue/486/0x130"
+msgid "dialogue/486/0x130"
+msgstr "Emperador\nHmpf. Ya habrás pensado\nen cómo remediarlo, ¿no?"
+
+msgctxt "dialogue/486/0x173"
+msgid "dialogue/486/0x173"
+msgstr "Opis\nJi, ji, ji. Me halaga,\nMajestad."
+
+msgctxt "dialogue/487/0x3"
+msgid "dialogue/487/0x3"
+msgstr "Soldado imperial\n¡Vengo a informar!"
+
+msgctxt "dialogue/487/0x33"
+msgid "dialogue/487/0x33"
+msgstr "Blood\n¿Qué ocurre?"
+
+msgctxt "dialogue/487/0x4c"
+msgid "dialogue/487/0x4c"
+msgstr "Soldado imperial\n¡Sí, señor! La señorita\nFran ha usado el\ndispositivo de transporte\nespaciotemporal para\nhacer un salto\nespaciotemporal."
+
+msgctxt "dialogue/487/0xa5"
+msgid "dialogue/487/0xa5"
+msgstr "Blood\n¡¿Qué has dicho?!\n¿Adónde ha ido?"
+
+msgctxt "dialogue/487/0xce"
+msgid "dialogue/487/0xce"
+msgstr "Soldado imperial\nNo se sabe con detalle,\n¡pero podemos seguirla!"
+
+msgctxt "dialogue/487/0x10e"
+msgid "dialogue/487/0x10e"
+msgstr "Emperador\nAsí que Fran...\nQué mujer tan necia...\n¡Blood!"
+
+msgctxt "dialogue/487/0x157"
+msgid "dialogue/487/0x157"
+msgstr "Blood\n¡Sí, señor!"
+
+msgctxt "dialogue/487/0x179"
+msgid "dialogue/487/0x179"
+msgstr "Emperador\nPersigue a Fran. Viva o\nmuerta, tráela ante mí."
+
+msgctxt "dialogue/487/0x1c0"
+msgid "dialogue/487/0x1c0"
+msgstr "Blood\n¡Sí, señor!"
+
+msgctxt "dialogue/488/0xc"
+msgid "dialogue/488/0xc"
+msgstr "Opis\n¡¿Piensas traicionarnos,\nFran?!"
+
+msgctxt "dialogue/488/0x48"
+msgid "dialogue/488/0x48"
+msgstr "Gale\n......"
+
+msgctxt "dialogue/488/0x6e"
+msgid "dialogue/488/0x6e"
+msgstr "Emperador\nLa muerte es lo único\nque merece un necio...\n¿Qué harás, Blood...?"
+
+msgctxt "dialogue/489/0x3"
+msgid "dialogue/489/0x3"
+msgstr "Soldado del Reino 1\n¡...! ¡Detectamos una\nvibración\nespaciotemporal! Parece\nque se ha usado el\ndispositivo de transporte\nespaciotemporal del\ncastillo."
+
+msgctxt "dialogue/489/0x54"
+msgid "dialogue/489/0x54"
+msgstr "Comandante del Reino\n¿¡Qué!? ¿Se sabe el\ndestino?"
+
+msgctxt "dialogue/489/0x83"
+msgid "dialogue/489/0x83"
+msgstr "Soldado del Reino 1\nLa señal ha durado solo\nun instante..."
+
+msgctxt "dialogue/489/0xb1"
+msgid "dialogue/489/0xb1"
+msgstr "Soldado del Reino 1\n¡...! ¡Detectamos otra\nvibración\nespaciotemporal!"
+
+msgctxt "dialogue/489/0xe9"
+msgid "dialogue/489/0xe9\n"
+msgstr "Comandante del Reino\n¿¡Qué!?\n"
+
+msgctxt "dialogue/489/0x106"
+msgid "dialogue/489/0x106"
+msgstr "Soldado del Reino 1\nSeguramente sea el mismo\nespacio-tiempo."
+
+msgctxt "dialogue/489/0x134"
+msgid "dialogue/489/0x134"
+msgstr "Comandante del Reino\n¡Aviso urgente al\npríncipe y los demás!\n¡Rápido!"
+
+msgctxt "dialogue/489/0x168"
+msgid "dialogue/489/0x168"
+msgstr "Soldado del Reino 2\n¡Sí, señor!"
+
+msgctxt "dialogue/490/0xc"
+msgid "dialogue/490/0xc"
+msgstr "Jack\nPríncipe, han detectado\nuna vibración\nespaciotemporal."
+
+msgctxt "dialogue/490/0x49"
+msgid "dialogue/490/0x49"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/490/0x6a"
+msgid "dialogue/490/0x6a"
+msgstr "Jack\nPero se han detectado dos\nvibraciones. Y ambas\nvan al mismo destino."
+
+msgctxt "dialogue/490/0xbb"
+msgid "dialogue/490/0xbb"
+msgstr "Regina\n¿Qué significa eso?"
+
+msgctxt "dialogue/490/0xe5"
+msgid "dialogue/490/0xe5"
+msgstr "Jack\nNo sabría decirlo. Pero\ndebemos suponer que ha\nhabido algún movimiento."
+
+msgctxt "dialogue/490/0x13e"
+msgid "dialogue/490/0x13e"
+msgstr "Arth\nDiscutirlo aquí no\nsirve de nada."
+
+msgctxt "dialogue/490/0x170"
+msgid "dialogue/490/0x170"
+msgstr "Jack\nCierto. Príncipe, en\ncuanto estemos listos,\npartamos."
+
+msgctxt "dialogue/491/0xc"
+msgid "dialogue/491/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/491/0x2d"
+msgid "dialogue/491/0x2d"
+msgstr "Regina\n¿Dónde... estamos?"
+
+msgctxt "dialogue/491/0x5d"
+msgid "dialogue/491/0x5d"
+msgstr "Arth\n...No lo sé. ¿Jack?"
+
+msgctxt "dialogue/491/0x91"
+msgid "dialogue/491/0x91"
+msgstr "Jack\nNi idea. Nunca había\nvisto un lugar así."
+
+msgctxt "dialogue/491/0xcc"
+msgid "dialogue/491/0xcc"
+msgstr "Jack\nPero quedarnos aquí no\nsirve de nada. Exploremos\nlos alrededores."
+
+msgctxt "dialogue/492/0xc"
+msgid "dialogue/492/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/492/0x2d"
+msgid "dialogue/492/0x2d"
+msgstr "Arth\n¿¡Un Sleeper!?"
+
+msgctxt "dialogue/492/0x59"
+msgid "dialogue/492/0x59"
+msgstr "Jack\n¡No! ¡Nunca había visto\nun Zoid como este!"
+
+msgctxt "dialogue/492/0x9d"
+msgid "dialogue/492/0x9d"
+msgstr "Regina\n¡¡Es demasiado rápido!!"
+
+msgctxt "dialogue/492/0xcb"
+msgid "dialogue/492/0xcb"
+msgstr "Jack\n¡¿Cómo?! ¡¿Un cañón de\npartículas cargadas a\nesta distancia?!\n¡¡No podemos esquivarlo!!"
+
+msgctxt "dialogue/492/0x11b"
+msgid "dialogue/492/0x11b"
+msgstr "{name}\n¡¡¡!!!"
+
+msgctxt "dialogue/493/0xc"
+msgid "dialogue/493/0xc"
+msgstr "Alster\n¡Por aquí, Fury!"
+
+msgctxt "dialogue/494/0xc"
+msgid "dialogue/494/0xc"
+msgstr "Alster\nTsk, me he confiado..."
+
+msgctxt "dialogue/494/0x38"
+msgid "dialogue/494/0x38"
+msgstr "Alster\n¿Estás bien, Liger Zero?"
+
+msgctxt "dialogue/495/0xc"
+msgid "dialogue/495/0xc"
+msgstr "Jack\n¿Se encuentra bien?"
+
+msgctxt "dialogue/495/0x38"
+msgid "dialogue/495/0x38"
+msgstr "Alster\nParece que no puede\nmoverse... ¿Y vosotros\nestáis bien?"
+
+msgctxt "dialogue/495/0x8f"
+msgid "dialogue/495/0x8f"
+msgstr "Jack\nSí, gracias por la ayuda.\n¿Quién es usted?"
+
+msgctxt "dialogue/495/0xc5"
+msgid "dialogue/495/0xc5"
+msgstr "Alster\nCuando preguntas el\nnombre de alguien, antes\nte presentas tú, ¿no?"
+
+msgctxt "dialogue/495/0x10a"
+msgid "dialogue/495/0x10a"
+msgstr "Jack\nDisculpe. Yo soy Jack.\nEllos son Arth y Regina."
+
+msgctxt "dialogue/495/0x157"
+msgid "dialogue/495/0x157"
+msgstr "Jack\nY este es... eh...\n{name}."
+
+msgctxt "dialogue/495/0x19c"
+msgid "dialogue/495/0x19c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/495/0x1bd"
+msgid "dialogue/495/0x1bd"
+msgstr "Alster\nYo me llamo Alster. Vivo\nen una aldea cercana."
+
+msgctxt "dialogue/495/0x203"
+msgid "dialogue/495/0x203"
+msgstr "Regina\nOiga, Alster..."
+
+msgctxt "dialogue/495/0x233"
+msgid "dialogue/495/0x233"
+msgstr "Alster\nPuedes tutearme."
+
+msgctxt "dialogue/495/0x263"
+msgid "dialogue/495/0x263"
+msgstr "Arth\nAlster, ¿qué era eso?"
+
+msgctxt "dialogue/495/0x295"
+msgid "dialogue/495/0x295"
+msgstr "Alster\n..."
+
+msgctxt "dialogue/495/0x2ad"
+msgid "dialogue/495/0x2ad"
+msgstr "Alster\nEso era el Berserk Fury.\nUn Zoid brutal que vino\ndel mundo subterráneo."
+
+msgctxt "dialogue/495/0x302"
+msgid "dialogue/495/0x302"
+msgstr "Alster\nÚltimamente estaba\ntranquilo, pero ha vuelto\na dar guerra..."
+
+msgctxt "dialogue/495/0x357"
+msgid "dialogue/495/0x357"
+msgstr "Alster\nY vosotros, ¿qué hacéis\npor aquí?"
+
+msgctxt "dialogue/495/0x3a4"
+msgid "dialogue/495/0x3a4"
+msgstr "Jack\nPues buscamos a alguien.\n¿Ha visto últimamente a\nalguien sospechoso?"
+
+msgctxt "dialogue/495/0x401"
+msgid "dialogue/495/0x401"
+msgstr "Alster\nMmm, pues no. Pero si\nvolvemos a la aldea, a\nlo mejor averiguamos\nalgo."
+
+msgctxt "dialogue/495/0x460"
+msgid "dialogue/495/0x460"
+msgstr "Jack\nEn cualquier caso,\nllevemos al Liger Zero a\nun lugar seguro."
+
+msgctxt "dialogue/495/0x4ab"
+msgid "dialogue/495/0x4ab"
+msgstr "Alster\nGracias. Si me ayudáis a\nllevarlo a mi aldea, os\nlo agradecería."
+
+msgctxt "dialogue/495/0x4f2"
+msgid "dialogue/495/0x4f2"
+msgstr "Regina\nNos has salvado, es lo\nmínimo que podemos hacer."
+
+msgctxt "dialogue/496/0x3"
+msgid "dialogue/496/0x3"
+msgstr "Aldeano\n¡Hombre, Alster! Gracias\npor patrullar siempre."
+
+msgctxt "dialogue/496/0x3c"
+msgid "dialogue/496/0x3c"
+msgstr "Aldeano\n¿Alguien sospechoso?\n¿Te refieres a los que\nvienen contigo?"
+
+msgctxt "dialogue/497/0x3"
+msgid "dialogue/497/0x3"
+msgstr "Niño de la aldea\n¡Alster! ¡La próxima vez\nllévame al bosque!"
+
+msgctxt "dialogue/497/0x40"
+msgid "dialogue/497/0x40"
+msgstr "Niño de la aldea\n¡Llévameee!"
+
+msgctxt "dialogue/498/0x3"
+msgid "dialogue/498/0x3"
+msgstr "Aldeano\n¿Alguien sospechoso?\nPues... no, no he visto\na nadie."
+
+msgctxt "dialogue/499/0x3"
+msgid "dialogue/499/0x3"
+msgstr "Aldeano\nBuen trabajo, Alster."
+
+msgctxt "dialogue/500/0x3"
+msgid "dialogue/500/0x3"
+msgstr "Aldeano\n¿Alguien sospechoso?\nNo, no he visto a nadie."
+
+msgctxt "dialogue/500/0x2e"
+msgid "dialogue/500/0x2e"
+msgstr "Aldeano\nPor cierto, han llegado\ntropas imperiales al\nbosque. ¿Empezará otra\nvez la guerra?"
+
+msgctxt "dialogue/501/0xc"
+msgid "dialogue/501/0xc"
+msgstr "Alster\n¡Eh, Blue Gem! Anda,\n¿Palty también estaba\naquí?"
+
+msgctxt "dialogue/501/0x51"
+msgid "dialogue/501/0x51"
+msgstr "Palty\n¡Ah, Alster!\nBlue Gem, es Alster."
+
+msgctxt "dialogue/501/0x98"
+msgid "dialogue/501/0x98\n"
+msgstr "Blue Gem\n¿Hm? ¿Alster? ¿Qué pasa?\n"
+
+msgctxt "dialogue/501/0xd9"
+msgid "dialogue/501/0xd9"
+msgstr "Alster\nHan dejado hecho polvo\nal Liger Zero..."
+
+msgctxt "dialogue/501/0x119"
+msgid "dialogue/501/0x119"
+msgstr "Blue Gem\n¡Eso es grave!"
+
+msgctxt "dialogue/502/0xc"
+msgid "dialogue/502/0xc"
+msgstr "Palty\nAnda, ¿tenemos visita?"
+
+msgctxt "dialogue/502/0x38"
+msgid "dialogue/502/0x38"
+msgstr "Regina\nHola."
+
+msgctxt "dialogue/502/0x5e"
+msgid "dialogue/502/0x5e"
+msgstr "Jack\nMucho gusto."
+
+msgctxt "dialogue/502/0x8f"
+msgid "dialogue/502/0x8f"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/503/0xc"
+msgid "dialogue/503/0xc"
+msgstr "Blue Gem\nTranquilo. Los daños son\ngraves, pero no corre\npeligro. Le he hecho una\ncura de urgencia."
+
+msgctxt "dialogue/503/0x63"
+msgid "dialogue/503/0x63"
+msgstr "Alster\nBueno, menos mal.\nAlgo es algo..."
+
+msgctxt "dialogue/503/0x91"
+msgid "dialogue/503/0x91"
+msgstr "Alster\nEstos están buscando a\nalguien. ¿Sabes algo?"
+
+msgctxt "dialogue/503/0xe4"
+msgid "dialogue/503/0xe4"
+msgstr "Blue Gem\nNo, no he oído nada.\nSiento no poder ayudaros."
+
+msgctxt "dialogue/503/0x135"
+msgid "dialogue/503/0x135"
+msgstr "Alster\nPor cierto, aunque no lo\nparezca, Blue Gem es\ningeniero de Zoids."
+
+msgctxt "dialogue/503/0x182"
+msgid "dialogue/503/0x182"
+msgstr "Alster\nYa que habéis venido,\n¿por qué no le dejáis ver\nvuestros Zoids? Es muy\nbueno, os lo aseguro."
+
+msgctxt "dialogue/503/0x1e3"
+msgid "dialogue/503/0x1e3"
+msgstr "Jack\nNo, por favor. No hace\nfalta que se moleste\ntanto..."
+
+msgctxt "dialogue/503/0x22c"
+msgid "dialogue/503/0x22c"
+msgstr "Blue Gem\nNo es molestia. De vez\nen cuando me apetece\ntrastear con otros\nZoids."
+
+msgctxt "dialogue/503/0x283"
+msgid "dialogue/503/0x283"
+msgstr "Arth\nPues adelante."
+
+msgctxt "dialogue/503/0x2a9"
+msgid "dialogue/503/0x2a9"
+msgstr "Regina\n¡Oye, Arth! ¿Y si te\ncortas un poco?"
+
+msgctxt "dialogue/503/0x2ee"
+msgid "dialogue/503/0x2ee"
+msgstr "Blue Gem\nJa, ja, ja."
+
+msgctxt "dialogue/503/0x308"
+msgid "dialogue/503/0x308"
+msgstr "Blue Gem\nPor cierto, ¿aquel Zoid\ntan poco común es tuyo?"
+
+msgctxt "dialogue/503/0x354"
+msgid "dialogue/503/0x354"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/503/0x375"
+msgid "dialogue/503/0x375"
+msgstr "Blue Gem\n¡No me digas! ¡Vaya, qué\nilusión me hace!"
+
+msgctxt "dialogue/504/0xc"
+msgid "dialogue/504/0xc"
+msgstr "Alster\nVaya, ya le ha entrado la\nfiebre. Un Zoid raro y\npierde la cabeza."
+
+msgctxt "dialogue/505/0xc"
+msgid "dialogue/505/0xc"
+msgstr "Regina\n¿¡Nos atacan!?"
+
+msgctxt "dialogue/505/0x32"
+msgid "dialogue/505/0x32"
+msgstr "Jack\n¡No lo sé!"
+
+msgctxt "dialogue/506/0xc"
+msgid "dialogue/506/0xc"
+msgstr "Arth\nParece que van a bajar\npor allí."
+
+msgctxt "dialogue/506/0x3e"
+msgid "dialogue/506/0x3e"
+msgstr "Alster\n¿¡Hacia la plaza del\npueblo!?"
+
+msgctxt "dialogue/506/0x6e"
+msgid "dialogue/506/0x6e"
+msgstr "Jack\n¡Vamos a ver!"
+
+msgctxt "dialogue/507/0x3"
+msgid "dialogue/507/0x3"
+msgstr "Militar imperial\nAnte los daños causados\npor el Berserk Fury, se\nha decidido llevar a\ncabo una operación de\nexterminio a gran escala."
+
+msgctxt "dialogue/507/0x56"
+msgid "dialogue/507/0x56"
+msgstr "Militar imperial\nSe quemarán todos los\nbosques de la zona para\nacabar con el Berserk\nFury."
+
+msgctxt "dialogue/507/0xa3"
+msgid "dialogue/507/0xa3"
+msgstr "Militar imperial\nEs peligroso, así que\nrogamos a los residentes\nque abandonen la zona\ncuanto antes."
+
+msgctxt "dialogue/507/0xea"
+msgid "dialogue/507/0xea"
+msgstr "Militar imperial\nRepetimos: rogamos a los\nresidentes que abandonen\nla zona cuanto antes."
+
+msgctxt "dialogue/507/0x13d"
+msgid "dialogue/507/0x13d"
+msgstr "Alster\n¿¡Quemar el bosque!?\n¡Ni hablar!"
+
+msgctxt "dialogue/507/0x178"
+msgid "dialogue/507/0x178"
+msgstr "Alster\nSi hacen eso... ¡en toda\nesta zona no quedará ni\nun ser vivo!"
+
+msgctxt "dialogue/507/0x1d1"
+msgid "dialogue/507/0x1d1"
+msgstr "Alster\n¿¡Y qué va a ser de este\npueblo!?"
+
+msgctxt "dialogue/507/0x217"
+msgid "dialogue/507/0x217"
+msgstr "Jack\nSea como sea, hablemos\ncon el comandante.\nUna operación tan burda\nno merece ese nombre."
+
+msgctxt "dialogue/507/0x27a"
+msgid "dialogue/507/0x27a"
+msgstr "Regina\nEs verdad. El ejército\nimperial es como cierta\npersona: siempre pasa de\nun extremo al otro."
+
+msgctxt "dialogue/507/0x2d5"
+msgid "dialogue/507/0x2d5"
+msgstr "Arth\n...Por esta vez, estoy\nde acuerdo."
+
+msgctxt "dialogue/507/0x30a"
+msgid "dialogue/507/0x30a"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/507/0x32b"
+msgid "dialogue/507/0x32b"
+msgstr "Alster\n¡Maldición! ¿Dónde está\nel comandante?"
+
+msgctxt "dialogue/508/0xc"
+msgid "dialogue/508/0xc"
+msgstr "Alster\n¡Eh!\n¡Ese es...!"
+
+msgctxt "dialogue/508/0x2f"
+msgid "dialogue/508/0x2f"
+msgstr "Alster\n¡Oye!\n¡¡Solid!!"
+
+msgctxt "dialogue/508/0x62"
+msgid "dialogue/508/0x62"
+msgstr "Solid\n¡Hm!\nAh, eres tú, Alster."
+
+msgctxt "dialogue/508/0x93"
+msgid "dialogue/508/0x93"
+msgstr "Alster\n¿¡Qué significa esto!?\n¿¡Quemar el bosque!?"
+
+msgctxt "dialogue/508/0xe2"
+msgid "dialogue/508/0xe2"
+msgstr "Solid\nAsí es, Alster. Tal como\ndices: quemaremos el\nbosque."
+
+msgctxt "dialogue/508/0x12f"
+msgid "dialogue/508/0x12f"
+msgstr "Alster\nSi hacéis eso, ¿qué va\na ser de este bosque?"
+
+msgctxt "dialogue/508/0x172"
+msgid "dialogue/508/0x172"
+msgstr "Alster\n¡Y el pueblo! ¿¡Tú estás\nconforme con esto!?"
+
+msgctxt "dialogue/508/0x1bf"
+msgid "dialogue/508/0x1bf"
+msgstr "Solid\nLas misiones no se\ndiscuten. El deber de un\nmilitar es cumplir las\nórdenes que recibe."
+
+msgctxt "dialogue/508/0x210"
+msgid "dialogue/508/0x210"
+msgstr "Solid\nAdemás, los daños del\nBerserk Fury se están\nextendiendo a los\npueblos de alrededor."
+
+msgctxt "dialogue/508/0x25d"
+msgid "dialogue/508/0x25d"
+msgstr "Solid\nNo podemos permitir que\nlos daños sigan\naumentando."
+
+msgctxt "dialogue/508/0x295"
+msgid "dialogue/508/0x295"
+msgstr "Solid\nPara ello, algunos\nsacrificios son\ninevitables."
+
+msgctxt "dialogue/508/0x2e2"
+msgid "dialogue/508/0x2e2"
+msgstr "Alster\n¡Bah! ¡Sigues siendo tan\ncabezota como siempre!"
+
+msgctxt "dialogue/508/0x322"
+msgid "dialogue/508/0x322"
+msgstr "Solid\nDi lo que quieras. ¡La\noperación sigue en pie!"
+
+msgctxt "dialogue/509/0xc"
+msgid "dialogue/509/0xc"
+msgstr "Solid\n¿¡Qué pretendes!? ¿Eres\nvecino de este pueblo?"
+
+msgctxt "dialogue/510/0xc"
+msgid "dialogue/510/0xc"
+msgstr "Regina\n¿Nos dejaría a nosotros\nencargarnos de acabar\ncon el Berserk Fury?"
+
+msgctxt "dialogue/510/0x61"
+msgid "dialogue/510/0x61"
+msgstr "Solid\n¿Hm? ¿Y vosotros quiénes\nsois? Si no tenéis nada\nque ver, os ruego que no\nos metáis."
+
+msgctxt "dialogue/510/0xaa"
+msgid "dialogue/510/0xaa"
+msgstr "Alster\n¡Yo también soy civil!"
+
+msgctxt "dialogue/510/0xda"
+msgid "dialogue/510/0xda"
+msgstr "Solid\nTú eres el dueño de un\nZoid importante para el\nImperio. No eres ajeno\na esto."
+
+msgctxt "dialogue/510/0x12d"
+msgid "dialogue/510/0x12d"
+msgstr "Alster\nPues estos son amigos\nmíos. Así que tampoco\nson ajenos, ¿no?"
+
+msgctxt "dialogue/510/0x17e"
+msgid "dialogue/510/0x17e"
+msgstr "Solid\nNo me vengas con\nexcusas."
+
+msgctxt "dialogue/510/0x1a8"
+msgid "dialogue/510/0x1a8"
+msgstr "Alster\n¡Excusas o no, tengo\nrazón!"
+
+msgctxt "dialogue/510/0x1da"
+msgid "dialogue/510/0x1da"
+msgstr "Solid\nEn fin, está bien. ¿Así\nque vosotros vais a\nacabar con el Berserk\nFury?"
+
+msgctxt "dialogue/510/0x23b"
+msgid "dialogue/510/0x23b"
+msgstr "Jack\nTengo entendido que el\nBerserk Fury es un Zoid\ndel mundo subterráneo."
+
+msgctxt "dialogue/510/0x28a"
+msgid "dialogue/510/0x28a"
+msgstr "Alster\nSí, al principio vino de\nallí, pero se instaló\naquí cerca..."
+
+msgctxt "dialogue/510/0x2d9"
+msgid "dialogue/510/0x2d9"
+msgstr "Alster\nPero es bastante\nescurridizo..."
+
+msgctxt "dialogue/510/0x319"
+msgid "dialogue/510/0x319"
+msgstr "Jack\nEn ese caso, habría que\ncortarlo de raíz."
+
+msgctxt "dialogue/510/0x357"
+msgid "dialogue/510/0x357"
+msgstr "Arth\nAunque sea un Zoid\nsalvaje, necesita\nabastecerse."
+
+msgctxt "dialogue/510/0x38f"
+msgid "dialogue/510/0x38f"
+msgstr "Solid\nYa veo. Queréis encontrar\nsu guarida y atacarla."
+
+msgctxt "dialogue/510/0x3d6"
+msgid "dialogue/510/0x3d6"
+msgstr "Jack\nExacto. Si lo cortamos de\nraíz, no hay que temer\nque vaya a más."
+
+msgctxt "dialogue/510/0x42f"
+msgid "dialogue/510/0x42f"
+msgstr "Solid\nEn teoría, es cierto."
+
+msgctxt "dialogue/510/0x459"
+msgid "dialogue/510/0x459"
+msgstr "Solid\nPero el ejército ya\nestudió esa operación.\n¿Queréis saber cuántas\nposibilidades de éxito\nle dimos?"
+
+msgctxt "dialogue/510/0x4b0"
+msgid "dialogue/510/0x4b0"
+msgstr "Alster\n¡Eso no se sabe hasta que\nse intenta!"
+
+msgctxt "dialogue/510/0x4f6"
+msgid "dialogue/510/0x4f6"
+msgstr "Solid\nNo has cambiado nada."
+
+msgctxt "dialogue/510/0x514"
+msgid "dialogue/510/0x514"
+msgstr "Solid\nMuy bien. Antes de\niniciar la operación,\npondremos en práctica\nel plan que proponen\nustedes."
+
+msgctxt "dialogue/510/0x563"
+msgid "dialogue/510/0x563"
+msgstr "Solid\nPero si la operación\nfracasa, quemaremos el\nbosque de inmediato."
+
+msgctxt "dialogue/510/0x5a4"
+msgid "dialogue/510/0x5a4"
+msgstr "Solid\nOtra cosa: yo también\nparticiparé en la\noperación."
+
+msgctxt "dialogue/510/0x5d6"
+msgid "dialogue/510/0x5d6"
+msgstr "Solid\nNo puedo permitir que\nsolo los civiles corran\npeligro."
+
+msgctxt "dialogue/510/0x621"
+msgid "dialogue/510/0x621"
+msgstr "Alster\nSi quieres venir con\nnosotros, dilo sin más."
+
+msgctxt "dialogue/510/0x66e"
+msgid "dialogue/510/0x66e"
+msgstr "Solid\n¿Tenéis alguna objeción?"
+
+msgctxt "dialogue/510/0x6a2"
+msgid "dialogue/510/0x6a2"
+msgstr "Arth\nSí, por nuestra parte\nno hay problema."
+
+msgctxt "dialogue/510/0x6d2"
+msgid "dialogue/510/0x6d2"
+msgstr "Solid\nBien, cuento con\nvosotros."
+
+msgctxt "dialogue/510/0x6f6"
+msgid "dialogue/510/0x6f6"
+msgstr "Solid\nPues vamos ya mismo al\ndestacamento del\nsuroeste."
+
+msgctxt "dialogue/510/0x739"
+msgid "dialogue/510/0x739"
+msgstr "Solid\nSerá nuestro cuartel\ngeneral. ¡Desde allí\nacabaremos con el\nBerserk Fury!"
+
+msgctxt "dialogue/510/0x788"
+msgid "dialogue/510/0x788"
+msgstr "Regina\nQué bien lo tenías todo\npreparado, ¿eh?"
+
+msgctxt "dialogue/510/0x7bc"
+msgid "dialogue/510/0x7bc"
+msgstr "Jack\nQuién sabe, quizá fuera\nél quien propuso al\nejército la operación\nde exterminio."
+
+msgctxt "dialogue/510/0x80d"
+msgid "dialogue/510/0x80d"
+msgstr "Alster\n¡Muy bieeen, en marcha!"
+
+msgctxt "dialogue/511/0xc"
+msgid "dialogue/511/0xc"
+msgstr "Palty\nPor cierto, Alster, ¿qué\nZoid vas a usar?"
+
+msgctxt "dialogue/511/0x50"
+msgid "dialogue/511/0x50"
+msgstr "Alster\n¡Ah, es verdad! Zero\nestá en reparación..."
+
+msgctxt "dialogue/511/0x92"
+msgid "dialogue/511/0x92"
+msgstr "Solid\nDesde luego... Por eso\nno se te puede confiar\nZero..."
+
+msgctxt "dialogue/511/0xe5"
+msgid "dialogue/511/0xe5"
+msgstr "Alster\n¡No hables como si fuera\ntu Zoid!"
+
+msgctxt "dialogue/511/0x127"
+msgid "dialogue/511/0x127"
+msgstr "Solid\n...No queda otra.\nUsa nuestro Liger Zero."
+
+msgctxt "dialogue/511/0x17a"
+msgid "dialogue/511/0x17a"
+msgstr "Alster\n¿Cómo que vuestro...\nZero?"
+
+msgctxt "dialogue/511/0x1b0"
+msgid "dialogue/511/0x1b0"
+msgstr "Solid\nEl Liger Zero X. Lleva\nequipada la nueva\narmadura de nuestro\nejército."
+
+msgctxt "dialogue/511/0x1f7"
+msgid "dialogue/511/0x1f7"
+msgstr "Solid\nAunque aún es un\nprototipo..."
+
+msgctxt "dialogue/511/0x229"
+msgid "dialogue/511/0x229"
+msgstr "Alster\n¿Por qué me dejas un\nmodelo tan nuevo...?"
+
+msgctxt "dialogue/511/0x257"
+msgid "dialogue/511/0x257"
+msgstr "Alster\n¿Tú no querías pilotar\na Zero?"
+
+msgctxt "dialogue/511/0x2a2"
+msgid "dialogue/511/0x2a2"
+msgstr "Solid\nQué remedio. El Liger\nZero elige a su piloto..."
+
+msgctxt "dialogue/511/0x2e1"
+msgid "dialogue/511/0x2e1"
+msgstr "Solid\nElegir la mejor\nestrategia. Es lo que\ndebe hacer un militar."
+
+msgctxt "dialogue/511/0x321"
+msgid "dialogue/511/0x321"
+msgstr "Alster\nSi es así, te lo tomo\nprestado. Aunque el más\nfuerte es mi Zero, ¿eh?"
+
+msgctxt "dialogue/511/0x378"
+msgid "dialogue/511/0x378"
+msgstr "Palty\nEn el fondo estás\nagradecido, ¿a que sí?"
+
+msgctxt "dialogue/511/0x3bf"
+msgid "dialogue/511/0x3bf"
+msgstr "Alster\n...¡Bueno, pues en\nmarcha!"
+
+msgctxt "dialogue/511/0x3fc"
+msgid "dialogue/511/0x3fc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/511/0x414"
+msgid "dialogue/511/0x414"
+msgstr "¡Alster y Solid se han\nunido al grupo!"
+
+msgctxt "dialogue/512/0xc"
+msgid "dialogue/512/0xc"
+msgstr "Solid\nPrimero, vayamos al\ncampamento donde\nestamos destacados."
+
+msgctxt "dialogue/513/0x3"
+msgid "dialogue/513/0x3"
+msgstr "Soldado imperial\n¡Buen trabajo, capitán\nSolid!"
+
+msgctxt "dialogue/513/0x3d"
+msgid "dialogue/513/0x3d"
+msgstr "Alster\nOye, ¿tú no eras\nsargento...?"
+
+msgctxt "dialogue/513/0x7d"
+msgid "dialogue/513/0x7d"
+msgstr "Solid\n¿Creías que me quedaría\nen sargento?"
+
+msgctxt "dialogue/513/0xaf"
+msgid "dialogue/513/0xaf"
+msgstr "Solid\nJe. Me ascendieron por\nmis méritos con la\ninformación del mundo\nsubterráneo."
+
+msgctxt "dialogue/513/0xf2"
+msgid "dialogue/513/0xf2"
+msgstr "Solid\nY bien, ¿cuál es la\nsituación del Berserk\nFury?"
+
+msgctxt "dialogue/513/0x12b"
+msgid "dialogue/513/0x12b"
+msgstr "Soldado imperial\n¡Sí, señor! Por ahora no\nse observa gran\nactividad."
+
+msgctxt "dialogue/513/0x163"
+msgid "dialogue/513/0x163"
+msgstr "Soldado imperial\nAdemás, hemos rescatado\nal piloto de un Zoid que\nel Berserk Fury estaba\natacando."
+
+msgctxt "dialogue/513/0x1c8"
+msgid "dialogue/513/0x1c8"
+msgstr "Solid\n¿Un piloto de Zoids?\n¿Sabemos quién es?"
+
+msgctxt "dialogue/513/0x202"
+msgid "dialogue/513/0x202"
+msgstr "Soldado imperial\nVerá... Solo sabemos que\nes una mujer. No ha\nabierto la boca desde\nentonces..."
+
+msgctxt "dialogue/513/0x257"
+msgid "dialogue/513/0x257"
+msgstr "Arth\n¿Una mujer...?"
+
+msgctxt "dialogue/513/0x27b"
+msgid "dialogue/513/0x27b"
+msgstr "Jack\n¿No será...?"
+
+msgctxt "dialogue/513/0x2a3"
+msgid "dialogue/513/0x2a3"
+msgstr "Regina\n¡Fran!"
+
+msgctxt "dialogue/513/0x2c7"
+msgid "dialogue/513/0x2c7"
+msgstr "Solid\n¿La conocéis?"
+
+msgctxt "dialogue/513/0x2f7"
+msgid "dialogue/513/0x2f7"
+msgstr "Jack\nEs posible. ¿Nos\npermitiría verla?"
+
+msgctxt "dialogue/513/0x340"
+msgid "dialogue/513/0x340"
+msgstr "Solid\nEstá bien. Tú, tráela\na la sala de mando."
+
+msgctxt "dialogue/513/0x384"
+msgid "dialogue/513/0x384\n"
+msgstr "Soldado imperial\n¡Sí, señor!\n"
+
+msgctxt "dialogue/514/0xc"
+msgid "dialogue/514/0xc"
+msgstr "Fran\n¡V-vosotros...! ¿¡Qué\nhacéis aquí!?"
+
+msgctxt "dialogue/514/0x4f"
+msgid "dialogue/514/0x4f"
+msgstr "Arth\nAsí que eras tú, Fran."
+
+msgctxt "dialogue/514/0x83"
+msgid "dialogue/514/0x83"
+msgstr "Solid\nPor lo visto sí la\nconocíais. ¿Me la\npresentáis?"
+
+msgctxt "dialogue/514/0xdc"
+msgid "dialogue/514/0xdc"
+msgstr "Fran\nYo..."
+
+msgctxt "dialogue/514/0x100"
+msgid "dialogue/514/0x100"
+msgstr "Arth\nEs mi mujer."
+
+msgctxt "dialogue/514/0x122"
+msgid "dialogue/514/0x122"
+msgstr "Fran\n¡!"
+
+msgctxt "dialogue/514/0x13e"
+msgid "dialogue/514/0x13e"
+msgstr "Regina\n¡¿Qué?!"
+
+msgctxt "dialogue/514/0x161"
+msgid "dialogue/514/0x161"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/514/0x182"
+msgid "dialogue/514/0x182"
+msgstr "Solid\nVaya... ¿Y qué hace tu\nnovia en un sitio así?"
+
+msgctxt "dialogue/514/0x1c9"
+msgid "dialogue/514/0x1c9"
+msgstr "Arth\nEs una fanática de los\nZoids."
+
+msgctxt "dialogue/514/0x1ed"
+msgid "dialogue/514/0x1ed"
+msgstr "Arth\nEstaría investigando\nsobre el Berserk Fury."
+
+msgctxt "dialogue/514/0x234"
+msgid "dialogue/514/0x234"
+msgstr "Solid\n...¿Es así?"
+
+msgctxt "dialogue/514/0x262"
+msgid "dialogue/514/0x262"
+msgstr "Fran\nEl Berserk Fury es un\nZoid muy especial...\nSu núcleo Zoid..."
+
+msgctxt "dialogue/514/0x2c5"
+msgid "dialogue/514/0x2c5"
+msgstr "Solid\n...El núcleo Zoid... Ya\nveo. En fin, está bien.\nDescansa tranquila."
+
+msgctxt "dialogue/514/0x31e"
+msgid "dialogue/514/0x31e"
+msgstr "Solid\nTengo que hablar con los\nde la base, así que os\ndejo."
+
+msgctxt "dialogue/514/0x35d"
+msgid "dialogue/514/0x35d"
+msgstr "Solid\nVendré a avisaros cuando\nsea la hora de partir.\nTenedlo presente."
+
+msgctxt "dialogue/515/0xc"
+msgid "dialogue/515/0xc"
+msgstr "Alster\nTan formal como siempre."
+
+msgctxt "dialogue/515/0x44"
+msgid "dialogue/515/0x44"
+msgstr "Jack\nPero ¿cómo es que el\nBerserk Fury te atacó?\n¿No tenías un equipo de\napoyo?"
+
+msgctxt "dialogue/515/0xa9"
+msgid "dialogue/515/0xa9"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/515/0xcf"
+msgid "dialogue/515/0xcf"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/515/0xf5"
+msgid "dialogue/515/0xf5"
+msgstr "Fran\nEsta vez... he venido\npor mi cuenta..."
+
+msgctxt "dialogue/515/0x12b"
+msgid "dialogue/515/0x12b"
+msgstr "Regina\n¿¡Por tu cuenta!? ¿Has\nvenido sin permiso?"
+
+msgctxt "dialogue/515/0x166"
+msgid "dialogue/515/0x166"
+msgstr "Fran\nPor vuestra culpa he\nfracasado una y otra vez.\nNo me queda margen."
+
+msgctxt "dialogue/515/0x1ad"
+msgid "dialogue/515/0x1ad"
+msgstr "Fran\n¡Arth, yo no pararé\nhasta acabar contigo!"
+
+msgctxt "dialogue/515/0x1f8"
+msgid "dialogue/515/0x1f8"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/515/0x21e"
+msgid "dialogue/515/0x21e"
+msgstr "Fran\nPero ya no hay nada que\nhacer. Me lancé por mi\ncuenta y al final no he\nconseguido nada."
+
+msgctxt "dialogue/515/0x265"
+msgid "dialogue/515/0x265"
+msgstr "Fran\nAunque volviera, el\nEmperador solo me\nejecutaría."
+
+msgctxt "dialogue/515/0x2a2"
+msgid "dialogue/515/0x2a2"
+msgstr "Fran\nAunque tampoco tengo\nforma de volver..."
+
+msgctxt "dialogue/515/0x2de"
+msgid "dialogue/515/0x2de"
+msgstr "Arth\nEntonces ven conmigo."
+
+msgctxt "dialogue/515/0x30a"
+msgid "dialogue/515/0x30a"
+msgstr "Fran\n¿Q-qué...?"
+
+msgctxt "dialogue/515/0x32e"
+msgid "dialogue/515/0x32e"
+msgstr "Fran\n¿¡Por qué contigo!? ¡Tú\nlo mataste a él, que\nademás era tu mejor\namigo!"
+
+msgctxt "dialogue/515/0x394"
+msgid "dialogue/515/0x394"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/515/0x3b5"
+msgid "dialogue/515/0x3b5"
+msgstr "Regina\n¡!"
+
+msgctxt "dialogue/515/0x3d3"
+msgid "dialogue/515/0x3d3"
+msgstr "Jack\n¡!"
+
+msgctxt "dialogue/515/0x3f1"
+msgid "dialogue/515/0x3f1"
+msgstr "Alster\n¡Vaya! Esto se ha puesto\nmuy serio..."
+
+msgctxt "dialogue/515/0x433"
+msgid "dialogue/515/0x433"
+msgstr "Arth\nSi estás a mi lado,\npodrás matarme cuando\nquieras. No es un mal\ntrato para ti."
+
+msgctxt "dialogue/515/0x488"
+msgid "dialogue/515/0x488"
+msgstr "Arth\n¿O piensas quedarte\naquí toda la vida?"
+
+msgctxt "dialogue/515/0x4c4"
+msgid "dialogue/515/0x4c4"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/515/0x4f0"
+msgid "dialogue/515/0x4f0"
+msgstr "Fran\n...... Déjame\npensarlo un poco..."
+
+msgctxt "dialogue/516/0xc"
+msgid "dialogue/516/0xc"
+msgstr "Solid\nSiento la espera.\nBien, es hora de partir."
+
+msgctxt "dialogue/516/0x4d"
+msgid "dialogue/516/0x4d"
+msgstr "Fran\nYo también voy."
+
+msgctxt "dialogue/516/0x77"
+msgid "dialogue/516/0x77"
+msgstr "Solid\nPero con esa herida,\n¿no te será imposible\ncombatir?"
+
+msgctxt "dialogue/516/0xbb"
+msgid "dialogue/516/0xbb"
+msgstr "Fran\nAl menos puedo guiaros.\nMe atacaron cerca de su\nguarida."
+
+msgctxt "dialogue/516/0x10c"
+msgid "dialogue/516/0x10c"
+msgstr "Fran\nSeguramente, al sur de\naquí hay una base\nantigua. Es ahí..."
+
+msgctxt "dialogue/516/0x167"
+msgid "dialogue/516/0x167"
+msgstr "Solid\n¡Claro! Ahí estaba la\nbase de combustible del\nantiguo Imperio..."
+
+msgctxt "dialogue/516/0x19d"
+msgid "dialogue/516/0x19d"
+msgstr "Solid\nY vosotros, ¿estáis de\nacuerdo en que ella nos\nacompañe?"
+
+msgctxt "dialogue/516/0x1e4"
+msgid "dialogue/516/0x1e4"
+msgstr "Arth\nSí. Irá en mi Zoid."
+
+msgctxt "dialogue/516/0x21a"
+msgid "dialogue/516/0x21a"
+msgstr "Fran\n...Arth."
+
+msgctxt "dialogue/516/0x240"
+msgid "dialogue/516/0x240"
+msgstr "Solid\nBien, pues en marcha.\n¡Objetivo: la guarida\ndel Berserk Fury!"
+
+msgctxt "dialogue/517/0xc"
+msgid "dialogue/517/0xc"
+msgstr "Fran\nAquí es... Esta es su\nguarida..."
+
+msgctxt "dialogue/518/0xc"
+msgid "dialogue/518/0xc"
+msgstr "Arth\nAsí que esta debe de ser\nsu madriguera..."
+
+msgctxt "dialogue/518/0x4e"
+msgid "dialogue/518/0x4e"
+msgstr "Solid\nBien, exterminaremos al\nBerserk Fury sin demora."
+
+msgctxt "dialogue/518/0x8b"
+msgid "dialogue/518/0x8b"
+msgstr "Solid\n¡Que nadie baje la\nguardia!"
+
+msgctxt "dialogue/518/0xbb"
+msgid "dialogue/518/0xbb"
+msgstr "Alster\n¡Sí, déjamelo a mí!\n¡Tú sí que no bajes la\nguardia, Solid!"
+
+msgctxt "dialogue/518/0x10c"
+msgid "dialogue/518/0x10c"
+msgstr "Solid\nHmf, no hace falta que\ntú me lo digas.\n¡¡Al ataque!!"
+
+msgctxt "dialogue/519/0xc"
+msgid "dialogue/519/0xc"
+msgstr "Alster\n¡¡Lo hemos logrado!!"
+
+msgctxt "dialogue/519/0x36"
+msgid "dialogue/519/0x36"
+msgstr "Solid\nNo hay que confiarse.\nPero por un tiempo\nestaremos tranquilos."
+
+msgctxt "dialogue/519/0x83"
+msgid "dialogue/519/0x83"
+msgstr "Jack\n¿Y qué pasa con la\noperación del ejército\nimperial?"
+
+msgctxt "dialogue/519/0xbb"
+msgid "dialogue/519/0xbb"
+msgstr "Solid\nSí, queda cancelada."
+
+msgctxt "dialogue/519/0xe3"
+msgid "dialogue/519/0xe3"
+msgstr "Alster\n¡Genial! Me has salvado,\nSolid. ¡Y vosotros\ntambién!"
+
+msgctxt "dialogue/519/0x12a"
+msgid "dialogue/519/0x12a"
+msgstr "Alster\n¡Venga, volvamos a la\naldea!"
+
+msgctxt "dialogue/520/0xc"
+msgid "dialogue/520/0xc"
+msgstr "Palty\n¡Alster! ¡Bienvenidos\na casa, todos!"
+
+msgctxt "dialogue/520/0x53"
+msgid "dialogue/520/0x53"
+msgstr "Alster\n¡Palty!"
+
+msgctxt "dialogue/520/0x7b"
+msgid "dialogue/520/0x7b"
+msgstr "Palty\nBuen trabajo, Solid.\n¿No te ha dado mucha\nguerra Alster?"
+
+msgctxt "dialogue/520/0xca"
+msgid "dialogue/520/0xca"
+msgstr "Solid\nLo de siempre. No te\npreocupes."
+
+msgctxt "dialogue/520/0x100"
+msgid "dialogue/520/0x100"
+msgstr "Alster\n¡Pero bueno, vosotros\ndos!"
+
+msgctxt "dialogue/520/0x132"
+msgid "dialogue/520/0x132"
+msgstr "Palty\nJe, je, je. Solid, te\nquedarás un rato, ¿no?"
+
+msgctxt "dialogue/520/0x17d"
+msgid "dialogue/520/0x17d"
+msgstr "Solid\n...No, tengo una misión.\nSi me disculpas, me\nretiro."
+
+msgctxt "dialogue/521/0xc"
+msgid "dialogue/521/0xc"
+msgstr "Alster\nTan formal como siempre,\nel tío..."
+
+msgctxt "dialogue/521/0x46"
+msgid "dialogue/521/0x46"
+msgstr "Palty\nMejor eso que ser un\nirresponsable, ¿no?"
+
+msgctxt "dialogue/522/0xc"
+msgid "dialogue/522/0xc"
+msgstr "Arth\nFran, ¿estás bien?"
+
+msgctxt "dialogue/522/0x38"
+msgid "dialogue/522/0x38"
+msgstr "Fran\nParece que estoy un\npoco... cansada. Pero...\nestoy bien..."
+
+msgctxt "dialogue/522/0x8b"
+msgid "dialogue/522/0x8b"
+msgstr "Palty\nNo te fuerces. Descansa\nun poco en mi casa."
+
+msgctxt "dialogue/522/0xcf"
+msgid "dialogue/522/0xcf"
+msgstr "Arth\nHazle caso, Fran."
+
+msgctxt "dialogue/522/0xf7"
+msgid "dialogue/522/0xf7"
+msgstr "Fran\nSí, lo siento..."
+
+msgctxt "dialogue/523/0xc"
+msgid "dialogue/523/0xc"
+msgstr "Alster\nBueno, ¿y si vamos a ver\na Blue Gem y ponemos a\npunto los Zoids?"
+
+msgctxt "dialogue/523/0x71"
+msgid "dialogue/523/0x71"
+msgstr "Arth\nSí, buena idea."
+
+msgctxt "dialogue/523/0x99"
+msgid "dialogue/523/0x99"
+msgstr "Jack\nSí, hagámoslo."
+
+msgctxt "dialogue/524/0xc"
+msgid "dialogue/524/0xc"
+msgstr "Alster\nAnda, si es Solid. ¿Su\nmisión tenía que ver con\nBlue Gem?"
+
+msgctxt "dialogue/524/0x6f"
+msgid "dialogue/524/0x6f"
+msgstr "Blue Gem\n¿Que analice el núcleo\nZoid del Berserk Fury?"
+
+msgctxt "dialogue/524/0xb6"
+msgid "dialogue/524/0xb6"
+msgstr "Blue Gem\n¿Pero en qué estás\npensando, Solid?"
+
+msgctxt "dialogue/524/0xee"
+msgid "dialogue/524/0xee"
+msgstr "Blue Gem\n¡Ya te lo dije! ¡Nunca\nmás ayudaré a arrastrar\na los Zoids a la guerra!"
+
+msgctxt "dialogue/524/0x153"
+msgid "dialogue/524/0x153"
+msgstr "Solid\nSu mente es un tesoro\ndel Imperio. No puedo\ndejar que la desperdicie\npor sentimentalismos."
+
+msgctxt "dialogue/524/0x1a4"
+msgid "dialogue/524/0x1a4"
+msgstr "Solid\nEl Berserk Fury es un\nrival temible. ¡Hay que\nreforzar los Zoids de\nnuestro ejército!"
+
+msgctxt "dialogue/524/0x203"
+msgid "dialogue/524/0x203"
+msgstr "Blue Gem\n¿No lo derrotaron Alster\ny los demás?"
+
+msgctxt "dialogue/524/0x25a"
+msgid "dialogue/524/0x25a"
+msgstr "Solid\n¡Pero no sabemos cuándo\npuede surgir un segundo\no un tercer Berserk Fury!"
+
+msgctxt "dialogue/524/0x2bd"
+msgid "dialogue/524/0x2bd"
+msgstr "Blue Gem\n¡Eso es solo una\nposibilidad! ¡No es un\nfuturo seguro!"
+
+msgctxt "dialogue/524/0x314"
+msgid "dialogue/524/0x314"
+msgstr "Solid\n¡¡Estar siempre listos\npara lo imprevisto es\nnuestro deber como\nmilitares!!"
+
+msgctxt "dialogue/524/0x361"
+msgid "dialogue/524/0x361"
+msgstr "Alster\n¡Blue Gem tiene razón,\nSolid! ¡Los Zoids no son\nherramientas de guerra!"
+
+msgctxt "dialogue/524/0x3c4"
+msgid "dialogue/524/0x3c4"
+msgstr "Solid\n¡Los civiles, a callar!"
+
+msgctxt "dialogue/524/0x3f8"
+msgid "dialogue/524/0x3f8"
+msgstr "Blue Gem\n¡Yo también soy civil!"
+
+msgctxt "dialogue/524/0x42c"
+msgid "dialogue/524/0x42c"
+msgstr "Solid\n¡Antes servía al\nejército! ¡Usted no es\najeno a esto!"
+
+msgctxt "dialogue/524/0x46e"
+msgid "dialogue/524/0x46e"
+msgstr "Alster\n¡¡¡Pedazo de cabezota\ntestarudo!!!"
+
+msgctxt "dialogue/525/0xc"
+msgid "dialogue/525/0xc"
+msgstr "Alster\n......"
+
+msgctxt "dialogue/525/0x36"
+msgid "dialogue/525/0x36"
+msgstr "Regina\n¿Otro ataque?"
+
+msgctxt "dialogue/525/0x5e"
+msgid "dialogue/525/0x5e"
+msgstr "Alster\n¡Solid, tú...!"
+
+msgctxt "dialogue/525/0x8c"
+msgid "dialogue/525/0x8c"
+msgstr "Solid\n¡Te equivocas! Yo..."
+
+msgctxt "dialogue/526/0xc"
+msgid "dialogue/526/0xc"
+msgstr "Jack\n¡E-eso es...! ¿¡Blood!?"
+
+msgctxt "dialogue/526/0x44"
+msgid "dialogue/526/0x44"
+msgstr "Alster\n¡¿Q-qué es eso?! ¡Va\nhacia la plaza de la\naldea!"
+
+msgctxt "dialogue/526/0x8a"
+msgid "dialogue/526/0x8a"
+msgstr "Solid\n¡¿Quién es?!"
+
+msgctxt "dialogue/526/0xa8"
+msgid "dialogue/526/0xa8"
+msgstr "Solid\n¡Maldita sea! ¡Retirar\nlas tropas de la aldea\nnos ha salido caro!"
+
+msgctxt "dialogue/527/0xc"
+msgid "dialogue/527/0xc"
+msgstr "Blood\n¡Tsk! ¡¡Quitaos de en\nmedio!!"
+
+msgctxt "dialogue/527/0x3a"
+msgid "dialogue/527/0x3a"
+msgstr "Blood\n¡Fran! ¡¿Dónde estás?!"
+
+msgctxt "dialogue/528/0xc"
+msgid "dialogue/528/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/528/0x2d"
+msgid "dialogue/528/0x2d"
+msgstr "Alster\n¡Para! ¡Detente!"
+
+msgctxt "dialogue/528/0x5f"
+msgid "dialogue/528/0x5f"
+msgstr "Blood\n¡¡Cállate!!"
+
+msgctxt "dialogue/529/0xc"
+msgid "dialogue/529/0xc"
+msgstr "Blood\n¡Anda! ¡¡Si es {name}!!"
+
+msgctxt "dialogue/529/0x35"
+msgid "dialogue/529/0x35"
+msgstr "Regina\n¡Basta, Blood!"
+
+msgctxt "dialogue/529/0x67"
+msgid "dialogue/529/0x67"
+msgstr "Blood\n¡Silencio, gentuza!\n¡¿Qué habéis hecho con\nFran?!"
+
+msgctxt "dialogue/529/0xb4"
+msgid "dialogue/529/0xb4"
+msgstr "Arth\n¿Fran? ¿Qué pretendes\nhacer con ella?"
+
+msgctxt "dialogue/529/0xf4"
+msgid "dialogue/529/0xf4"
+msgstr "Blood\n...¡Eso no es asunto\ntuyo!"
+
+msgctxt "dialogue/529/0x130"
+msgid "dialogue/529/0x130"
+msgstr "Arth\n...Eso ya se verá..."
+
+msgctxt "dialogue/529/0x164"
+msgid "dialogue/529/0x164"
+msgstr "Blood\n...¿Qué quieres decir...?"
+
+msgctxt "dialogue/530/0xc"
+msgid "dialogue/530/0xc"
+msgstr "Fran\n...Blood..."
+
+msgctxt "dialogue/531/0xc"
+msgid "dialogue/531/0xc"
+msgstr "Blood\n¡Fran! ¿Estás bien?\n¿No estás herida?"
+
+msgctxt "dialogue/531/0x50"
+msgid "dialogue/531/0x50"
+msgstr "Fran\n...Blood, ¿has venido\na llevarme de vuelta?"
+
+msgctxt "dialogue/531/0x91"
+msgid "dialogue/531/0x91"
+msgstr "Blood\n¡No!"
+
+msgctxt "dialogue/531/0xb5"
+msgid "dialogue/531/0xb5"
+msgstr "Blood\n...He venido a buscarte."
+
+msgctxt "dialogue/531/0xeb"
+msgid "dialogue/531/0xeb"
+msgstr "Fran\n...¿A buscarme...\na mí?"
+
+msgctxt "dialogue/531/0x11f"
+msgid "dialogue/531/0x11f"
+msgstr "Fran\n...¿Por qué? ¿Por qué\nhas venido a buscarme?"
+
+msgctxt "dialogue/531/0x15b"
+msgid "dialogue/531/0x15b"
+msgstr "Blood\n¡Cállate! ¡Porque\nquería venir a buscarte!"
+
+msgctxt "dialogue/531/0x19d"
+msgid "dialogue/531/0x19d"
+msgstr "Fran\n...Je, je. Muy propio\nde ti..."
+
+msgctxt "dialogue/531/0x1db"
+msgid "dialogue/531/0x1db"
+msgstr "Fran\n......Arth..."
+
+msgctxt "dialogue/531/0x213"
+msgid "dialogue/531/0x213"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/531/0x239"
+msgid "dialogue/531/0x239"
+msgstr "Solid\nSe acabó la farsa. ¡De\ntodos modos, no podrás\nhuir con ella!"
+
+msgctxt "dialogue/531/0x294"
+msgid "dialogue/531/0x294"
+msgstr "Blood\n¡Tsk!"
+
+msgctxt "dialogue/531/0x2b6"
+msgid "dialogue/531/0x2b6"
+msgstr "Fran\n¡Eso no va a pasar!"
+
+msgctxt "dialogue/531/0x2e4"
+msgid "dialogue/531/0x2e4"
+msgstr "Palty\n¿Q-qué pretendes\nhacer?"
+
+msgctxt "dialogue/532/0xc"
+msgid "dialogue/532/0xc"
+msgstr "Fran\nSiento recurrir a lo de\nsiempre, pero dejadnos\nen paz."
+
+msgctxt "dialogue/532/0x45"
+msgid "dialogue/532/0x45"
+msgstr "Fran\nSi no... No hace falta\nque os lo diga, ¿verdad?"
+
+msgctxt "dialogue/532/0x8a"
+msgid "dialogue/532/0x8a"
+msgstr "Alster\n¡Palty!"
+
+msgctxt "dialogue/532/0xb4"
+msgid "dialogue/532/0xb4"
+msgstr "Solid\n¡Qué juego tan sucio!"
+
+msgctxt "dialogue/532/0xe2"
+msgid "dialogue/532/0xe2"
+msgstr "Fran\nLlamadlo como queráis.\nY también me llevaré el\nnúcleo Zoid del Berserk\nFury."
+
+msgctxt "dialogue/532/0x145"
+msgid "dialogue/532/0x145"
+msgstr "Solid\n¡¿Qué?! ¡No pienso\nentregároslo!"
+
+msgctxt "dialogue/532/0x17f"
+msgid "dialogue/532/0x17f"
+msgstr "Alster\nEstá en casa de Blue Gem,\nen las afueras de la\naldea. ¡Lleváoslo ya!"
+
+msgctxt "dialogue/532/0x1d8"
+msgid "dialogue/532/0x1d8"
+msgstr "Solid\n¡Alster!"
+
+msgctxt "dialogue/532/0x202"
+msgid "dialogue/532/0x202"
+msgstr "Fran\nGracias, chaval.\nBlood, encárgate de\nrecogerlo."
+
+msgctxt "dialogue/532/0x247"
+msgid "dialogue/532/0x247"
+msgstr "Blood\nEntendido."
+
+msgctxt "dialogue/533/0xc"
+msgid "dialogue/533/0xc"
+msgstr "Arth\n......Fran..."
+
+msgctxt "dialogue/533/0x3e"
+msgid "dialogue/533/0x3e"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/533/0x64"
+msgid "dialogue/533/0x64"
+msgstr "Fran\n......Lo siento, Arth.\nParece que no podré ir\ncontigo..."
+
+msgctxt "dialogue/533/0xc7"
+msgid "dialogue/533/0xc7"
+msgstr "Arth\n......De acuerdo."
+
+msgctxt "dialogue/533/0xfb"
+msgid "dialogue/533/0xfb"
+msgstr "Fran\n......Adiós, Arth."
+
+msgctxt "dialogue/534/0xc"
+msgid "dialogue/534/0xc"
+msgstr "Alster\n¡Palty! ¿Estás bien?"
+
+msgctxt "dialogue/534/0x42"
+msgid "dialogue/534/0x42"
+msgstr "Palty\nS-sí. Aunque me he\nllevado un buen susto."
+
+msgctxt "dialogue/534/0x80"
+msgid "dialogue/534/0x80"
+msgstr "Solid\n¡Maldición! ¡El núcleo\nZoid del Berserk Fury!"
+
+msgctxt "dialogue/534/0xd1"
+msgid "dialogue/534/0xd1"
+msgstr "Alster\nResígnate, Solid."
+
+msgctxt "dialogue/535/0xc"
+msgid "dialogue/535/0xc"
+msgstr "Blue Gem\n¡Qué desastre! ¡El\nnúcleo Zoid!"
+
+msgctxt "dialogue/535/0x46"
+msgid "dialogue/535/0x46"
+msgstr "Alster\n¿Y qué más da? Así nos\nlo hemos quitado de\nencima."
+
+msgctxt "dialogue/535/0x8c"
+msgid "dialogue/535/0x8c"
+msgstr "Blue Gem\n¡¿Qué dices?! ¡Si\nalguien lo usara para\nel mal...!"
+
+msgctxt "dialogue/535/0xed"
+msgid "dialogue/535/0xed"
+msgstr "Arth\nTranquilo. Nosotros nos\nencargaremos."
+
+msgctxt "dialogue/535/0x125"
+msgid "dialogue/535/0x125"
+msgstr "Blue Gem\n¿Eh? ¿Vosotros?"
+
+msgctxt "dialogue/535/0x157"
+msgid "dialogue/535/0x157"
+msgstr "Arth\nSí. Esos son nuestros...\nenemigos."
+
+msgctxt "dialogue/535/0x193"
+msgid "dialogue/535/0x193"
+msgstr "Regina\n......Arth."
+
+msgctxt "dialogue/535/0x1c2"
+msgid "dialogue/535/0x1c2"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/535/0x1e3"
+msgid "dialogue/535/0x1e3"
+msgstr "Jack\n...Así es. Por eso,\ndéjelo en nuestras\nmanos."
+
+msgctxt "dialogue/535/0x22e"
+msgid "dialogue/535/0x22e"
+msgstr "Blue Gem\n...Ya veo..."
+
+msgctxt "dialogue/535/0x254"
+msgid "dialogue/535/0x254"
+msgstr "Blue Gem\n¡Muy bien, entendido!\nOs ayudaré en todo lo\nque pueda."
+
+msgctxt "dialogue/536/0xc"
+msgid "dialogue/536/0xc"
+msgstr "Blue Gem\n...Con vosotros me quedo\ntranquilo. Entre los\ndatos Zi de vuestros\nZoids había..."
+
+msgctxt "dialogue/536/0x65"
+msgid "dialogue/536/0x65"
+msgstr "Blue Gem\nEh... ¿Se llamaba Trinity\nLiger? Es impresionante,\n¿verdad?..."
+
+msgctxt "dialogue/536/0xb8"
+msgid "dialogue/536/0xb8"
+msgstr "Blue Gem\nAsí que he preparado mi\npropio plan de mejora\npara el Trinity Liger."
+
+msgctxt "dialogue/536/0x107"
+msgid "dialogue/536/0x107\n"
+msgstr "Blue Gem\nMe encantaría que lo\nprobarais.\n"
+
+msgctxt "dialogue/536/0x13a"
+msgid "dialogue/536/0x13a"
+msgstr "Blue Gem\nAdemás, os daré el resto\nde datos Zi que tengo."
+
+msgctxt "dialogue/536/0x179"
+msgid "dialogue/536/0x179"
+msgstr "Blue Gem\nMucho ánimo. Que los\nZoids no se vean más\narrastrados a la guerra."
+
+msgctxt "dialogue/536/0x1d9"
+msgid "dialogue/536/0x1d9"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/537/0xc"
+msgid "dialogue/537/0xc"
+msgstr "Solid\nLo siento, pero dejo en\nvuestras manos el asunto\ndel núcleo del Berserk\nFury."
+
+msgctxt "dialogue/537/0x5b"
+msgid "dialogue/537/0x5b"
+msgstr "Arth\nSí, cuenta con ello..."
+
+msgctxt "dialogue/537/0x8b"
+msgid "dialogue/537/0x8b"
+msgstr "Blue Gem\nAlgún día me gustaría\nsaber cómo os ha ido con\nel Trinity Liger..."
+
+msgctxt "dialogue/537/0xe2"
+msgid "dialogue/537/0xe2"
+msgstr "Alster\n¡Ánimo, {name}!"
+
+msgctxt "dialogue/537/0x10e"
+msgid "dialogue/537/0x10e"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/538/0xc"
+msgid "dialogue/538/0xc"
+msgstr "Emperador\nBlood, tu labor en esta\nocasión ha sido\nexcelente."
+
+msgctxt "dialogue/538/0x4a"
+msgid "dialogue/538/0x4a"
+msgstr "Blood\n¡Sí, señor! Muchas\ngracias."
+
+msgctxt "dialogue/538/0x82"
+msgid "dialogue/538/0x82"
+msgstr "Emperador\nBuen trabajo. Puedes\nretirarte."
+
+msgctxt "dialogue/538/0xb6"
+msgid "dialogue/538/0xb6"
+msgstr "Blood\n¡Sí, señor! En cuanto\nal trato que recibirá\nFran—"
+
+msgctxt "dialogue/538/0xf4"
+msgid "dialogue/538/0xf4"
+msgstr "Emperador\nHe dicho que te retires."
+
+msgctxt "dialogue/538/0x120"
+msgid "dialogue/538/0x120"
+msgstr "Blood\nPero lo de esta vez—"
+
+msgctxt "dialogue/538/0x14c"
+msgid "dialogue/538/0x14c"
+msgstr "Opis\nBlood, Su Majestad ha\ndicho que te retires.\n¿Piensas desobedecer\nsus órdenes?"
+
+msgctxt "dialogue/538/0x1ad"
+msgid "dialogue/538/0x1ad"
+msgstr "Blood\n¡Cállate! ¡Majestad!"
+
+msgctxt "dialogue/538/0x1dd"
+msgid "dialogue/538/0x1dd"
+msgstr "Emperador\n¡Basta ya! ¡Gale!"
+
+msgctxt "dialogue/538/0x20d"
+msgid "dialogue/538/0x20d"
+msgstr "Gale\n...Sí, señor."
+
+msgctxt "dialogue/539/0xc"
+msgid "dialogue/539/0xc"
+msgstr "Gale\nBlood, eres más listo\nque esto, ¿no? Retírate."
+
+msgctxt "dialogue/539/0x5d"
+msgid "dialogue/539/0x5d"
+msgstr "Blood\n......"
+
+msgctxt "dialogue/539/0x8b"
+msgid "dialogue/539/0x8b"
+msgstr "Fran\nBlood... retírate, por\nfavor..."
+
+msgctxt "dialogue/539/0xcd"
+msgid "dialogue/539/0xcd"
+msgstr "Opis\n¡Oh, qué escena tan\nhermosa! ¡Ji, ji, ji!"
+
+msgctxt "dialogue/539/0x109"
+msgid "dialogue/539/0x109"
+msgstr "Fran\n¡Cállate!"
+
+msgctxt "dialogue/539/0x12d"
+msgid "dialogue/539/0x12d"
+msgstr "Gale\n¡Blood...!"
+
+msgctxt "dialogue/539/0x157"
+msgid "dialogue/539/0x157"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/539/0x17d"
+msgid "dialogue/539/0x17d"
+msgstr "Blood\n......"
+
+msgctxt "dialogue/540/0xc"
+msgid "dialogue/540/0xc"
+msgstr "Emperador\n...Fran."
+
+msgctxt "dialogue/540/0x32"
+msgid "dialogue/540/0x32"
+msgstr "Fran\n...Sí, Majestad."
+
+msgctxt "dialogue/540/0x54"
+msgid "dialogue/540/0x54"
+msgstr "Emperador\nMe has decepcionado."
+
+msgctxt "dialogue/540/0x7c"
+msgid "dialogue/540/0x7c"
+msgstr "Fran\n¡Majestad!"
+
+msgctxt "dialogue/540/0x9e"
+msgid "dialogue/540/0x9e"
+msgstr "Opis\n¡Guardias! ¡Llevaos a\nFran! Con delicadeza.\n¡Ji, ji, ji!"
+
+msgctxt "dialogue/541/0xc"
+msgid "dialogue/541/0xc"
+msgstr "Emperador\n...Qué mujer tan necia."
+
+msgctxt "dialogue/541/0x36"
+msgid "dialogue/541/0x36"
+msgstr "Opis\nCosas de la juventud,\nsupongo. ¡Ji, ji, ji!"
+
+msgctxt "dialogue/541/0x6a"
+msgid "dialogue/541/0x6a"
+msgstr "Emperador\n¡Precisamente por eso!\n¡Se necesita un gran\npoder que guíe a los\nnecios!"
+
+msgctxt "dialogue/541/0xb3"
+msgid "dialogue/541/0xb3"
+msgstr "Emperador\n¡Opis!"
+
+msgctxt "dialogue/542/0xc"
+msgid "dialogue/542/0xc"
+msgstr "Opis\n¿Majestad?"
+
+msgctxt "dialogue/542/0x2a"
+msgid "dialogue/542/0x2a"
+msgstr "Emperador\n¡Poder! ¡Poder! ¡Solo\nbusco el poder!"
+
+msgctxt "dialogue/542/0x5a"
+msgid "dialogue/542/0x5a"
+msgstr "Emperador\n¡Muéstrame un poder que\nsupere al Death Saurer!"
+
+msgctxt "dialogue/542/0xa7"
+msgid "dialogue/542/0xa7"
+msgstr "Opis\n¿Qué le parece el Death\nStinger?"
+
+msgctxt "dialogue/542/0xe1"
+msgid "dialogue/542/0xe1"
+msgstr "Emperador\nJu, ju, ju. ¡Eso es,\nOpis! ¡El Death Stinger\nes el poder que busco!"
+
+msgctxt "dialogue/542/0x12a"
+msgid "dialogue/542/0x12a"
+msgstr "Emperador\n¡Opis! No defraudarás\nmis expectativas...\n¿verdad?"
+
+msgctxt "dialogue/542/0x171"
+msgid "dialogue/542/0x171"
+msgstr "Opis\n¡A sus órdenes!"
+
+msgctxt "dialogue/543/0xc"
+msgid "dialogue/543/0xc"
+msgstr "Emperador\n{name}... Maldito\nmocoso... ¡Gusano que\nosa desafiarme!"
+
+msgctxt "dialogue/543/0x4a"
+msgid "dialogue/543/0x4a"
+msgstr "Emperador\nUn regalo de mi parte...\n¡Acéptalo! ¡Acepta el\nterror!"
+
+msgctxt "dialogue/543/0x8d"
+msgid "dialogue/543/0x8d"
+msgstr "Emperador\nJu, ju, ju, ju...\n¡Ja, ja, ja, ja, ja, ja!"
+
+msgctxt "dialogue/544/0x3"
+msgid "dialogue/544/0x3"
+msgstr "Soldado del Reino\n¡...! ¡Vibración\nespaciotemporal\ndetectada! Parece que\nhan usado el dispositivo\nde transporte\nespaciotemporal del\ncastillo."
+
+msgctxt "dialogue/544/0x52"
+msgid "dialogue/544/0x52"
+msgstr "Comandante del Reino\n¡Muy bien! ¡Avisad al\npríncipe y los demás!"
+
+msgctxt "dialogue/544/0x86"
+msgid "dialogue/544/0x86"
+msgstr "Soldado del Reino\nSí... e-es que..."
+
+msgctxt "dialogue/544/0xae"
+msgid "dialogue/544/0xae"
+msgstr "Comandante del Reino\n¡Estamos en plena\noperación! ¡Si tienes\nalgo que informar, sé\nclaro!"
+
+msgctxt "dialogue/544/0xf0"
+msgid "dialogue/544/0xf0"
+msgstr "Soldado del Reino\nVerá..."
+
+msgctxt "dialogue/544/0x10c"
+msgid "dialogue/544/0x10c"
+msgstr "Soldado del Reino\nTras detectar la\nvibración, justo cuando\nse disipaba, detectamos\notra vibración\nespaciotemporal débil."
+
+msgctxt "dialogue/544/0x167"
+msgid "dialogue/544/0x167"
+msgstr "Soldado del Reino\nSeguramente han vuelto\na usar el dispositivo\nde transporte\nespaciotemporal."
+
+msgctxt "dialogue/544/0x1aa"
+msgid "dialogue/544/0x1aa"
+msgstr "Comandante del Reino\n...¿Qué significa eso?\n¿Que los enemigos son\ndos?"
+
+msgctxt "dialogue/545/0xc"
+msgid "dialogue/545/0xc"
+msgstr "Jack\nPríncipe, han detectado\nuna vibración\nespaciotemporal."
+
+msgctxt "dialogue/545/0x49"
+msgid "dialogue/545/0x49"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/545/0x6a"
+msgid "dialogue/545/0x6a"
+msgstr "Regina\n¡Qué gente más pesada!\n¡Son de los que caen\nfatal a las mujeres!"
+
+msgctxt "dialogue/545/0xb5"
+msgid "dialogue/545/0xb5"
+msgstr "Arth\n¿Mujeres...? ¿A quién\nte refieres?"
+
+msgctxt "dialogue/545/0xe7"
+msgid "dialogue/545/0xe7"
+msgstr "Regina\n¡Tú también eres de los\nque caen fatal, Arth!"
+
+msgctxt "dialogue/545/0x127"
+msgid "dialogue/545/0x127"
+msgstr "Jack\nEsta vez parece que\nRegina tiene razón."
+
+msgctxt "dialogue/545/0x169"
+msgid "dialogue/545/0x169"
+msgstr "Regina\n¿Eh? ¿Qué quieres decir?"
+
+msgctxt "dialogue/545/0x197"
+msgid "dialogue/545/0x197"
+msgstr "Jack\nSe han detectado dos\nvibraciones. O sea, que\nesta vez vienen dos."
+
+msgctxt "dialogue/545/0x1e8"
+msgid "dialogue/545/0x1e8"
+msgstr "Jack\nAunque no entiendo por\nqué llegan escalonados."
+
+msgctxt "dialogue/545/0x226"
+msgid "dialogue/545/0x226"
+msgstr "Regina\nSean los que sean, solo\nhay algo que hacer, ¿no?"
+
+msgctxt "dialogue/545/0x273"
+msgid "dialogue/545/0x273"
+msgstr "Arth\nAcabar con el enemigo."
+
+msgctxt "dialogue/545/0x296"
+msgid "dialogue/545/0x296"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/545/0x2b7"
+msgid "dialogue/545/0x2b7"
+msgstr "Regina\n¡Anda, estoy de acuerdo\ncon Arth! ¿No irá a\nllover?"
+
+msgctxt "dialogue/545/0x316"
+msgid "dialogue/545/0x316"
+msgstr "Arth\nEso digo yo. Ojalá no\nnos lluevan misiles de\ndispersión."
+
+msgctxt "dialogue/545/0x365"
+msgid "dialogue/545/0x365"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/545/0x393"
+msgid "dialogue/545/0x393"
+msgstr "Jack\n¡E-en fin, en cuanto\nestemos listos, vamos\ntras ellos!"
+
+msgctxt "dialogue/545/0x3df"
+msgid "dialogue/545/0x3df"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/546/0xc"
+msgid "dialogue/546/0xc"
+msgstr "Jack\n¿Está listo, príncipe?\nEntonces, en marcha."
+
+msgctxt "dialogue/547/0xc"
+msgid "dialogue/547/0xc"
+msgstr "Jack\nEsto es... Parece que\nestamos cerca de New\nHelic City."
+
+msgctxt "dialogue/547/0x65"
+msgid "dialogue/547/0x65"
+msgstr "Regina\n¿New Helic City? La\ncapital de la República,\n¿no?"
+
+msgctxt "dialogue/547/0xa6"
+msgid "dialogue/547/0xa6"
+msgstr "Jack\nAsí es. Allí—"
+
+msgctxt "dialogue/548/0xc"
+msgid "dialogue/548/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/548/0x2d"
+msgid "dialogue/548/0x2d"
+msgstr "Regina\n¡...!"
+
+msgctxt "dialogue/548/0x4b"
+msgid "dialogue/548/0x4b"
+msgstr "Arth\n¡...!"
+
+msgctxt "dialogue/548/0x67"
+msgid "dialogue/548/0x67"
+msgstr "Jack\n¡...! ¿Una explosión?\n¿Qué está pasando?"
+
+msgctxt "dialogue/549/0xc"
+msgid "dialogue/549/0xc"
+msgstr "Raven\n¡Hiltz! ¡Maldito!\n¿Por qué me has\ndisparado?"
+
+msgctxt "dialogue/549/0x51"
+msgid "dialogue/549/0x51"
+msgstr "Hiltz\n¿Qué ha sido de Shadow?"
+
+msgctxt "dialogue/549/0x7f"
+msgid "dialogue/549/0x7f"
+msgstr "Raven\n¡Ugh! Shadow..."
+
+msgctxt "dialogue/549/0xb3"
+msgid "dialogue/549/0xb3"
+msgstr "Hiltz\nNo resistió el impacto\ndel cañón de partículas\ncargadas. Al fin y al\ncabo, era el organoide\nde un gusano."
+
+msgctxt "dialogue/549/0x11a"
+msgid "dialogue/549/0x11a"
+msgstr "Raven\n¡...!\n¡A ti... te derrotaré\ncon mis propias manos!"
+
+msgctxt "dialogue/549/0x161"
+msgid "dialogue/549/0x161"
+msgstr "Hiltz\nSin Shadow, ni siquiera\npuedes crear un escudo\ndecente, y menos aún\nusar el cañón de\npartículas cargadas,\n¿verdad?"
+
+msgctxt "dialogue/549/0x1ca"
+msgid "dialogue/549/0x1ca"
+msgstr "Raven\n¡Ugh!"
+
+msgctxt "dialogue/550/0xc"
+msgid "dialogue/550/0xc"
+msgstr "Raven\n¡Aaaaargh!"
+
+msgctxt "dialogue/550/0x38"
+msgid "dialogue/550/0x38"
+msgstr "Hiltz\nRaven, seguro que el\nDark Kaiser lamenta\nprofundamente tu\ntraición."
+
+msgctxt "dialogue/550/0x93"
+msgid "dialogue/550/0x93"
+msgstr "Raven\n¡Ugh!"
+
+msgctxt "dialogue/550/0xb7"
+msgid "dialogue/550/0xb7"
+msgstr "Hiltz\nDesaparece sin dejar\nrastro, Raven."
+
+msgctxt "dialogue/551/0xc"
+msgid "dialogue/551/0xc"
+msgstr "Hiltz\n¿A qué has venido?\nNo recuerdo haberte\nllamado."
+
+msgctxt "dialogue/551/0x4b"
+msgid "dialogue/551/0x4b"
+msgstr "Reese\n..................\n¿Es que... ya no me\nnecesitas...?"
+
+msgctxt "dialogue/551/0x96"
+msgid "dialogue/551/0x96"
+msgstr "Reese\nComo Death Stinger ha\nrevivido... ¿por eso...\nme has disparado...?"
+
+msgctxt "dialogue/551/0xf9"
+msgid "dialogue/551/0xf9"
+msgstr "Hiltz\nAsí es. Ya no te\nnecesito."
+
+msgctxt "dialogue/551/0x121"
+msgid "dialogue/551/0x121"
+msgstr "Hiltz\nTu papel ha terminado..."
+
+msgctxt "dialogue/551/0x14d"
+msgid "dialogue/551/0x14d"
+msgstr "Hiltz\nDesaparece. Junto con\nRaven..."
+
+msgctxt "dialogue/551/0x183"
+msgid "dialogue/551/0x183"
+msgstr "Raven\n...!"
+
+msgctxt "dialogue/551/0x1a7"
+msgid "dialogue/551/0x1a7"
+msgstr "Reese\n....................."
+
+msgctxt "dialogue/552/0xc"
+msgid "dialogue/552/0xc"
+msgstr "Regina\n¿¡Qué es eso!? ¡Ese Zoid!\n¡No conozco ningún Zoid\nasí!"
+
+msgctxt "dialogue/552/0x67"
+msgid "dialogue/552/0x67"
+msgstr "Arth\n¿¡Un cañón de partículas\ncargadas!?"
+
+msgctxt "dialogue/552/0x96"
+msgid "dialogue/552/0x96"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/552/0xb7"
+msgid "dialogue/552/0xb7"
+msgstr "Jack\n¡Cuidado! ¡Al suelo,\ntodos!"
+
+msgctxt "dialogue/553/0xc"
+msgid "dialogue/553/0xc"
+msgstr "Jack\n...¿Nos hemos salvado...?"
+
+msgctxt "dialogue/553/0x36"
+msgid "dialogue/553/0x36"
+msgstr "Jack\n¡Ah! ¡Príncipe! Príncipe,\n¿está bien?"
+
+msgctxt "dialogue/553/0x77"
+msgid "dialogue/553/0x77"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/553/0x98"
+msgid "dialogue/553/0x98"
+msgstr "Arth\nAquí también, todo bien."
+
+msgctxt "dialogue/553/0xc2"
+msgid "dialogue/553/0xc2"
+msgstr "Regina\n...¿Qué demonios era eso?"
+
+msgctxt "dialogue/553/0xf6"
+msgid "dialogue/553/0xf6"
+msgstr "Jack\nNo lo sé. Pero..."
+
+msgctxt "dialogue/553/0x12c"
+msgid "dialogue/553/0x12c"
+msgstr "Jack\nPero... quien destruyó\nNew Helic City fue,\nseguramente, ese Zoid."
+
+msgctxt "dialogue/554/0xc"
+msgid "dialogue/554/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/554/0x2d"
+msgid "dialogue/554/0x2d"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/554/0x55"
+msgid "dialogue/554/0x55"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/554/0x7b"
+msgid "dialogue/554/0x7b"
+msgstr "Jack\nNo podemos quedarnos\nlamentándonos."
+
+msgctxt "dialogue/554/0xa7"
+msgid "dialogue/554/0xa7"
+msgstr "Jack\nPuede que haya\nsupervivientes en alguna\nparte. Busquémoslos."
+
+msgctxt "dialogue/554/0xf8"
+msgid "dialogue/554/0xf8"
+msgstr "Regina\n...Tienes razón.\n{name}, ¿qué te pasa?"
+
+msgctxt "dialogue/554/0x133"
+msgid "dialogue/554/0x133"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/555/0xc"
+msgid "dialogue/555/0xc"
+msgstr "Jack\n¿Aquel es... Opis?\n¿Qué hace aquí...?"
+
+msgctxt "dialogue/555/0x59"
+msgid "dialogue/555/0x59"
+msgstr "Regina\n¡Está clarísimo! ¡Ese\ntipo ha tenido algo que\nver con esta destrucción!"
+
+msgctxt "dialogue/555/0xb5"
+msgid "dialogue/555/0xb5"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/556/0xc"
+msgid "dialogue/556/0xc"
+msgstr "Jack\n¡Príncipe! ¡Regina!"
+
+msgctxt "dialogue/556/0x3c"
+msgid "dialogue/556/0x3c"
+msgstr "Arth\nVamos tras ellos."
+
+msgctxt "dialogue/557/0xc"
+msgid "dialogue/557/0xc"
+msgstr "Regina\n¡¡Opis!!"
+
+msgctxt "dialogue/558/0xc"
+msgid "dialogue/558/0xc"
+msgstr "Opis\n¿?"
+
+msgctxt "dialogue/558/0x2a"
+msgid "dialogue/558/0x2a"
+msgstr "Opis\nVaya, vaya, príncipe\n{name}. ¿Cómo se\nencuentra?"
+
+msgctxt "dialogue/558/0x6e"
+msgid "dialogue/558/0x6e"
+msgstr "Regina\n¡Fatal! ¡Gracias a ti!"
+
+msgctxt "dialogue/558/0xaa"
+msgid "dialogue/558/0xaa"
+msgstr "Opis\n¿A mí? Eso me ofende."
+
+msgctxt "dialogue/558/0xde"
+msgid "dialogue/558/0xde"
+msgstr "Regina\n¡No te hagas el tonto!\n¡Mira a tu alrededor!"
+
+msgctxt "dialogue/558/0x122"
+msgid "dialogue/558/0x122"
+msgstr "Opis\nAaah... Ya veo. Desde\nluego, no es un paisaje\nmuy alegre. Ji, ji, ji."
+
+msgctxt "dialogue/558/0x17d"
+msgid "dialogue/558/0x17d"
+msgstr "Regina\n¡¡¡Opis!!!"
+
+msgctxt "dialogue/558/0x1aa"
+msgid "dialogue/558/0x1aa"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/558/0x1cb"
+msgid "dialogue/558/0x1cb"
+msgstr "Jack\n¡Príncipe! ¡¡Regina!!\n¡Basta!"
+
+msgctxt "dialogue/558/0x20c"
+msgid "dialogue/558/0x20c"
+msgstr "Regina\nNo me detengas, Jack."
+
+msgctxt "dialogue/558/0x23e"
+msgid "dialogue/558/0x23e"
+msgstr "Jack\nCálmate, Regina.\nY usted también,\npríncipe."
+
+msgctxt "dialogue/558/0x286"
+msgid "dialogue/558/0x286"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/558/0x2a7"
+msgid "dialogue/558/0x2a7"
+msgstr "Arth\nTe saldrán arrugas."
+
+msgctxt "dialogue/558/0x2cf"
+msgid "dialogue/558/0x2cf"
+msgstr "Regina\n¡¿Qué has dicho?!"
+
+msgctxt "dialogue/558/0x2f9"
+msgid "dialogue/558/0x2f9"
+msgstr "Jack\nDoctor Opis, ¿esta\ndestrucción es obra suya?"
+
+msgctxt "dialogue/558/0x337"
+msgid "dialogue/558/0x337"
+msgstr "Opis\n¡Qué va! Yo no destruyo\nnada en vano.\nHa sido Death Stinger."
+
+msgctxt "dialogue/558/0x38a"
+msgid "dialogue/558/0x38a"
+msgstr "Jack\n¿Death Stinger?"
+
+msgctxt "dialogue/558/0x3b8"
+msgid "dialogue/558/0x3b8"
+msgstr "Opis\n¡Exacto!"
+
+msgctxt "dialogue/558/0x3ce"
+msgid "dialogue/558/0x3ce"
+msgstr "Opis\nEl Zoid más cruel y\nterrible, creado por los\nantiguos zoidianos para\nenfrentarse al Death\nSaurer."
+
+msgctxt "dialogue/558/0x423"
+msgid "dialogue/558/0x423"
+msgstr "Opis\nAunque Hiltz lo ha\nmodificado bastante, así\nque dista mucho del\noriginal."
+
+msgctxt "dialogue/558/0x486"
+msgid "dialogue/558/0x486"
+msgstr "Regina\n¡Death Stinger es un\nfantasma del pasado!\n¿¡Por qué lo habéis\nrevivido!?"
+
+msgctxt "dialogue/558/0x4d7"
+msgid "dialogue/558/0x4d7"
+msgstr "Regina\n¡Esa cosa no está al\nalcance de ningún humano!"
+
+msgctxt "dialogue/558/0x51b"
+msgid "dialogue/558/0x51b"
+msgstr "Opis\nJi, ji, ji. Es el deseo\nde Su Majestad. Y como\ncientífico, es un\nmaterial que me interesa\nmuchísimo."
+
+msgctxt "dialogue/558/0x56c"
+msgid "dialogue/558/0x56c"
+msgstr "Opis\nLo de hoy no ha sido más\nque un reconocimiento.\nYa nos veremos, señores.\nJi, ji, ji."
+
+msgctxt "dialogue/559/0xc"
+msgid "dialogue/559/0xc"
+msgstr "Regina\n¡¡Espera!!"
+
+msgctxt "dialogue/560/0xc"
+msgid "dialogue/560/0xc"
+msgstr "Regina\n¡Blood!"
+
+msgctxt "dialogue/560/0x34"
+msgid "dialogue/560/0x34"
+msgstr "Blood\nDeath Stinger es mío...\nVosotros no os metáis."
+
+msgctxt "dialogue/560/0x87"
+msgid "dialogue/560/0x87"
+msgstr "Regina\n¡¿Qué estás diciendo?!\n¡No dejaremos que se lo\nquede el Emperador!"
+
+msgctxt "dialogue/560/0xd4"
+msgid "dialogue/560/0xd4"
+msgstr "Blood\n¿No me has oído?\nHe dicho que es mío."
+
+msgctxt "dialogue/560/0x11d"
+msgid "dialogue/560/0x11d"
+msgstr "Regina\n¿Eh?"
+
+msgctxt "dialogue/560/0x13d"
+msgid "dialogue/560/0x13d"
+msgstr "Jack\n¿Qué quiere decir?"
+
+msgctxt "dialogue/560/0x16b"
+msgid "dialogue/560/0x16b"
+msgstr "Blood\nMe haré con Death\nStinger."
+
+msgctxt "dialogue/560/0x19b"
+msgid "dialogue/560/0x19b"
+msgstr "Blood\nNo perdonaré a quien se\ninterponga, aunque sea el\nEmperador."
+
+msgctxt "dialogue/560/0x1d6"
+msgid "dialogue/560/0x1d6"
+msgstr "Blood\nY me convertiré en el\nnuevo soberano. ¡Con el\npoder de Death Stinger!"
+
+msgctxt "dialogue/560/0x234"
+msgid "dialogue/560/0x234"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/560/0x255"
+msgid "dialogue/560/0x255"
+msgstr "Regina\n¿Q-qué estás diciendo...?"
+
+msgctxt "dialogue/560/0x28d"
+msgid "dialogue/560/0x28d"
+msgstr "Regina\n¡Death Stinger solo trae\nla destrucción!\n¡¡Es imposible!!"
+
+msgctxt "dialogue/560/0x2e2"
+msgid "dialogue/560/0x2e2"
+msgstr "Blood\n¡Claro que puedo! ¡Tengo\nel poder para hacerlo!"
+
+msgctxt "dialogue/560/0x320"
+msgid "dialogue/560/0x320"
+msgstr "Jack\n...Qué locura..."
+
+msgctxt "dialogue/560/0x354"
+msgid "dialogue/560/0x354"
+msgstr "Blood\nDeath Stinger será mío.\nNo os interpongáis.\n...Eso es todo."
+
+msgctxt "dialogue/561/0xc"
+msgid "dialogue/561/0xc"
+msgstr "Regina\n...¿Por qué?\n¿Por qué nadie lo\nentiende?"
+
+msgctxt "dialogue/561/0x55"
+msgid "dialogue/561/0x55"
+msgstr "Arth\nDesvaríos de un hombre\nahogado en el poder."
+
+msgctxt "dialogue/561/0x8a"
+msgid "dialogue/561/0x8a"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/561/0xab"
+msgid "dialogue/561/0xab"
+msgstr "Jack\nVámonos, príncipe."
+
+msgctxt "dialogue/561/0xcb"
+msgid "dialogue/561/0xcb"
+msgstr "Jack\nNo podemos dejar a\nDeath Stinger suelto."
+
+msgctxt "dialogue/561/0x10a"
+msgid "dialogue/561/0x10a"
+msgstr "Jack\nY, por supuesto, no\npodemos dejar que caiga\nen manos del Emperador,\nni tampoco de Blood."
+
+msgctxt "dialogue/561/0x160"
+msgid "dialogue/561/0x160"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/562/0xc"
+msgid "dialogue/562/0xc"
+msgstr "Schwarz\n¿Qué ocurre? ¿No habéis\noído la orden de\nretirada...?"
+
+msgctxt "dialogue/562/0x4d"
+msgid "dialogue/562/0x4d"
+msgstr "Schwarz\n¿Hm? Vosotros sois..."
+
+msgctxt "dialogue/562/0x7f"
+msgid "dialogue/562/0x7f"
+msgstr "Jack\n¡Coronel Schwarz!\n¿Qué hace aquí?"
+
+msgctxt "dialogue/562/0xbc"
+msgid "dialogue/562/0xbc"
+msgstr "Schwarz\nEnviaron a mi Primera\nDivisión Acorazada como\nrefuerzo para defender la\ncapital de la República."
+
+msgctxt "dialogue/562/0x117"
+msgid "dialogue/562/0x117"
+msgstr "Schwarz\n...Pero la Primera\nDivisión Acorazada ha\nsido aniquilada."
+
+msgctxt "dialogue/562/0x145"
+msgid "dialogue/562/0x145"
+msgstr "Schwarz\nEl ejército de la\nRepública también ha\nperdido el 70% y se\nrepliega al lago Windine."
+
+msgctxt "dialogue/562/0x19e"
+msgid "dialogue/562/0x19e"
+msgstr "Jack\n¿Death Stinger...?"
+
+msgctxt "dialogue/562/0x1d8"
+msgid "dialogue/562/0x1d8"
+msgstr "Schwarz\n...¿Vosotros también lo\nhabéis visto?"
+
+msgctxt "dialogue/562/0x216"
+msgid "dialogue/562/0x216"
+msgstr "Regina\nNo es que lo hayamos\nvisto bien, pero..."
+
+msgctxt "dialogue/562/0x256"
+msgid "dialogue/562/0x256"
+msgstr "Schwarz\nYa veo..."
+
+msgctxt "dialogue/562/0x280"
+msgid "dialogue/562/0x280"
+msgstr "Jack\n¿Usted no va al lago\nWindine, coronel?"
+
+msgctxt "dialogue/562/0x2cd"
+msgid "dialogue/562/0x2cd"
+msgstr "Schwarz\nSí, solo comprobaba que\nno quedase ninguna unidad\nsin replegarse."
+
+msgctxt "dialogue/562/0x320"
+msgid "dialogue/562/0x320"
+msgstr "Schwarz\nAhora me dirijo al lago\nWindine. ¿Qué vais a\nhacer vosotros?"
+
+msgctxt "dialogue/562/0x379"
+msgid "dialogue/562/0x379"
+msgstr "Jack\nPermítanos acompañarle."
+
+msgctxt "dialogue/562/0x3ae"
+msgid "dialogue/562/0x3ae"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/562/0x3cf"
+msgid "dialogue/562/0x3cf"
+msgstr "Regina\n¿Jack?"
+
+msgctxt "dialogue/562/0x3f5"
+msgid "dialogue/562/0x3f5"
+msgstr "Jack\nDeath Stinger es\ndemasiado peligroso.\nNo podemos dejar que se\nlo queden el Emperador\no Blood."
+
+msgctxt "dialogue/562/0x45c"
+msgid "dialogue/562/0x45c"
+msgstr "Arth\nBasta con destruirlo.\nAsí no podrán hacerse\ncon él."
+
+msgctxt "dialogue/562/0x4ab"
+msgid "dialogue/562/0x4ab"
+msgstr "Jack\nExacto."
+
+msgctxt "dialogue/562/0x4cf"
+msgid "dialogue/562/0x4cf"
+msgstr "Jack\n...Pero nosotros solos\nsomos demasiado débiles."
+
+msgctxt "dialogue/562/0x518"
+msgid "dialogue/562/0x518"
+msgstr "Schwarz\nVence quien concentra sus\nfuerzas y las emplea con\nflexibilidad. Es lógico."
+
+msgctxt "dialogue/562/0x575"
+msgid "dialogue/562/0x575"
+msgstr "Regina\nDe acuerdo. ¿Príncipe?"
+
+msgctxt "dialogue/562/0x5a4"
+msgid "dialogue/562/0x5a4"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/562/0x5c5"
+msgid "dialogue/562/0x5c5"
+msgstr "Schwarz\nEntonces, partamos."
+
+msgctxt "dialogue/562/0x5e5"
+msgid "dialogue/562/0x5e5"
+msgstr "Schwarz\nSeguramente Van Flyheight\ny los suyos también\nhabrán llegado ya."
+
+msgctxt "dialogue/562/0x63a"
+msgid "dialogue/562/0x63a"
+msgstr "Jack\n¿Van? ¿Entonces también\nlos de la Guardian Force?"
+
+msgctxt "dialogue/562/0x685"
+msgid "dialogue/562/0x685"
+msgstr "Schwarz\nAsí es. Si concentramos\nlas fuerzas y las\nempleamos con\nflexibilidad, podremos\nobrar un milagro."
+
+msgctxt "dialogue/562/0x6ce"
+msgid "dialogue/562/0x6ce"
+msgstr "Schwarz\nNo perderemos.\nNosotros no."
+
+msgctxt "dialogue/562/0x6f5"
+msgid "dialogue/562/0x6f5"
+msgstr "Schwarz se ha unido\nal grupo."
+
+msgctxt "dialogue/563/0xc"
+msgid "dialogue/563/0xc"
+msgstr "Regina\nEl agua del lago..."
+
+msgctxt "dialogue/563/0x36"
+msgid "dialogue/563/0x36"
+msgstr "Jack\n¡¡...!! ¿Hay algo en el\ncentro del lago?"
+
+msgctxt "dialogue/563/0x6a"
+msgid "dialogue/563/0x6a"
+msgstr "Schwarz\nAl fundar la Guardian\nForce, pusimos en marcha\nun plan en secreto."
+
+msgctxt "dialogue/563/0xbd"
+msgid "dialogue/563/0xbd"
+msgstr "Schwarz\nEl plan para la batalla\nfinal del Imperio y la\nRepública. Esto es lo que\nera en realidad."
+
+msgctxt "dialogue/564/0xc"
+msgid "dialogue/564/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/564/0x2d"
+msgid "dialogue/564/0x2d"
+msgstr "Regina\n¿Q-qué es eso?"
+
+msgctxt "dialogue/564/0x57"
+msgid "dialogue/564/0x57"
+msgstr "Arth\n¿Una fortaleza? No...\n¡¿Un Zoid?!"
+
+msgctxt "dialogue/564/0x89"
+msgid "dialogue/564/0x89"
+msgstr "Jack\n¿Esto es un Zoid? Qué\nenorme es..."
+
+msgctxt "dialogue/564/0xcb"
+msgid "dialogue/564/0xcb"
+msgstr "Schwarz\nEl arma definitiva de la\nRepública. Y también...\nel último bastión de la\nhumanidad."
+
+msgctxt "dialogue/564/0x112"
+msgid "dialogue/564/0x112"
+msgstr "Schwarz\nEs el Ultrasaurus."
+
+msgctxt "dialogue/565/0xc"
+msgid "dialogue/565/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/565/0x2d"
+msgid "dialogue/565/0x2d"
+msgstr "Regina\n¡Qué grandeee!"
+
+msgctxt "dialogue/565/0x4f"
+msgid "dialogue/565/0x4f"
+msgstr "Arth\nImpresionante..."
+
+msgctxt "dialogue/565/0x77"
+msgid "dialogue/565/0x77"
+msgstr "Jack\nSí, está a otra escala..."
+
+msgctxt "dialogue/565/0xb3"
+msgid "dialogue/565/0xb3"
+msgstr "Van\nAquí cabe sin problemas\nuna compañía entera de\nZoids grandes."
+
+msgctxt "dialogue/566/0xc"
+msgid "dialogue/566/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/566/0x2d"
+msgid "dialogue/566/0x2d"
+msgstr "Jack\n¡Van!"
+
+msgctxt "dialogue/566/0x53"
+msgid "dialogue/566/0x53"
+msgstr "Van\nHola. Cuánto tiempo."
+
+msgctxt "dialogue/566/0x7d"
+msgid "dialogue/566/0x7d"
+msgstr "Fiona\n¡Hola!"
+
+msgctxt "dialogue/566/0xa3"
+msgid "dialogue/566/0xa3"
+msgstr "Moonbay\n¡Cuánto tiempo! ¿Qué\nhabéis estado haciendo?"
+
+msgctxt "dialogue/566/0xea"
+msgid "dialogue/566/0xea"
+msgstr "Regina\n¡Eh! P-pues... un poco\nde todo."
+
+msgctxt "dialogue/566/0x11c"
+msgid "dialogue/566/0x11c"
+msgstr "Moonbay\nUn poco de todo, ¿eh?"
+
+msgctxt "dialogue/566/0x146"
+msgid "dialogue/566/0x146"
+msgstr "Moonbay\n¿No os estaríais forrando\no algo así?"
+
+msgctxt "dialogue/566/0x182"
+msgid "dialogue/566/0x182"
+msgstr "Regina\nJa, ja, ja..."
+
+msgctxt "dialogue/566/0x1a6"
+msgid "dialogue/566/0x1a6"
+msgstr "Irvine\nSe te ve bien."
+
+msgctxt "dialogue/566/0x1d0"
+msgid "dialogue/566/0x1d0"
+msgstr "Arth\nSigues teniendo mala\nmirada."
+
+msgctxt "dialogue/566/0x202"
+msgid "dialogue/566/0x202"
+msgstr "Irvine\n¡Bah! Y tú tan poco\nsimpático como siempre."
+
+msgctxt "dialogue/566/0x244"
+msgid "dialogue/566/0x244"
+msgstr "Thomas\nEn lo de poco simpático\nestáis empatados, ¿no?"
+
+msgctxt "dialogue/566/0x280"
+msgid "dialogue/566/0x280"
+msgstr "Van\nMe lo ha dicho Schwarz.\n¿Vosotros también vais\ntras el Death Stinger?"
+
+msgctxt "dialogue/566/0x2df"
+msgid "dialogue/566/0x2df"
+msgstr "Jack\nSí."
+
+msgctxt "dialogue/566/0x2ff"
+msgid "dialogue/566/0x2ff"
+msgstr "Fiona\n...El Death Stinger es\npeligroso. Solo trae la\ndestrucción..."
+
+msgctxt "dialogue/566/0x358"
+msgid "dialogue/566/0x358"
+msgstr "Irvine\nEse bicho es un monstruo.\nCayó desde cien mil\nmetros de altura y ni se\ninmutó."
+
+msgctxt "dialogue/566/0x3bd"
+msgid "dialogue/566/0x3bd"
+msgstr "Moonbay\nY encima nada por el\nmagma tan tranquilo. Ni\nahora sabemos dónde\nestá..."
+
+msgctxt "dialogue/566/0x41a"
+msgid "dialogue/566/0x41a"
+msgstr "Thomas\nCañón de partículas\ncargadas y escudo. Es el\nZoid más temible y\natroz que existe."
+
+msgctxt "dialogue/566/0x464"
+msgid "dialogue/566/0x464"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/566/0x485"
+msgid "dialogue/566/0x485"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/566/0x4ad"
+msgid "dialogue/566/0x4ad"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/566/0x4d3"
+msgid "dialogue/566/0x4d3"
+msgstr "Jack\n¿Y dónde está ahora el\nDeath Stinger?"
+
+msgctxt "dialogue/566/0x51a"
+msgid "dialogue/566/0x51a"
+msgstr "Moonbay\nPues se nos escapó por el\nmagma y no sabemos\ndónde está..."
+
+msgctxt "dialogue/567/0x3"
+msgid "dialogue/567/0x3"
+msgstr "Megafonía\n¡Reacción de energía\nenorme en la zona\nmontañosa de la frontera!\n¡Todo el personal a\nzafarrancho de combate de\ninmediato! Repito..."
+
+msgctxt "dialogue/567/0x76"
+msgid "dialogue/567/0x76"
+msgstr "Van\nYa está aquí... ¡Hiltz!"
+
+msgctxt "dialogue/567/0xa2"
+msgid "dialogue/567/0xa2"
+msgstr "Fiona\nVan..."
+
+msgctxt "dialogue/567/0xc9"
+msgid "dialogue/567/0xc9"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/568/0xc"
+msgid "dialogue/568/0xc"
+msgstr "O'Connell\nEntre el Ultrasaurus y el\nDeath Stinger hay unos\n7000 de distancia."
+
+msgctxt "dialogue/568/0x67"
+msgid "dialogue/568/0x67"
+msgstr "O'Connell\nPero hay una cordillera\nen medio, así que no\npodemos apuntarle con el\ncañón de partículas\ncargadas directamente."
+
+msgctxt "dialogue/568/0xc4"
+msgid "dialogue/568/0xc4"
+msgstr "O'Connell\nTendremos que rodear la\ncordillera para\nalcanzarlo."
+
+msgctxt "dialogue/568/0x10f"
+msgid "dialogue/568/0x10f"
+msgstr "Krueger\n¿Y cuánto tiempo sería?"
+
+msgctxt "dialogue/568/0x145"
+msgid "dialogue/568/0x145"
+msgstr "O'Connell\nComo mínimo, tres horas."
+
+msgctxt "dialogue/568/0x17d"
+msgid "dialogue/568/0x17d"
+msgstr "Thomas\nY al Ultrasaurus aún le\nquedan dos horas para\ncompletar la carga de\nenergía..."
+
+msgctxt "dialogue/568/0x1da"
+msgid "dialogue/568/0x1da"
+msgstr "Krueger\nAsí es. Hasta completar\nla carga de energía, el\nUltrasaurus no puede\nmoverse de aquí."
+
+msgctxt "dialogue/568/0x243"
+msgid "dialogue/568/0x243"
+msgstr "Moonbay\nP-pero parece que\nllegaremos a tiempo,\n¿no?"
+
+msgctxt "dialogue/568/0x27d"
+msgid "dialogue/568/0x27d"
+msgstr "Irvine\nOjalá sea así..."
+
+msgctxt "dialogue/568/0x2af"
+msgid "dialogue/568/0x2af"
+msgstr "Fiona\nIrvine..."
+
+msgctxt "dialogue/568/0x2db"
+msgid "dialogue/568/0x2db"
+msgstr "Moonbay\n¿Eh?"
+
+msgctxt "dialogue/568/0x2fd"
+msgid "dialogue/568/0x2fd"
+msgstr "Van\nEs verdad, no hay que\nconfiarse."
+
+msgctxt "dialogue/568/0x32b"
+msgid "dialogue/568/0x32b"
+msgstr "Van\nHablamos de Hiltz. A\nsaber qué trucos usará."
+
+msgctxt "dialogue/568/0x36f"
+msgid "dialogue/568/0x36f"
+msgstr "Militar de la República\nReacción de energía\ndetectada. ¡Es un cañón\nde partículas cargadas!"
+
+msgctxt "dialogue/568/0x3b1"
+msgid "dialogue/568/0x3b1"
+msgstr "Schwarz\n¡Imposible! ¡¿Piensa\natravesar una montaña\nde un disparo?!"
+
+msgctxt "dialogue/568/0x3f6"
+msgid "dialogue/568/0x3f6"
+msgstr "Thomas\n¿Por qué... dispara el\ncañón de partículas\ncargadas a la\ncordillera...?"
+
+msgctxt "dialogue/568/0x438"
+msgid "dialogue/568/0x438"
+msgstr "Krueger\nQuiere quitar de en medio\ntodos los obstáculos para\napuntar directamente al\nUltrasaurus desde allí."
+
+msgctxt "dialogue/569/0xc"
+msgid "dialogue/569/0xc"
+msgstr "Hiltz\nBuenos días, gusanos."
+
+msgctxt "dialogue/569/0x3e"
+msgid "dialogue/569/0x3e"
+msgstr "Van\n¡Hiltz!"
+
+msgctxt "dialogue/569/0x60"
+msgid "dialogue/569/0x60"
+msgstr "Hiltz\nLa música más apropiada\npara la última cena..."
+
+msgctxt "dialogue/569/0x99"
+msgid "dialogue/569/0x99"
+msgstr "Hiltz\nson... vuestros gritos de\nterror y desesperación.\nJe, je, je."
+
+msgctxt "dialogue/570/0xc"
+msgid "dialogue/570/0xc"
+msgstr "Van\n¡Maldita sea! ¡Hiltz!"
+
+msgctxt "dialogue/570/0x38"
+msgid "dialogue/570/0x38"
+msgstr "Krueger\n¿Cuánto falta para que el\ncañón de partículas\ncargadas alcance al\nUltrasaurus?"
+
+msgctxt "dialogue/570/0x99"
+msgid "dialogue/570/0x99"
+msgstr "O'Connell\nPor lo que se ve, unos\n30 minutos..."
+
+msgctxt "dialogue/570/0xe6"
+msgid "dialogue/570/0xe6"
+msgstr "Moonbay\n¡No llegamos ni de lejos!"
+
+msgctxt "dialogue/570/0x122"
+msgid "dialogue/570/0x122"
+msgstr "Irvine\nVaya, vaya... Se ha\ncumplido mi mal\npresentimiento..."
+
+msgctxt "dialogue/570/0x16f"
+msgid "dialogue/570/0x16f"
+msgstr "Thomas\n¡Maldición! ¡¿Qué\npodemos hacer?!"
+
+msgctxt "dialogue/570/0x1a9"
+msgid "dialogue/570/0x1a9"
+msgstr "Herman\n¡Que nadie pierda la\ncalma!"
+
+msgctxt "dialogue/570/0x1c9"
+msgid "dialogue/570/0x1c9"
+msgstr "Herman\n¡Aún hay tiempo! Seguro\nque encontramos la forma\nde evitar el peligro."
+
+msgctxt "dialogue/570/0x212"
+msgid "dialogue/570/0x212"
+msgstr "Herman\n¡Rendirse solo vale\ncuando ya hemos hecho\ntodo lo posible!"
+
+msgctxt "dialogue/570/0x25f"
+msgid "dialogue/570/0x25f"
+msgstr "Krueger\n¿Y tienes algún plan\nconcreto, Herman?"
+
+msgctxt "dialogue/570/0x2a3"
+msgid "dialogue/570/0x2a3"
+msgstr "Herman\nUn milagro."
+
+msgctxt "dialogue/570/0x2c5"
+msgid "dialogue/570/0x2c5"
+msgstr "Krueger\n¿Un milagro?"
+
+msgctxt "dialogue/570/0x2eb"
+msgid "dialogue/570/0x2eb"
+msgstr "Herman\nEso es, un milagro."
+
+msgctxt "dialogue/570/0x309"
+msgid "dialogue/570/0x309"
+msgstr "Herman\nMoonbay, pon en marcha el\nUltrasaurus."
+
+msgctxt "dialogue/570/0x33f"
+msgid "dialogue/570/0x33f"
+msgstr "Herman\nFiona y Thomas, ayudad a\nMoonbay."
+
+msgctxt "dialogue/570/0x388"
+msgid "dialogue/570/0x388"
+msgstr "Moonbay\n¡Eh, eh, espera un\nmomento! ¡¿Yo?!"
+
+msgctxt "dialogue/570/0x3c7"
+msgid "dialogue/570/0x3c7"
+msgstr "Herman\nSí. Querías pilotar un\nZoid así, ¿no?"
+
+msgctxt "dialogue/570/0x406"
+msgid "dialogue/570/0x406"
+msgstr "Herman\n¿O es que la legendaria\ntransportista no es más\nque una leyenda?"
+
+msgctxt "dialogue/570/0x44d"
+msgid "dialogue/570/0x44d"
+msgstr "Moonbay\nSi me lo pones así, ¡ya\nno puedo echarme atrás!"
+
+msgctxt "dialogue/570/0x494"
+msgid "dialogue/570/0x494"
+msgstr "Herman\n¡Los demás, a frenar al\nDeath Stinger!"
+
+msgctxt "dialogue/570/0x4d4"
+msgid "dialogue/570/0x4d4"
+msgstr "O'Connell\nPero ahora mismo solo\npueden salir Van e\nIrvine."
+
+msgctxt "dialogue/570/0x525"
+msgid "dialogue/570/0x525"
+msgstr "Van\n¡Me basta y me sobra!"
+
+msgctxt "dialogue/570/0x549"
+msgid "dialogue/570/0x549"
+msgstr "Herman\nCuento contigo."
+
+msgctxt "dialogue/570/0x561"
+msgid "dialogue/570/0x561"
+msgstr "Herman\nAunque no podáis destruir\nal Death Stinger, ganad\ntodo el tiempo que\npodáis."
+
+msgctxt "dialogue/570/0x5be"
+msgid "dialogue/570/0x5be"
+msgstr "Van\n¡¿Qué dices?! ¡Voy a\nhacer papilla al Death\nStinger!"
+
+msgctxt "dialogue/570/0x613"
+msgid "dialogue/570/0x613"
+msgstr "Herman\nTe lo dejo a ti."
+
+msgctxt "dialogue/571/0xc"
+msgid "dialogue/571/0xc"
+msgstr "Regina\n{name}..."
+
+msgctxt "dialogue/571/0x2f"
+msgid "dialogue/571/0x2f"
+msgstr "Jack\nNosotros también\nayudaremos a contenerlos."
+
+msgctxt "dialogue/571/0x6f"
+msgid "dialogue/571/0x6f"
+msgstr "Herman\n¿Y vosotros?"
+
+msgctxt "dialogue/571/0x95"
+msgid "dialogue/571/0x95"
+msgstr "Arth\nCuantas más fuerzas,\nmejor. ¿No ibais a obrar\nun milagro?"
+
+msgctxt "dialogue/571/0xe0"
+msgid "dialogue/571/0xe0"
+msgstr "Herman\nJe. Así es. Cuento con\nvosotros."
+
+msgctxt "dialogue/571/0x10c"
+msgid "dialogue/571/0x10c"
+msgstr "Herman\n¡Bien, que empiece la\noperación!"
+
+msgctxt "dialogue/572/0xc"
+msgid "dialogue/572/0xc"
+msgstr "Irvine\n¿Dónde está el enemigo?\n¡¿Desde dónde demonios\nnos disparan?!"
+
+msgctxt "dialogue/572/0x57"
+msgid "dialogue/572/0x57"
+msgstr "Van\n¡Camuflaje óptico\nespecial...!\n¡¿Son Helcats?!"
+
+msgctxt "dialogue/572/0xa2"
+msgid "dialogue/572/0xa2"
+msgstr "Van\n¡Ya me enfrenté a estos\ntipos una vez!"
+
+msgctxt "dialogue/572/0xd9"
+msgid "dialogue/572/0xd9"
+msgstr "Van\n¡Nosotros los\ncontendremos aquí!\n¡{name}, ve delante!"
+
+msgctxt "dialogue/572/0x122"
+msgid "dialogue/572/0x122"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/573/0xc"
+msgid "dialogue/573/0xc"
+msgstr "Hiltz\nHmf, qué resistencia tan\ninútil... ¡Ninguno\nescapará de esta tumba!"
+
+msgctxt "dialogue/574/0xc"
+msgid "dialogue/574/0xc\n"
+msgstr "Hiltz\nSe acabó.\n"
+
+msgctxt "dialogue/575/0xc"
+msgid "dialogue/575/0xc"
+msgstr "Regina\n¡{name}!\n¡El Ultrasaurus...!"
+
+msgctxt "dialogue/575/0x43"
+msgid "dialogue/575/0x43"
+msgstr "Arth\nPor fin se despierta."
+
+msgctxt "dialogue/575/0x6f"
+msgid "dialogue/575/0x6f"
+msgstr "Jack\nParece que se ha evitado\nel impacto directo."
+
+msgctxt "dialogue/575/0xad"
+msgid "dialogue/575/0xad"
+msgstr "Hiltz\nTsk, malditos gusanos...\nOs habría ahorrado el\nsufrimiento..."
+
+msgctxt "dialogue/576/0xc"
+msgid "dialogue/576/0xc"
+msgstr "Regina\n¡¿Vas a huir?!"
+
+msgctxt "dialogue/576/0x34"
+msgid "dialogue/576/0x34"
+msgstr "Arth\nNo. Nos ha dejado ir."
+
+msgctxt "dialogue/576/0x68"
+msgid "dialogue/576/0x68"
+msgstr "Regina\n¡No puede ser!"
+
+msgctxt "dialogue/576/0x8e"
+msgid "dialogue/576/0x8e"
+msgstr "Jack\nPor desgracia... Arth\ntiene razón."
+
+msgctxt "dialogue/576/0xd2"
+msgid "dialogue/576/0xd2"
+msgstr "Regina\n...¿De verdad podemos\nvencer a eso? A ese...\na ese monstruo..."
+
+msgctxt "dialogue/576/0x130"
+msgid "dialogue/576/0x130"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/576/0x151"
+msgid "dialogue/576/0x151"
+msgstr "Arth\nVenceremos."
+
+msgctxt "dialogue/576/0x16f"
+msgid "dialogue/576/0x16f"
+msgstr "Regina\n...Arth..."
+
+msgctxt "dialogue/576/0x19d"
+msgid "dialogue/576/0x19d"
+msgstr "Jack\nQue un 50% de\nprobabilidades se vuelva\n0 o 100 depende del\nánimo de cada uno."
+
+msgctxt "dialogue/576/0x1f4"
+msgid "dialogue/576/0x1f4"
+msgstr "Jack\nVan y los demás obraron\nun milagro."
+
+msgctxt "dialogue/576/0x224"
+msgid "dialogue/576/0x224"
+msgstr "Jack\nEntonces nosotros también\npodemos hacerlo."
+
+msgctxt "dialogue/576/0x270"
+msgid "dialogue/576/0x270"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/576/0x291"
+msgid "dialogue/576/0x291"
+msgstr "Regina\n...¡Es verdad!\n¡Podemos obrar milagros!"
+
+msgctxt "dialogue/576/0x2d0"
+msgid "dialogue/576/0x2d0"
+msgstr "Arth\nVolvamos al Ultrasaurus."
+
+msgctxt "dialogue/577/0x3"
+msgid "dialogue/577/0x3"
+msgstr "Militar de la República\nBuen trabajo."
+
+msgctxt "dialogue/577/0x2d"
+msgid "dialogue/577/0x2d"
+msgstr "Jack\n¿Y Van y los demás?\n¿El Ultrasaurus está\nbien?"
+
+msgctxt "dialogue/577/0x6f"
+msgid "dialogue/577/0x6f"
+msgstr "Militar de la República\n¡Sí, señor!"
+
+msgctxt "dialogue/577/0x87"
+msgid "dialogue/577/0x87"
+msgstr "Militar de la República\nNos informan de que el\nalférez Van Flyheight se\nha reunido sano y salvo\ncon el Ultrasaurus."
+
+msgctxt "dialogue/577/0xe6"
+msgid "dialogue/577/0xe6"
+msgstr "Militar de la República\nAdemás, el comandante del\nUltrasaurus, el coronel\nHerman, les ha dejado un\nmensaje."
+
+msgctxt "dialogue/577/0x143"
+msgid "dialogue/577/0x143"
+msgstr "Jack\n¿El comandante del\nUltrasaurus no era el\ncoronel Krueger?"
+
+msgctxt "dialogue/577/0x185"
+msgid "dialogue/577/0x185"
+msgstr "Militar de la República\nEl coronel Krueger fue\nherido mientras dirigía\nel combate."
+
+msgctxt "dialogue/577/0x1c2"
+msgid "dialogue/577/0x1c2"
+msgstr "Militar de la República\nAhora es el coronel\nHerman quien está al\nmando."
+
+msgctxt "dialogue/577/0x20b"
+msgid "dialogue/577/0x20b"
+msgstr "Jack\nYa veo...\n¿Y qué dice el coronel\nHerman?"
+
+msgctxt "dialogue/577/0x247"
+msgid "dialogue/577/0x247"
+msgstr "Militar de la República\n¡Sí! Les felicita por su\nlabor y les agradece su\ncolaboración."
+
+msgctxt "dialogue/577/0x29c"
+msgid "dialogue/577/0x29c"
+msgstr "Arth\nNos agradece la\ncolaboración..."
+
+msgctxt "dialogue/577/0x2c8"
+msgid "dialogue/577/0x2c8"
+msgstr "Regina\n¡Aun así, no tenían por\nqué dejarnos atrás!"
+
+msgctxt "dialogue/577/0x310"
+msgid "dialogue/577/0x310"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/577/0x331"
+msgid "dialogue/577/0x331"
+msgstr "Jack\nVamos, vamos."
+
+msgctxt "dialogue/577/0x355"
+msgid "dialogue/577/0x355"
+msgstr "Jack\nEl Ultrasaurus parecía\nestar desarmado. Quedarse\nallí habría sido\npeligroso."
+
+msgctxt "dialogue/577/0x3ba"
+msgid "dialogue/577/0x3ba"
+msgstr "Regina\n¡Puede que sí, pero no\nme convence!"
+
+msgctxt "dialogue/577/0x3fe"
+msgid "dialogue/577/0x3fe"
+msgstr "Jack\n¿Adónde se ha dirigido\nel Ultrasaurus?"
+
+msgctxt "dialogue/577/0x43c"
+msgid "dialogue/577/0x43c"
+msgstr "Militar de la República\n¡Sí! A la fábrica secreta\ndel ejército imperial en\nlas islas Piremden."
+
+msgctxt "dialogue/577/0x485"
+msgid "dialogue/577/0x485"
+msgstr "Jack\nYa lo habéis oído.\n¿Qué hacemos?"
+
+msgctxt "dialogue/577/0x4bb"
+msgid "dialogue/577/0x4bb"
+msgstr "Regina\n¡Está claro! ¡Nosotros\ntambién vamos para allá!"
+
+msgctxt "dialogue/577/0x504"
+msgid "dialogue/577/0x504"
+msgstr "Arth\nA nadie le gustan las\nmujeres pesadas."
+
+msgctxt "dialogue/577/0x532"
+msgid "dialogue/577/0x532"
+msgstr "Regina\n¡Cállate! ¡Los hombres\npesados gustan todavía\nmenos!"
+
+msgctxt "dialogue/577/0x57c"
+msgid "dialogue/577/0x57c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/577/0x594"
+msgid "dialogue/577/0x594"
+msgstr "Militar de la República\nAdemás, el Dr. D tiene un\nasunto urgente con\nustedes."
+
+msgctxt "dialogue/577/0x5d7"
+msgid "dialogue/577/0x5d7"
+msgstr "Militar de la República\nY el coronel Herman les\nha dejado otro mensaje,\npero..."
+
+msgctxt "dialogue/577/0x62e"
+msgid "dialogue/577/0x62e"
+msgstr "Regina\n¿Qué?"
+
+msgctxt "dialogue/577/0x647"
+msgid "dialogue/577/0x647"
+msgstr "Militar de la República\n¡Sí! Las islas Piremden\nestán en el mar, al\nnoreste de aquí."
+
+msgctxt "dialogue/577/0x68a"
+msgid "dialogue/577/0x68a"
+msgstr "Militar de la República\nTengo órdenes de\nllevarlos en el Whale\nKing."
+
+msgctxt "dialogue/577/0x6d9"
+msgid "dialogue/577/0x6d9"
+msgstr "Jack\nEntendido. Se lo\nagradecemos."
+
+msgctxt "dialogue/577/0x703"
+msgid "dialogue/577/0x703"
+msgstr "Jack\nBueno, pongámonos en\nmarcha."
+
+msgctxt "dialogue/578/0xc"
+msgid "dialogue/578/0xc"
+msgstr "Dr. D\n¡Oh, sois vosotros!\nCuánto tiempo."
+
+msgctxt "dialogue/578/0x50"
+msgid "dialogue/578/0x50"
+msgstr "Jack\nCuánto tiempo, Dr. D.\nPor cierto, ¿qué hace\nusted aquí?"
+
+msgctxt "dialogue/578/0xad"
+msgid "dialogue/578/0xad"
+msgstr "Dr. D\nBah, nada importante.\nEstaba montando un cañón\nque he inventado."
+
+msgctxt "dialogue/578/0x114"
+msgid "dialogue/578/0x114"
+msgstr "Arth\n¿Un cañón?"
+
+msgctxt "dialogue/578/0x134"
+msgid "dialogue/578/0x134"
+msgstr "Dr. D\nUn cañón de 25 metros,\ncalibre 16. La mayor y\nmás potente arma de\ngravedad: el Gravity\nCannon."
+
+msgctxt "dialogue/578/0x193"
+msgid "dialogue/578/0x193"
+msgstr "Regina\n¿El Gravity Cannon?\n¿Y dónde lo tiene\ninstalado?"
+
+msgctxt "dialogue/578/0x1e4"
+msgid "dialogue/578/0x1e4"
+msgstr "Dr. D\nParece que es tan grande\nque no lo veis. Mirad,\nese es el Gravity Cannon."
+
+msgctxt "dialogue/579/0xc"
+msgid "dialogue/579/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/579/0x2d"
+msgid "dialogue/579/0x2d"
+msgstr "Regina\n¡¿Esto es un cañón?!"
+
+msgctxt "dialogue/579/0x57"
+msgid "dialogue/579/0x57"
+msgstr "Arth\nQué tamaño..."
+
+msgctxt "dialogue/579/0x85"
+msgid "dialogue/579/0x85"
+msgstr "Jack\nEl Gravity Cannon...\n¿Así que es esto...?"
+
+msgctxt "dialogue/579/0xd6"
+msgid "dialogue/579/0xd6"
+msgstr "Dr. D\nAsí es."
+
+msgctxt "dialogue/579/0xf0"
+msgid "dialogue/579/0xf0"
+msgstr "Dr. D\nNi el Death Stinger\npodría resistir la\nsupergravedad que\ngenera."
+
+msgctxt "dialogue/579/0x147"
+msgid "dialogue/579/0x147"
+msgstr "Dr. D\n...Eso me gustaría\ndecir, pero..."
+
+msgctxt "dialogue/579/0x189"
+msgid "dialogue/579/0x189"
+msgstr "Regina\n¿...?"
+
+msgctxt "dialogue/579/0x1a7"
+msgid "dialogue/579/0x1a7"
+msgstr "Jack\n¿Qué ocurre, Dr. D?"
+
+msgctxt "dialogue/579/0x1e1"
+msgid "dialogue/579/0x1e1"
+msgstr "Dr. D\nMm. Nos han robado los\nproyectiles, que es lo\nmás importante."
+
+msgctxt "dialogue/579/0x221"
+msgid "dialogue/579/0x221"
+msgstr "Arth\n¿Proyectiles? Pues se\nfabrican en serie y..."
+
+msgctxt "dialogue/579/0x259"
+msgid "dialogue/579/0x259"
+msgstr "Dr. D\nEso querría, pero estos\nproyectiles no son unos\ncualquiera."
+
+msgctxt "dialogue/579/0x2ae"
+msgid "dialogue/579/0x2ae"
+msgstr "Dr. D\nUsan una sustancia\nextremadamente valiosa\nllamada Planetal Site."
+
+msgctxt "dialogue/579/0x2f5"
+msgid "dialogue/579/0x2f5"
+msgstr "Dr. D\nY además, pesan una\nbarbaridad."
+
+msgctxt "dialogue/579/0x31f"
+msgid "dialogue/579/0x31f"
+msgstr "Dr. D\nEsta Planetal Site tiene\ngravedad interna."
+
+msgctxt "dialogue/579/0x362"
+msgid "dialogue/579/0x362"
+msgstr "Dr. D\nAl someterla a una\npresión brusca, sufre un\ncolapso gravitatorio"
+
+msgctxt "dialogue/579/0x3ad"
+msgid "dialogue/579/0x3ad"
+msgstr "Dr. D\ny se produce un fenómeno\nde agujero negro."
+
+msgctxt "dialogue/579/0x3db"
+msgid "dialogue/579/0x3db"
+msgstr "Dr. D\nLa supergravedad que se\ngenera se descarga en\nuna sola dirección."
+
+msgctxt "dialogue/579/0x41e"
+msgid "dialogue/579/0x41e"
+msgstr "Dr. D\nPero nos han robado\nprecisamente esa\nPlanetal Site."
+
+msgctxt "dialogue/579/0x471"
+msgid "dialogue/579/0x471"
+msgstr "Jack\nPero aunque la hayan\nrobado, ¿cómo sabemos\ndónde está...?"
+
+msgctxt "dialogue/579/0x4bc"
+msgid "dialogue/579/0x4bc"
+msgstr "Dr. D\nAh, por eso no os\npreocupéis. Sé dónde\nestá."
+
+msgctxt "dialogue/579/0x509"
+msgid "dialogue/579/0x509"
+msgstr "Jack\n¡¿Eh?!"
+
+msgctxt "dialogue/579/0x52d"
+msgid "dialogue/579/0x52d"
+msgstr "Dr. D\n¿No os he dicho que la\nPlanetal Site tiene\ngravedad interna?"
+
+msgctxt "dialogue/579/0x576"
+msgid "dialogue/579/0x576"
+msgstr "Dr. D\nAl detectar anomalías\ngravitatorias, he sabido\nque la escondieron\nrepartida en 7 lugares."
+
+msgctxt "dialogue/579/0x5d1"
+msgid "dialogue/579/0x5d1"
+msgstr "Dr. D\nPesa una barbaridad. El\nladrón no ha podido\nllevarla muy lejos."
+
+msgctxt "dialogue/579/0x628"
+msgid "dialogue/579/0x628"
+msgstr "Dr. D\nY estoy afinando aún más\nsu ubicación exacta."
+
+msgctxt "dialogue/579/0x66c"
+msgid "dialogue/579/0x66c"
+msgstr "Regina\nPero si ya sabe tanto..."
+
+msgctxt "dialogue/579/0x6ae"
+msgid "dialogue/579/0x6ae"
+msgstr "Dr. D\nEso querría, pero hace\npoco nos ha detectado un\navión de reconocimiento\nenemigo."
+
+msgctxt "dialogue/579/0x6f5"
+msgid "dialogue/579/0x6f5"
+msgstr "Dr. D\nEs seguro que los\nsecuaces de Hiltz nos\natacarán desde el aire."
+
+msgctxt "dialogue/579/0x74c"
+msgid "dialogue/579/0x74c"
+msgstr "Jack\n¿Quiere decir que no\npuede destinar a nadie a\nrecuperar la Planetal\nSite?"
+
+msgctxt "dialogue/579/0x79d"
+msgid "dialogue/579/0x79d"
+msgstr "Dr. D\nAsí es. Quiero pediros\nque recuperéis la\nPlanetal Site."
+
+msgctxt "dialogue/579/0x7e4"
+msgid "dialogue/579/0x7e4"
+msgstr "Dr. D\nUsad el Zoid acuático\nDragoon Nest."
+
+msgctxt "dialogue/579/0x825"
+msgid "dialogue/579/0x825"
+msgstr "Dr. D\nCon él podréis buscar\ntambién en el mar."
+
+msgctxt "dialogue/579/0x863"
+msgid "dialogue/579/0x863"
+msgstr "Jack\n¡¿El Dragoon Nest?!\n¿Qué hace aquí?"
+
+msgctxt "dialogue/579/0x8ac"
+msgid "dialogue/579/0x8ac"
+msgstr "Dr. D\nJo, jo, jo. Para un\ngenio no hay nada\nimposible."
+
+msgctxt "dialogue/579/0x8ea"
+msgid "dialogue/579/0x8ea"
+msgstr "Jack\n¿Qué quiere decir,\nDr. D?"
+
+msgctxt "dialogue/579/0x924"
+msgid "dialogue/579/0x924"
+msgstr "Dr. D\n...Oh, qué buen tiempo\nhace... Un día perfecto\npara esquiar..."
+
+msgctxt "dialogue/579/0x977"
+msgid "dialogue/579/0x977"
+msgstr "Jack\n......"
+
+msgctxt "dialogue/579/0x99f"
+msgid "dialogue/579/0x99f"
+msgstr "Arth\nViejo de manos largas...\nNos has robado los\ndatos de los Zoids."
+
+msgctxt "dialogue/579/0x9f6"
+msgid "dialogue/579/0x9f6"
+msgstr "Dr. D\n¡Qué grosería, robado!\n¡Llámalo curiosidad\nintelectual!"
+
+msgctxt "dialogue/579/0xa33"
+msgid "dialogue/579/0xa33"
+msgstr "Dr. D\nAdemás, solo con los\nplanos no habríais podido\nconstruirlo, ¿verdad?"
+
+msgctxt "dialogue/579/0xa7a"
+msgid "dialogue/579/0xa7a"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/579/0xa9b"
+msgid "dialogue/579/0xa9b"
+msgstr "Regina\n...Bueno, si hubiéramos\npodido usarlo desde el\nprincipio, el viaje\nhabría sido más fácil..."
+
+msgctxt "dialogue/579/0xaf8"
+msgid "dialogue/579/0xaf8"
+msgstr "Regina\n...Hay que ver."
+
+msgctxt "dialogue/579/0xb26"
+msgid "dialogue/579/0xb26"
+msgstr "Dr. D\nJo, jo, jo. No seáis tan\nestrictos."
+
+msgctxt "dialogue/579/0xb59"
+msgid "dialogue/579/0xb59"
+msgstr "Dr. D\nPara compensaros, os\nacompañarán Irvine y\nThomas."
+
+msgctxt "dialogue/579/0xbaa"
+msgid "dialogue/579/0xbaa"
+msgstr "Irvine\n¡Eh, viejo! ¡No decidas\nlas cosas por tu cuenta!"
+
+msgctxt "dialogue/579/0xbec"
+msgid "dialogue/579/0xbec"
+msgstr "Thomas\n¡Y no hable de mí como si\nfuera un regalo que viene\ncon el Dragoon Nest!"
+
+msgctxt "dialogue/579/0xc4b"
+msgid "dialogue/579/0xc4b"
+msgstr "Dr. D\n¿Lo haréis?"
+
+msgctxt "dialogue/579/0xc79"
+msgid "dialogue/579/0xc79"
+msgstr "Regina\n¿{name}?"
+
+msgctxt "dialogue/579/0xc99"
+msgid "dialogue/579/0xc99"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/579/0xcba"
+msgid "dialogue/579/0xcba"
+msgstr "Regina\nAceptamos."
+
+msgctxt "dialogue/579/0xce6"
+msgid "dialogue/579/0xce6"
+msgstr "Dr. D\nBien. Os lo agradezco."
+
+msgctxt "dialogue/579/0xd0a"
+msgid "dialogue/579/0xd0a"
+msgstr "Dr. D\nAdemás, puede que el que\nrobó la Planetal Site no\nsea Hiltz."
+
+msgctxt "dialogue/579/0xd6d"
+msgid "dialogue/579/0xd6d"
+msgstr "Arth\n¿Qué quieres decir?"
+
+msgctxt "dialogue/579/0xd97"
+msgid "dialogue/579/0xd97"
+msgstr "Dr. D\nÉl no usaría un método\ntan retorcido."
+
+msgctxt "dialogue/579/0xde0"
+msgid "dialogue/579/0xde0"
+msgstr "Dr. D\nQuizá sea algún conocido\nvuestro."
+
+msgctxt "dialogue/579/0xe2f"
+msgid "dialogue/579/0xe2f"
+msgstr "Arth\n...¿Opis? ¿O Blood...?"
+
+msgctxt "dialogue/579/0xe74"
+msgid "dialogue/579/0xe74"
+msgstr "Jack\nNo lo sé... Pero pronto\nlo averiguaremos."
+
+msgctxt "dialogue/579/0xec1"
+msgid "dialogue/579/0xec1"
+msgstr "Arth\nHmf, eso es cierto."
+
+msgctxt "dialogue/579/0xeeb"
+msgid "dialogue/579/0xeeb"
+msgstr "Dr. D\nParece que tenéis alguna\nsospecha. En cualquier\ncaso, no hay tiempo.\nDaos prisa."
+
+msgctxt "dialogue/579/0xf46"
+msgid "dialogue/579/0xf46"
+msgstr "Irvine\nBueno, pues contad\nconmigo, ¿eh?"
+
+msgctxt "dialogue/579/0xf80"
+msgid "dialogue/579/0xf80"
+msgstr "Thomas\nCuento con vosotros."
+
+msgctxt "dialogue/579/0xfa6"
+msgid "dialogue/579/0xfa6\n"
+msgstr "Jack\nLo mismo digo. Contamos\ncon vosotros.\n"
+
+msgctxt "dialogue/579/0xfd3"
+msgid "dialogue/579/0xfd3"
+msgstr "Jack\nVamos, príncipe."
+
+msgctxt "dialogue/579/0xff8"
+msgid "dialogue/579/0xff8"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/579/0x1010"
+msgid "dialogue/579/0x1010"
+msgstr "Irvine y Thomas se han\nunido al grupo."
+
+msgctxt "dialogue/580/0xc"
+msgid "dialogue/580/0xc"
+msgstr "Jack\nAlteza, mensaje del\nDr. D."
+
+msgctxt "dialogue/580/0x44"
+msgid "dialogue/580/0x44"
+msgstr "Dr. D\nSoy yo. He localizado las\nPlanetal Sites."
+
+msgctxt "dialogue/580/0x83"
+msgid "dialogue/580/0x83"
+msgstr "Dr. D\nSeis de ellas están\nescondidas bajo tierra."
+
+msgctxt "dialogue/580/0xb3"
+msgid "dialogue/580/0xb3"
+msgstr "Dr. D\nLa otra no la localizo;\nparece que se mueve..."
+
+msgctxt "dialogue/580/0xf4"
+msgid "dialogue/580/0xf4"
+msgstr "Dr. D\nEn las ruinas de una isla\nal sur de aquí y en una\ncueva submarina del mar\ndel oeste, eso es."
+
+msgctxt "dialogue/580/0x14b"
+msgid "dialogue/580/0x14b"
+msgstr "Dr. D\nHay tres señales en cada\nsitio. Id enseguida."
+
+msgctxt "dialogue/581/0xc"
+msgid "dialogue/581/0xc"
+msgstr "Arth\n¡Planetal Site\nencontrada!"
+
+msgctxt "dialogue/582/0xc"
+msgid "dialogue/582/0xc"
+msgstr "Arth\nÉl es..."
+
+msgctxt "dialogue/582/0x30"
+msgid "dialogue/582/0x30"
+msgstr "Regina\nRaven, ¿no estabas\nluchando contra el\nDeath Stinger?"
+
+msgctxt "dialogue/582/0x80"
+msgid "dialogue/582/0x80"
+msgstr "Jack\n¿...Qué significa esto?"
+
+msgctxt "dialogue/582/0xbc"
+msgid "dialogue/582/0xbc"
+msgstr "Raven\n...Vosotros... ¿Queréis\nalgo?"
+
+msgctxt "dialogue/582/0xff"
+msgid "dialogue/582/0xff"
+msgstr "Regina\n¡Eh! Pues, esto..."
+
+msgctxt "dialogue/582/0x135"
+msgid "dialogue/582/0x135"
+msgstr "Arth\nSolo estamos de paso."
+
+msgctxt "dialogue/582/0x161"
+msgid "dialogue/582/0x161"
+msgstr "Raven\n...Ya."
+
+msgctxt "dialogue/583/0xc"
+msgid "dialogue/583/0xc"
+msgstr "Arth\n¿Por qué luchabas contra\nel Death Stinger?"
+
+msgctxt "dialogue/584/0xc"
+msgid "dialogue/584/0xc"
+msgstr "Jack\nUsted luchaba contra el\nDeath Stinger. ¿Por qué?"
+
+msgctxt "dialogue/584/0x55"
+msgid "dialogue/584/0x55"
+msgstr "Jack\n¿No eran aliados usted\ny Hiltz?"
+
+msgctxt "dialogue/584/0x9c"
+msgid "dialogue/584/0x9c"
+msgstr "Raven\n¿Aliados? Je. Yo no tengo\naliados."
+
+msgctxt "dialogue/584/0xc9"
+msgid "dialogue/584/0xc9"
+msgstr "Raven\n¿Y a vosotros qué os\nimporta contra quién\nluche yo?"
+
+msgctxt "dialogue/584/0x10e"
+msgid "dialogue/584/0x10e"
+msgstr "Jack\nNada. Pero parece que\ntenemos el mismo enemigo."
+
+msgctxt "dialogue/584/0x153"
+msgid "dialogue/584/0x153"
+msgstr "Raven\n¿Vosotros vais a luchar\ncontra el Death Stinger?"
+
+msgctxt "dialogue/584/0x192"
+msgid "dialogue/584/0x192"
+msgstr "Raven\nJe, je, je. Qué chiste\ntan gracioso."
+
+msgctxt "dialogue/585/0xc"
+msgid "dialogue/585/0xc"
+msgstr "Reese\n...Raven."
+
+msgctxt "dialogue/585/0x34"
+msgid "dialogue/585/0x34"
+msgstr "Regina\n¡...! ¡Tú eres...!"
+
+msgctxt "dialogue/585/0x66"
+msgid "dialogue/585/0x66"
+msgstr "Raven\nTranquila, Reese. Dicen\nque luchan contra el\nDeath Stinger."
+
+msgctxt "dialogue/585/0xbd"
+msgid "dialogue/585/0xbd"
+msgstr "Reese\n¿¡Contra Hiltz!? ¡Hiltz,\nno te lo perdonaré!"
+
+msgctxt "dialogue/585/0x102"
+msgid "dialogue/585/0x102"
+msgstr "Jack\n¿Ha pasado algo...?"
+
+msgctxt "dialogue/585/0x12a"
+msgid "dialogue/585/0x12a"
+msgstr "Raven\n¡Ya os he dicho que no es\nasunto vuestro!"
+
+msgctxt "dialogue/585/0x16e"
+msgid "dialogue/585/0x16e"
+msgstr "Jack\nCierto. Pero podemos ser\naliados."
+
+msgctxt "dialogue/585/0x1aa"
+msgid "dialogue/585/0x1aa"
+msgstr "Raven\n¿Aliados? ¡No me hagas\nreír! ¡Vosotros no podéis\ncon Hiltz!"
+
+msgctxt "dialogue/585/0x1ff"
+msgid "dialogue/585/0x1ff"
+msgstr "Arth\nPues ayúdanos."
+
+msgctxt "dialogue/585/0x223"
+msgid "dialogue/585/0x223"
+msgstr "Raven\n¿Qué?"
+
+msgctxt "dialogue/585/0x245"
+msgid "dialogue/585/0x245"
+msgstr "Arth\nNosotros solos no\npodemos con el Death\nStinger. Así que\nayúdanos."
+
+msgctxt "dialogue/585/0x286"
+msgid "dialogue/585/0x286"
+msgstr "Arth\nTú tampoco querrás que\nesto acabe así, ¿no?"
+
+msgctxt "dialogue/585/0x2be"
+msgid "dialogue/585/0x2be"
+msgstr "Raven\nJe, je, je...\n¡Ja, ja, ja! ¿Lo has\noído, Reese?"
+
+msgctxt "dialogue/585/0x2f5"
+msgid "dialogue/585/0x2f5"
+msgstr "Raven\nQuieren que les ayude...\nJe, je, je. Esto sí que\ntiene gracia..."
+
+msgctxt "dialogue/585/0x34e"
+msgid "dialogue/585/0x34e"
+msgstr "Reese\n...Raven."
+
+msgctxt "dialogue/585/0x376"
+msgid "dialogue/585/0x376"
+msgstr "Raven\nMuy bien."
+
+msgctxt "dialogue/585/0x39c"
+msgid "dialogue/585/0x39c"
+msgstr "Reese\n¿Raven?"
+
+msgctxt "dialogue/585/0x3c0"
+msgid "dialogue/585/0x3c0"
+msgstr "Raven\nOs haré el favor que me\npedís."
+
+msgctxt "dialogue/585/0x3f4"
+msgid "dialogue/585/0x3f4"
+msgstr "Raven\n¡Eso sí! Yo lucharé a mi\nmanera. Nada de darme\nórdenes."
+
+msgctxt "dialogue/585/0x441"
+msgid "dialogue/585/0x441"
+msgstr "Jack\nEntendido. Encantado,\nRaven, señorita Reese."
+
+msgctxt "dialogue/585/0x48f"
+msgid "dialogue/585/0x48f"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/585/0x4a7"
+msgid "dialogue/585/0x4a7"
+msgstr "Raven y Reese se han\nunido al grupo."
+
+msgctxt "dialogue/586/0xc"
+msgid "dialogue/586/0xc"
+msgstr "Jack\nYa hemos recuperado seis.\nSolo queda una."
+
+msgctxt "dialogue/586/0x5f"
+msgid "dialogue/586/0x5f"
+msgstr "Regina\nPero ¿quién habrá hecho\nesto...? ¿Serán Opis y\nBlood, al final?"
+
+msgctxt "dialogue/586/0xbc"
+msgid "dialogue/586/0xbc"
+msgstr "Jack\nEso... no sabría\ndecirle... Vaya, un\nmensaje urgente."
+
+msgctxt "dialogue/586/0x111"
+msgid "dialogue/586/0x111"
+msgstr "Dr. D\n¡Esto es grave!"
+
+msgctxt "dialogue/586/0x12d"
+msgid "dialogue/586/0x12d"
+msgstr "Dr. D\n¡La señal de la última\nPlanetal Site viene\nhacia aquí!"
+
+msgctxt "dialogue/586/0x184"
+msgid "dialogue/586/0x184"
+msgstr "Regina\n¡¿Eh?! ¡¿Qué quiere decir\neso?!"
+
+msgctxt "dialogue/586/0x1ba"
+msgid "dialogue/586/0x1ba"
+msgstr "Arth\nAquí llega el verdadero\nculpable."
+
+msgctxt "dialogue/586/0x1e2"
+msgid "dialogue/586/0x1e2"
+msgstr "Jack\n¡Volvamos deprisa al\nasentamiento!"
+
+msgctxt "dialogue/587/0xc"
+msgid "dialogue/587/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/587/0x2d"
+msgid "dialogue/587/0x2d"
+msgstr "Blood\n¡Ya os lo dije!\n¡¡Es mío!!"
+
+msgctxt "dialogue/587/0x60"
+msgid "dialogue/587/0x60"
+msgstr "Blood\n¡¡No consentiré que\nhagáis daño al Death\nStinger!!"
+
+msgctxt "dialogue/587/0x9d"
+msgid "dialogue/587/0x9d"
+msgstr "Blood\n¡Vamos, entregadme esa\nPlanetal Site!"
+
+msgctxt "dialogue/587/0xdd"
+msgid "dialogue/587/0xdd"
+msgstr "Regina\n¡Ni hablar! ¡¡Eres tú\nquien tiene que devolver\nlas Planetal Sites!!"
+
+msgctxt "dialogue/588/0xc"
+msgid "dialogue/588/0xc"
+msgstr "Blood\n¡Opis! ¡¡Maldito!! ¡¡No\nte metas en esto!!"
+
+msgctxt "dialogue/588/0x53"
+msgid "dialogue/588/0x53"
+msgstr "Opis\n¡Eso digo yo, Blood! ¿Qué\ndemonios haces aquí?"
+
+msgctxt "dialogue/588/0xaa"
+msgid "dialogue/588/0xaa"
+msgstr "Blood\nNo es asunto tuyo."
+
+msgctxt "dialogue/588/0xde"
+msgid "dialogue/588/0xde"
+msgstr "Opis\n¿Qué pretendes, Blood?\n...¿Piensas desafiar a Su\nMajestad el Emperador?"
+
+msgctxt "dialogue/588/0x135"
+msgid "dialogue/588/0x135"
+msgstr "Blood\nY si así fuera...\n¿qué harías?"
+
+msgctxt "dialogue/588/0x16b"
+msgid "dialogue/588/0x16b"
+msgstr "Opis\nJi, ji, ji. Por fin te\nquitas la máscara, Blood.\n¡¡Pues haré esto!!"
+
+msgctxt "dialogue/589/0xc"
+msgid "dialogue/589/0xc"
+msgstr "Blood\n¡¿Qué?! ¡¿La Planetal\nSite ha provocado un\ncolapso gravitatorio?!"
+
+msgctxt "dialogue/589/0x5f"
+msgid "dialogue/589/0x5f"
+msgstr "Opis\n¡Ji, ji, ji! ¡Ya había\nmanipulado la Planetal\nSite que te di!"
+
+msgctxt "dialogue/589/0xc2"
+msgid "dialogue/589/0xc2"
+msgstr "Opis\n¡¡Que te aplaste!!\n¡¡Blood!!"
+
+msgctxt "dialogue/589/0x107"
+msgid "dialogue/589/0x107"
+msgstr "Blood\n¡¡Aaaaargh!! ¡Opis!\n¡¡Maldito!!"
+
+msgctxt "dialogue/589/0x14c"
+msgid "dialogue/589/0x14c"
+msgstr "Opis\n¿Qué te parece la\nsupergravedad?"
+
+msgctxt "dialogue/589/0x174"
+msgid "dialogue/589/0x174"
+msgstr "Opis\nAh, no hace falta que me\ndes tu opinión. ¡Ji, ji,\nji!"
+
+msgctxt "dialogue/590/0xc"
+msgid "dialogue/590/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/590/0x2d"
+msgid "dialogue/590/0x2d"
+msgstr "Regina\n¡¡{name}!!"
+
+msgctxt "dialogue/590/0x50"
+msgid "dialogue/590/0x50"
+msgstr "Blood\n¡¿...?! ¡Tsk!"
+
+msgctxt "dialogue/591/0xc"
+msgid "dialogue/591/0xc"
+msgstr "Opis\n¡Co-cobarde!\n¡¡¿Qué haces?!!"
+
+msgctxt "dialogue/591/0x44"
+msgid "dialogue/591/0x44"
+msgstr "Opis\n¡Maldición, el sistema de\ncontrol! ¡Grr, ya me las\npagaréis!"
+
+msgctxt "dialogue/591/0x8f"
+msgid "dialogue/591/0x8f"
+msgstr "Opis\nBlood... ¡Informaré de\nesto a Su Majestad!\n¡Ji, ji, ji!"
+
+msgctxt "dialogue/592/0xc"
+msgid "dialogue/592/0xc"
+msgstr "Regina\n¡¡{name}!! ¡¡Aguanta!!"
+
+msgctxt "dialogue/593/0xc"
+msgid "dialogue/593/0xc"
+msgstr "Blood\n¿Por qué...?"
+
+msgctxt "dialogue/593/0x34"
+msgid "dialogue/593/0x34"
+msgstr "Blood\n¡¿Por qué me has salvado,\n{name}?!"
+
+msgctxt "dialogue/593/0x65"
+msgid "dialogue/593/0x65"
+msgstr "Regina\n¡Calla ya! ¡¡Encima de\nque te han salvado, aún\nte quejas!!"
+
+msgctxt "dialogue/593/0xc0"
+msgid "dialogue/593/0xc0"
+msgstr "Regina\n¡¡Es que el príncipe es\nun buenazo sin remedio!!"
+
+msgctxt "dialogue/593/0x10f"
+msgid "dialogue/593/0x10f"
+msgstr "Blood\n¡Tsk!"
+
+msgctxt "dialogue/594/0xc"
+msgid "dialogue/594/0xc"
+msgstr "Regina\n¡{name}, aguanta!\nPor favor...\n¡despierta...!"
+
+msgctxt "dialogue/594/0x5d"
+msgid "dialogue/594/0x5d"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/594/0x7e"
+msgid "dialogue/594/0x7e"
+msgstr "Regina\n¡¡{name}!!\n¡¡No vuelvas a hacer una\nlocura así!!"
+
+msgctxt "dialogue/594/0xbf"
+msgid "dialogue/594/0xbf"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/594/0xe0"
+msgid "dialogue/594/0xe0"
+msgstr "Regina\nDesde luego..."
+
+msgctxt "dialogue/594/0x10e"
+msgid "dialogue/594/0x10e"
+msgstr "Jack\nPríncipe, yo también se\nlo ruego. No cometa más\nimprudencias."
+
+msgctxt "dialogue/594/0x161"
+msgid "dialogue/594/0x161"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/594/0x187"
+msgid "dialogue/594/0x187"
+msgstr "Jack\nEn fin, con esto ya hemos\nrecuperado todos los\nPlanetal Sites."
+
+msgctxt "dialogue/594/0x1d6"
+msgid "dialogue/594/0x1d6"
+msgstr "Jack\nVamos, volvamos con el\nDr. D."
+
+msgctxt "dialogue/595/0xc"
+msgid "dialogue/595/0xc"
+msgstr "Dr. D\n¡Oh, os estaba esperando!"
+
+msgctxt "dialogue/595/0x36"
+msgid "dialogue/595/0x36"
+msgstr "Dr. D\n¡Buen trabajo! ¡Con esto\nel Gravity Cannon ya está\nterminado!"
+
+msgctxt "dialogue/595/0x79"
+msgid "dialogue/595/0x79"
+msgstr "Dr. D\nY parece que el\nUltrasaurus también ha\nllegado por fin."
+
+msgctxt "dialogue/596/0xc"
+msgid "dialogue/596/0xc"
+msgstr "Moonbay\nAy, qué hombros tengo de\nla tensión..."
+
+msgctxt "dialogue/596/0x38"
+msgid "dialogue/596/0x38"
+msgstr "Herman\nPues has pilotado la\nnave de maravilla."
+
+msgctxt "dialogue/596/0x66"
+msgid "dialogue/596/0x66"
+msgstr "Herman\n¡Vamos, instalad el\nGravity Cannon y salgamos\nal paso del Death\nStinger!"
+
+msgctxt "dialogue/597/0xc"
+msgid "dialogue/597/0xc"
+msgstr "Jack\n¿Y dónde está ahora el\nDeath Stinger?"
+
+msgctxt "dialogue/597/0x4c"
+msgid "dialogue/597/0x4c"
+msgstr "Dr. D\nMmm."
+
+msgctxt "dialogue/597/0x62"
+msgid "dialogue/597/0x62"
+msgstr "Dr. D\nEl Death Stinger avanza\nhacia la capital\nimperial, Guygalos."
+
+msgctxt "dialogue/597/0xad"
+msgid "dialogue/597/0xad"
+msgstr "Dr. D\nArrasando las ciudades\nque hay por el camino."
+
+msgctxt "dialogue/597/0xe5"
+msgid "dialogue/597/0xe5"
+msgstr "Irvine\nEl muy considerado está\ndestrozando el camino que\nrecorrimos hasta\nGuygalos."
+
+msgctxt "dialogue/597/0x150"
+msgid "dialogue/597/0x150"
+msgstr "Regina\n¿? ¿Por qué hace eso?"
+
+msgctxt "dialogue/597/0x182"
+msgid "dialogue/597/0x182"
+msgstr "Van\nHiltz lo niega todo.\nTodo lo que hemos\nhecho..."
+
+msgctxt "dialogue/597/0x1d7"
+msgid "dialogue/597/0x1d7"
+msgstr "Van\nY hasta lo que vamos a\nhacer."
+
+msgctxt "dialogue/597/0x20d"
+msgid "dialogue/597/0x20d"
+msgstr "Jack\nEntonces, ¿el próximo\nsitio donde aparecerá el\nDeath Stinger es este?"
+
+msgctxt "dialogue/597/0x258"
+msgid "dialogue/597/0x258"
+msgstr "Van\nLa meseta de Galil."
+
+msgctxt "dialogue/597/0x27c"
+msgid "dialogue/597/0x27c"
+msgstr "Herman\nOs explicaré el plan."
+
+msgctxt "dialogue/597/0x29a"
+msgid "dialogue/597/0x29a"
+msgstr "Herman\nContra el Death Stinger\nse enfrentarán Van,\nIrvine y Thomas."
+
+msgctxt "dialogue/597/0x2e5"
+msgid "dialogue/597/0x2e5"
+msgstr "Herman\nY también este\nUltrasaurus."
+
+msgctxt "dialogue/597/0x311"
+msgid "dialogue/597/0x311"
+msgstr "Herman\nVosotros debéis\neliminar a las unidades\nZoid enemigas que haya\nalrededor del\nUltrasaurus."
+
+msgctxt "dialogue/597/0x372"
+msgid "dialogue/597/0x372"
+msgstr "Jack\nEntendido."
+
+msgctxt "dialogue/597/0x391"
+msgid "dialogue/597/0x391"
+msgstr "Operador\nContacto en el radar. Se\nacercan el Death Stinger\ny muchas unidades Zoid\nenemigas."
+
+msgctxt "dialogue/597/0x3ec"
+msgid "dialogue/597/0x3ec"
+msgstr "Herman\nParece que ya están\naquí... ¡¡Todos a sus\npuestos de combate!!"
+
+msgctxt "dialogue/598/0xc"
+msgid "dialogue/598/0xc"
+msgstr "Jack\nEscuchad: nuestra misión\nes impedir que los Zoids\nenemigos se acerquen al\nUltrasaurus."
+
+msgctxt "dialogue/598/0x65"
+msgid "dialogue/598/0x65"
+msgstr "Jack\nPase lo que pase,\ndefended esta posición\nhasta que se dispare el\nGravity Cannon."
+
+msgctxt "dialogue/598/0xbc"
+msgid "dialogue/598/0xbc"
+msgstr "Arth\nEntendido."
+
+msgctxt "dialogue/598/0xda"
+msgid "dialogue/598/0xda"
+msgstr "Regina\nEntendido.\n{name}... no hagas\nlocuras, ¿vale?"
+
+msgctxt "dialogue/598/0x115"
+msgid "dialogue/598/0x115"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/598/0x136"
+msgid "dialogue/598/0x136"
+msgstr "Jack\n¡Ahí vienen!"
+
+msgctxt "dialogue/599/0xc"
+msgid "dialogue/599/0xc"
+msgstr "Jack\n¿Les habrá ido bien a Van\ny los demás?"
+
+msgctxt "dialogue/599/0x42"
+msgid "dialogue/599/0x42"
+msgstr "Jack\nDurante el combate de\nantes parecía que habían\ndisparado el Gravity\nCannon, pero..."
+
+msgctxt "dialogue/599/0xa1"
+msgid "dialogue/599/0xa1"
+msgstr "Arth\n...Parece que han\ninterceptado ese disparo\ndel Gravity Cannon..."
+
+msgctxt "dialogue/599/0xf4"
+msgid "dialogue/599/0xf4"
+msgstr "Regina\nE-entonces, solo queda\nun disparo..."
+
+msgctxt "dialogue/600/0xc"
+msgid "dialogue/600/0xc"
+msgstr "Hiltz\nAcabar con vosotros\nsería fácil. Pero, por\nahora, os perdonaré\nla vida."
+
+msgctxt "dialogue/600/0x55"
+msgid "dialogue/600/0x55"
+msgstr "Hiltz\nAhora me dirijo a\nGuygalos."
+
+msgctxt "dialogue/600/0x81"
+msgid "dialogue/600/0x81"
+msgstr "Hiltz\nArrasando, por supuesto,\ntodas las ciudades y\naldeas del camino."
+
+msgctxt "dialogue/600/0xc0"
+msgid "dialogue/600/0xc0"
+msgstr "Hiltz\nMaldecid vuestra\nimpotencia y esperad el\nmomento en que la\ncapital desaparezca."
+
+msgctxt "dialogue/600/0x105"
+msgid "dialogue/600/0x105"
+msgstr "Hiltz\nDespués me ocuparé de\nvosotros."
+
+msgctxt "dialogue/600/0x13b"
+msgid "dialogue/600/0x13b"
+msgstr "Van\n¡Esto aún no ha acabado,\nHiltz!"
+
+msgctxt "dialogue/600/0x175"
+msgid "dialogue/600/0x175"
+msgstr "Thomas\nAsí es, Van. Parece que\naún no tenía energía\nsuficiente."
+
+msgctxt "dialogue/600/0x1c8"
+msgid "dialogue/600/0x1c8"
+msgstr "Irvine\n¡Sí, eso parece!"
+
+msgctxt "dialogue/600/0x1fc"
+msgid "dialogue/600/0x1fc"
+msgstr "Van\n¡Ya te lo dije, Hiltz!"
+
+msgctxt "dialogue/600/0x220"
+msgid "dialogue/600/0x220"
+msgstr "Van\n¡No moriremos hasta que\nte hayamos dado una buena\npaliza!"
+
+msgctxt "dialogue/600/0x267"
+msgid "dialogue/600/0x267"
+msgstr "Van\n¡Irvine, Thomas, esta vez\nno podemos fallar!"
+
+msgctxt "dialogue/600/0x2ac"
+msgid "dialogue/600/0x2ac"
+msgstr "Van\n¡Vamos!"
+
+msgctxt "dialogue/600/0x2ce"
+msgid "dialogue/600/0x2ce"
+msgstr "Irvine\n¡Sí!"
+
+msgctxt "dialogue/600/0x2f2"
+msgid "dialogue/600/0x2f2"
+msgstr "Thomas\n¡Entendido!"
+
+msgctxt "dialogue/601/0xc"
+msgid "dialogue/601/0xc"
+msgstr "Van\nFormación Delta.\n¡Blockade!"
+
+msgctxt "dialogue/601/0x4c"
+msgid "dialogue/601/0x4c"
+msgstr "Hiltz\nJe, por muchas veces que\nlo intentéis, será\nigual... ¡¿Qué?!"
+
+msgctxt "dialogue/601/0x8b"
+msgid "dialogue/601/0x8b"
+msgstr "Hiltz\n¡Grr! ¡Malditos...!"
+
+msgctxt "dialogue/602/0x3"
+msgid "dialogue/602/0x3"
+msgstr "Operador\n¡Formación Delta,\nBlockade confirmado!"
+
+msgctxt "dialogue/602/0x4e"
+msgid "dialogue/602/0x4e"
+msgstr "Herman\nHiltz, ¡recibe como es\ndebido la ira de la\nRepública!"
+
+msgctxt "dialogue/602/0x96"
+msgid "dialogue/602/0x96"
+msgstr "Herman\n¡Fuego!"
+
+msgctxt "dialogue/603/0xc"
+msgid "dialogue/603/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/603/0x2d"
+msgid "dialogue/603/0x2d"
+msgstr "Regina\nUf, uf... ¿Y-y el\nenemigo?"
+
+msgctxt "dialogue/603/0x63"
+msgid "dialogue/603/0x63"
+msgstr "Jack\nP-parece que hemos\nconseguido derrotarlos\na todos..."
+
+msgctxt "dialogue/603/0xa7"
+msgid "dialogue/603/0xa7"
+msgstr "Regina\n¿Qué habrá pasado con el\nDeath Stinger...?"
+
+msgctxt "dialogue/603/0xee"
+msgid "dialogue/603/0xee"
+msgstr "Jack\nNo lo sé. Parece que esta\nvez el Gravity Cannon ha\nacertado, pero..."
+
+msgctxt "dialogue/603/0x14b"
+msgid "dialogue/603/0x14b"
+msgstr "Arth\nVamos a ver."
+
+msgctxt "dialogue/603/0x171"
+msgid "dialogue/603/0x171"
+msgstr "Regina\nSí."
+
+msgctxt "dialogue/604/0xc"
+msgid "dialogue/604/0xc"
+msgstr "Jack\n¡¿Eso es...?!"
+
+msgctxt "dialogue/604/0x34"
+msgid "dialogue/604/0x34"
+msgstr "Regina\n¿El Death Stinger?"
+
+msgctxt "dialogue/604/0x62"
+msgid "dialogue/604/0x62"
+msgstr "Regina\n...Entonces, ¡hemos\nganado!"
+
+msgctxt "dialogue/605/0xc"
+msgid "dialogue/605/0xc"
+msgstr "Regina\n¡¿Qué?! ¿Qué está\npasando?"
+
+msgctxt "dialogue/605/0x44"
+msgid "dialogue/605/0x44"
+msgstr "Arth\n¡¿Pretende revivir?!"
+
+msgctxt "dialogue/605/0x6e"
+msgid "dialogue/605/0x6e"
+msgstr "Regina\n¡No puede ser!"
+
+msgctxt "dialogue/606/0xc"
+msgid "dialogue/606/0xc"
+msgstr "Opis\n¡Interesante, muy\ninteresante, el Death\nStinger!"
+
+msgctxt "dialogue/606/0x55"
+msgid "dialogue/606/0x55"
+msgstr "Opis\nAunque ante el poder de\nZoid Eve no es más que\nun simple catalizador."
+
+msgctxt "dialogue/606/0xa6"
+msgid "dialogue/606/0xa6"
+msgstr "Regina\n¡! ¡¡Opis!!"
+
+msgctxt "dialogue/606/0xd2"
+msgid "dialogue/606/0xd2"
+msgstr "Jack\n¿Zoid Eve? ¿Qué es eso?"
+
+msgctxt "dialogue/606/0x10e"
+msgid "dialogue/606/0x10e"
+msgstr "Opis\nUn poder que trae la\nprosperidad y la ruina a\ntodos los Zoids..."
+
+msgctxt "dialogue/606/0x157"
+msgid "dialogue/606/0x157"
+msgstr "Jack\n¿La prosperidad y la\nruina a todos los\nZoids...?"
+
+msgctxt "dialogue/606/0x197"
+msgid "dialogue/606/0x197"
+msgstr "Opis\nJi, ji, ji, ¡qué\ntentador, qué tentador!\n¡Me hierve la sangre de\ncientífico!"
+
+msgctxt "dialogue/606/0x1e6"
+msgid "dialogue/606/0x1e6"
+msgstr "Opis\n¡Un material de\nexperimentación mucho\nmejor que el Death\nStinger! ¡Lo quierooo!"
+
+msgctxt "dialogue/606/0x231"
+msgid "dialogue/606/0x231"
+msgstr "Opis\n¡Esta emoción! ¿La\nentendéis? ¡Seguro que\nno! ¡Ji, ji, jiii!"
+
+msgctxt "dialogue/606/0x292"
+msgid "dialogue/606/0x292"
+msgstr "Regina\n¡¿Qué estás diciendo?!\nZoid Eve está en Eve\nPolis..."
+
+msgctxt "dialogue/606/0x2e1"
+msgid "dialogue/606/0x2e1"
+msgstr "Regina\n¡No puede ser! ¡¿Habéis\nabierto la puerta de Eve\nPolis?!"
+
+msgctxt "dialogue/606/0x32a"
+msgid "dialogue/606/0x32a"
+msgstr "Opis\nAsí es. Ji, ji, ji.\nAunque, por desgracia,\nno fui yo quien la abrió."
+
+msgctxt "dialogue/606/0x371"
+msgid "dialogue/606/0x371"
+msgstr "Opis\nHoy estoy de buen humor.\nComo servicio especial,\n¡os contaré una cosa más!"
+
+msgctxt "dialogue/606/0x3c2"
+msgid "dialogue/606/0x3c2"
+msgstr "Opis\nEsa mocosa llamada\nFiona..."
+
+msgctxt "dialogue/606/0x3e4"
+msgid "dialogue/606/0x3e4"
+msgstr "Opis\nUy, siendo una antigua\nzoidiana, sería más\napropiado llamarla\nAlisi Linette."
+
+msgctxt "dialogue/606/0x431"
+msgid "dialogue/606/0x431"
+msgstr "Opis\nEsa mocosa también está\nen Eve Polis."
+
+msgctxt "dialogue/606/0x469"
+msgid "dialogue/606/0x469"
+msgstr "Jack\n¿La señorita Fiona\ntambién?"
+
+msgctxt "dialogue/606/0x495"
+msgid "dialogue/606/0x495"
+msgstr "Opis\n¡Nos veremos en Eve\nPolis! ¡Ji, ji, ji!"
+
+msgctxt "dialogue/607/0xc"
+msgid "dialogue/607/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/607/0x2d"
+msgid "dialogue/607/0x2d"
+msgstr "Regina\n...Eve Polis..."
+
+msgctxt "dialogue/607/0x5f"
+msgid "dialogue/607/0x5f"
+msgstr "Arth\nEve Polis..."
+
+msgctxt "dialogue/607/0x89"
+msgid "dialogue/607/0x89"
+msgstr "Jack\nY Zoid Eve...\nRegina, ¿nos lo explicas?"
+
+msgctxt "dialogue/607/0xda"
+msgid "dialogue/607/0xda"
+msgstr "Regina\n...Eve Polis es..."
+
+msgctxt "dialogue/607/0x102"
+msgid "dialogue/607/0x102"
+msgstr "Regina\nLa ciudad de los antiguos\nzoidianos, que antaño\nflorecieron en el\nplaneta Zi..."
+
+msgctxt "dialogue/607/0x14d"
+msgid "dialogue/607/0x14d"
+msgstr "Regina\nAllí está Zoid Eve, la\nfuente de la energía de\ntodos los Zoids..."
+
+msgctxt "dialogue/607/0x1a4"
+msgid "dialogue/607/0x1a4"
+msgstr "Regina\nDebía estar sellada...\n¿¡Y Hiltz y los suyos han\nabierto sus puertas!?"
+
+msgctxt "dialogue/607/0x207"
+msgid "dialogue/607/0x207"
+msgstr "Arth\n¿Una... trampa?"
+
+msgctxt "dialogue/607/0x22f"
+msgid "dialogue/607/0x22f"
+msgstr "Jack\nPuede ser. Pero..."
+
+msgctxt "dialogue/607/0x25b"
+msgid "dialogue/607/0x25b"
+msgstr "Jack\nParece que no nos queda\nmás remedio que ir...\n¿Regina?"
+
+msgctxt "dialogue/607/0x2a0"
+msgid "dialogue/607/0x2a0"
+msgstr "Regina\nEn Eve Polis está Zoid\nEve... Si se libera el\npoder de Zoid Eve..."
+
+msgctxt "dialogue/607/0x2f5"
+msgid "dialogue/607/0x2f5"
+msgstr "Regina\nSi Hiltz se hace con el\npoder de Zoid Eve......"
+
+msgctxt "dialogue/607/0x342"
+msgid "dialogue/607/0x342"
+msgstr "Jack\n...¿Qué pasaría?"
+
+msgctxt "dialogue/607/0x376"
+msgid "dialogue/607/0x376"
+msgstr "Regina\nSería el fin del mundo."
+
+msgctxt "dialogue/607/0x3a1"
+msgid "dialogue/607/0x3a1"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/607/0x3c2"
+msgid "dialogue/607/0x3c2"
+msgstr "Arth\n...¿Dónde está Eve Polis?"
+
+msgctxt "dialogue/607/0x3fa"
+msgid "dialogue/607/0x3fa"
+msgstr "Regina\n...Al oeste de aquí,\nen el valle del Rare\nHertz..."
+
+msgctxt "dialogue/607/0x447"
+msgid "dialogue/607/0x447"
+msgstr "Regina\n...Allí... está Eve\nPolis."
+
+msgctxt "dialogue/607/0x488"
+msgid "dialogue/607/0x488"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/607/0x4a9"
+msgid "dialogue/607/0x4a9"
+msgstr "Regina\nEn cualquier caso,\nvolvamos al Ultrasaurus."
+
+msgctxt "dialogue/608/0xc"
+msgid "dialogue/608/0xc"
+msgstr "Raven\nHasta aquí os ayudo...\nYo acabaré con el Death\nStinger."
+
+msgctxt "dialogue/608/0x65"
+msgid "dialogue/608/0x65"
+msgstr "Reese\n¡Raven, yo voy contigo!"
+
+msgctxt "dialogue/609/0xc"
+msgid "dialogue/609/0xc"
+msgstr "Jack\nCoronel Herman, ¿está\nusted bien?"
+
+msgctxt "dialogue/609/0x44"
+msgid "dialogue/609/0x44"
+msgstr "Herman\n¡El Death Stinger atacó\npor sorpresa al\nUltrasaurus y aún no\npuede moverse!"
+
+msgctxt "dialogue/609/0x95"
+msgid "dialogue/609/0x95"
+msgstr "Herman\nVan y los demás han ido\ntras el Death Stinger,\npero..."
+
+msgctxt "dialogue/609/0xe2"
+msgid "dialogue/609/0xe2"
+msgstr "Regina\nSeguramente van al valle\ndel Rare Hertz, a Eve\nPolis..."
+
+msgctxt "dialogue/609/0x12f"
+msgid "dialogue/609/0x12f"
+msgstr "Herman\n¿¡!? No parece momento de\ncomprobar si es cierto."
+
+msgctxt "dialogue/609/0x16a"
+msgid "dialogue/609/0x16a"
+msgstr "Herman\n¡Coged este Whale King e\nid primero a Eve Polis!"
+
+msgctxt "dialogue/609/0x1bb"
+msgid "dialogue/609/0x1bb"
+msgstr "Herman\n¡Nosotros os seguiremos\nsin falta!"
+
+msgctxt "dialogue/609/0x1eb"
+msgid "dialogue/609/0x1eb"
+msgstr "Arth\nEntendido."
+
+msgctxt "dialogue/610/0xc"
+msgid "dialogue/610/0xc"
+msgstr "Opis\nPor fin llegáis, ¿eh?\nJi, ji, ji."
+
+msgctxt "dialogue/610/0x44"
+msgid "dialogue/610/0x44"
+msgstr "Regina\n¡Opis!"
+
+msgctxt "dialogue/610/0x6a"
+msgid "dialogue/610/0x6a"
+msgstr "Opis\nParece que habéis llegado\na tiempo para el momento\ndel siglo."
+
+msgctxt "dialogue/610/0xae"
+msgid "dialogue/610/0xae"
+msgstr "Jack\n¿El momento del siglo?"
+
+msgctxt "dialogue/610/0xd6"
+msgid "dialogue/610/0xd6"
+msgstr "Opis\n¡Eso es!"
+
+msgctxt "dialogue/610/0xf8"
+msgid "dialogue/610/0xf8"
+msgstr "Opis\nEl Death Saurer que\napareció en Guygalos, la\ncapital imperial... Yo\ncreía que era el\nauténtico."
+
+msgctxt "dialogue/610/0x149"
+msgid "dialogue/610/0x149"
+msgstr "Opis\nPero no era más que una\nimitación, un clon del\nfactor Zoid original."
+
+msgctxt "dialogue/610/0x19c"
+msgid "dialogue/610/0x19c"
+msgstr "Opis\n¡Lo que está a punto de\nnacer es el verdadero\nDeath Saurer!"
+
+msgctxt "dialogue/610/0x1e7"
+msgid "dialogue/610/0x1e7"
+msgstr "Opis\n¡¡La bestia de la\ndestrucción!! ¡¡¡Ji, ji,\nji, jiiii!!!"
+
+msgctxt "dialogue/611/0xc"
+msgid "dialogue/611/0xc"
+msgstr "Dark Kaiser\nDeath Stinger, te estaba\nesperando. Vamos,\nfusiónate con el Death\nSaurer."
+
+msgctxt "dialogue/611/0x6d"
+msgid "dialogue/611/0x6d"
+msgstr "Dark Kaiser\n¡Tu poder también será\nmío... no, será de este\nDeath Saurer!"
+
+msgctxt "dialogue/611/0xc6"
+msgid "dialogue/611/0xc6"
+msgstr "Dark Kaiser\n¿Qué pasa, Death Stinger?\n¡Entrégate ya al Death\nSaurer!"
+
+msgctxt "dialogue/611/0x12b"
+msgid "dialogue/611/0x12b"
+msgstr "Hiltz\nYa es la hora, Dark\nKaiser."
+
+msgctxt "dialogue/611/0x167"
+msgid "dialogue/611/0x167"
+msgstr "Dark Kaiser\n¿Mmm? ¿Qué demon...?"
+
+msgctxt "dialogue/611/0x18f"
+msgid "dialogue/611/0x18f"
+msgstr "Dark Kaiser\n¡Gu... guooh! ¿¡Qué\ndemonios está pasando!?"
+
+msgctxt "dialogue/611/0x1e2"
+msgid "dialogue/611/0x1e2"
+msgstr "Hiltz\nQué necio..."
+
+msgctxt "dialogue/611/0x200"
+msgid "dialogue/611/0x200"
+msgstr "Hiltz\nCreías haberte hecho con\nel inmenso poder del\nDeath Saurer, pero..."
+
+msgctxt "dialogue/611/0x253"
+msgid "dialogue/611/0x253"
+msgstr "Hiltz\nEn realidad, era el Death\nSaurer quien te usaba..."
+
+msgctxt "dialogue/611/0x290"
+msgid "dialogue/611/0x290"
+msgstr "Hiltz\nNo eras más que la\ncáscara que protege su\npreciado núcleo."
+
+msgctxt "dialogue/611/0x2ce"
+msgid "dialogue/611/0x2ce"
+msgstr "Dark Kaiser\n¡Gh... yo soy el Death\nSaurer!"
+
+msgctxt "dialogue/611/0x30a"
+msgid "dialogue/611/0x30a\n"
+msgstr "Hiltz\n¡Qué insolencia!\n"
+
+msgctxt "dialogue/611/0x333"
+msgid "dialogue/611/0x333"
+msgstr "Hiltz\n¡No tienes derecho a\ndominar al Death Saurer!"
+
+msgctxt "dialogue/611/0x36e"
+msgid "dialogue/611/0x36e"
+msgstr "Hiltz\nNo eres más que un ser\ninferior."
+
+msgctxt "dialogue/611/0x398"
+msgid "dialogue/611/0x398"
+msgstr "Hiltz\nSolo yo, un antiguo\nzoidiano, puedo hacerme\ncon todo."
+
+msgctxt "dialogue/611/0x3e5"
+msgid "dialogue/611/0x3e5"
+msgstr "Hiltz\nTu papel ha terminado.\nHas protegido bien al\nDeath Saurer hasta ahora."
+
+msgctxt "dialogue/611/0x432"
+msgid "dialogue/611/0x432"
+msgstr "Hiltz\nBuen trabajo. El Death\nSaurer ahora es mío."
+
+msgctxt "dialogue/611/0x462"
+msgid "dialogue/611/0x462"
+msgstr "Hiltz\nAdiós, Prozen."
+
+msgctxt "dialogue/611/0x492"
+msgid "dialogue/611/0x492"
+msgstr "Dark Kaiser\n¿¡Por qué yo!? ¡¡¿Por\nqueeé?!!"
+
+msgctxt "dialogue/612/0xc"
+msgid "dialogue/612/0xc"
+msgstr "Opis\n¡Ji, ji, ji, magnífico!\n¡Magnífico!\n¡¡Magnífico!!"
+
+msgctxt "dialogue/612/0x5b"
+msgid "dialogue/612/0x5b"
+msgstr "Opis\n¡Este es el verdadero\nDeath Saurer!\n¡Ji, ji, ji!"
+
+msgctxt "dialogue/612/0x9d"
+msgid "dialogue/612/0x9d"
+msgstr "Regina\nNo puede ser... ¿¡Pensáis\nacabar con este mundo!?"
+
+msgctxt "dialogue/612/0xea"
+msgid "dialogue/612/0xea"
+msgstr "Arth\nQué... qué monstruo..."
+
+msgctxt "dialogue/612/0x116"
+msgid "dialogue/612/0x116"
+msgstr "Jack\nAsí que no le llaman la\nbestia de la destrucción\nen vano..."
+
+msgctxt "dialogue/613/0xc"
+msgid "dialogue/613/0xc"
+msgstr "Regina\n¡Ah, {name}! ¿¡Qué\nestás pensando!?"
+
+msgctxt "dialogue/613/0x41"
+msgid "dialogue/613/0x41"
+msgstr "Regina\nContra un monstruo así\nes imposible..."
+
+msgctxt "dialogue/613/0x83"
+msgid "dialogue/613/0x83"
+msgstr "Arth\n...Si nos quedamos\nparados, no habrá\nmilagros."
+
+msgctxt "dialogue/613/0xc3"
+msgid "dialogue/613/0xc3"
+msgstr "Regina\n¿Eh...?"
+
+msgctxt "dialogue/613/0xe9"
+msgid "dialogue/613/0xe9"
+msgstr "Jack\nAsí es. Mientras el\npríncipe no se detenga...\nmientras no se rinda,\nhabrá milagros."
+
+msgctxt "dialogue/613/0x142"
+msgid "dialogue/613/0x142"
+msgstr "Jack\nSomos los Tres Guerreros,\nque caminan junto al\npríncipe siempre y pase\nlo que pase. ¿O no?"
+
+msgctxt "dialogue/613/0x1a5"
+msgid "dialogue/613/0x1a5"
+msgstr "Regina\nArth... Jack..."
+
+msgctxt "dialogue/613/0x1d1"
+msgid "dialogue/613/0x1d1"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/613/0x1ed"
+msgid "dialogue/613/0x1ed"
+msgstr "Regina\nEs verdad, soy una de los\nTres Guerreros..."
+
+msgctxt "dialogue/613/0x21f"
+msgid "dialogue/613/0x21f"
+msgstr "Regina\n¡Arth, Jack! ¡Vamos tras\n{name}!"
+
+msgctxt "dialogue/613/0x263"
+msgid "dialogue/613/0x263"
+msgstr "Arth\nEntendido."
+
+msgctxt "dialogue/613/0x281"
+msgid "dialogue/613/0x281"
+msgstr "Jack\nEntendido."
+
+msgctxt "dialogue/614/0xc"
+msgid "dialogue/614/0xc"
+msgstr "Arth\n¡Maldita sea! ¿¡Es que es\ninmortal!?"
+
+msgctxt "dialogue/614/0x42"
+msgid "dialogue/614/0x42"
+msgstr "Jack\nEste es... ¡el poder del\nverdadero Death Saurer!"
+
+msgctxt "dialogue/614/0x89"
+msgid "dialogue/614/0x89"
+msgstr "Regina\n¡Aguantad, Arth, Jack!\n¡¡No os rindáis!!"
+
+msgctxt "dialogue/614/0xe1"
+msgid "dialogue/614/0xe1"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/615/0xc"
+msgid "dialogue/615/0xc"
+msgstr "Van\n¡Eso es! ¡Aún es pronto\npara rendirse!"
+
+msgctxt "dialogue/615/0x4c"
+msgid "dialogue/615/0x4c"
+msgstr "Regina\n¡¡Van!!"
+
+msgctxt "dialogue/615/0x72"
+msgid "dialogue/615/0x72"
+msgstr "Van\n¡Ganad un poco de tiempo!"
+
+msgctxt "dialogue/615/0xa2"
+msgid "dialogue/615/0xa2"
+msgstr "Jack\n¿¡Qué piensa hacer!?"
+
+msgctxt "dialogue/615/0xd2"
+msgid "dialogue/615/0xd2"
+msgstr "Van\n¡¡Me lanzaré contra él\ncon el Blade Liger usando\nel Gravity Cannon!!"
+
+msgctxt "dialogue/615/0x126"
+msgid "dialogue/615/0x126"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/615/0x147"
+msgid "dialogue/615/0x147"
+msgstr "Regina\n¿¡Qué!? ¿¡Vas a usar el\nBlade Liger como\nproyectil!?"
+
+msgctxt "dialogue/615/0x19c"
+msgid "dialogue/615/0x19c"
+msgstr "Jack\n¡¡Es una locura!!"
+
+msgctxt "dialogue/615/0x1c6"
+msgid "dialogue/615/0x1c6"
+msgstr "Van\n¡Hasta que no lo pruebe\nno lo sabré!"
+
+msgctxt "dialogue/615/0x1fc"
+msgid "dialogue/615/0x1fc"
+msgstr "Arth\n......Entendido. Date\nprisa."
+
+msgctxt "dialogue/615/0x236"
+msgid "dialogue/615/0x236"
+msgstr "Regina\n¡Arth!"
+
+msgctxt "dialogue/615/0x25c"
+msgid "dialogue/615/0x25c"
+msgstr "Van\n¡Cuento con vosotros!"
+
+msgctxt "dialogue/616/0xc"
+msgid "dialogue/616/0xc"
+msgstr "Regina\n¿Es que quieres morir?"
+
+msgctxt "dialogue/617/0xc"
+msgid "dialogue/617/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/617/0x2d"
+msgid "dialogue/617/0x2d"
+msgstr "Jack\n...¡Ahora solo nos queda\nconfiar en Van!"
+
+msgctxt "dialogue/617/0x7a"
+msgid "dialogue/617/0x7a"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/617/0xae"
+msgid "dialogue/617/0xae"
+msgstr "Regina\nDe acuerdo. ¡Confiemos\nen un milagro!"
+
+msgctxt "dialogue/618/0xc"
+msgid "dialogue/618/0xc"
+msgstr "Hiltz\n¿Tanto ansiáis el final,\ngusanos...?"
+
+msgctxt "dialogue/618/0x42"
+msgid "dialogue/618/0x42"
+msgstr "Hiltz\nEntonces os lo daré.\n¡Desapareced junto con\nel planeta Zi!"
+
+msgctxt "dialogue/618/0x9d"
+msgid "dialogue/618/0x9d\n"
+msgstr "Regina\n¡No te dejaremos cargar!\n"
+
+msgctxt "dialogue/618/0xca"
+msgid "dialogue/618/0xca"
+msgstr "Regina\n¡{name}, Jack, Arth!"
+
+msgctxt "dialogue/618/0xfd"
+msgid "dialogue/618/0xfd"
+msgstr "Jack\n¡Entendido!"
+
+msgctxt "dialogue/618/0x129"
+msgid "dialogue/618/0x129"
+msgstr "Arth\n¡Sí!"
+
+msgctxt "dialogue/618/0x14c"
+msgid "dialogue/618/0x14c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/619/0xc"
+msgid "dialogue/619/0xc"
+msgstr "Schwarz\n¡Preparad el disparo del\nGravity Cannon! ¡Potencia\nmáxima del generador de\nenergía!"
+
+msgctxt "dialogue/619/0x69"
+msgid "dialogue/619/0x69"
+msgstr "Irvine\nGenerador de energía a\npotencia máxima."
+
+msgctxt "dialogue/619/0xa3"
+msgid "dialogue/619/0xa3"
+msgstr "Thomas\nPotencia actual: 5,47\nteravoltios."
+
+msgctxt "dialogue/619/0xd9"
+msgid "dialogue/619/0xd9"
+msgstr "Thomas\n¡Potencia del generador:\n8,05 teravoltios! ¡No\nsube más, hermano!"
+
+msgctxt "dialogue/619/0x146"
+msgid "dialogue/619/0x146"
+msgstr "Schwarz\n¡No importa! ¡Lo demás\nes cosa del alférez\nVan Flyheight!"
+
+msgctxt "dialogue/619/0x19b"
+msgid "dialogue/619/0x19b"
+msgstr "Irvine\nBlade Liger cargado."
+
+msgctxt "dialogue/619/0x1cf"
+msgid "dialogue/619/0x1cf"
+msgstr "Schwarz\n¡Objetivo! ¡S54, W180!"
+
+msgctxt "dialogue/619/0x207"
+msgid "dialogue/619/0x207"
+msgstr "Irvine\n¡Eh, Moonbay! ¡Pilota\nbien, que nos desviamos!"
+
+msgctxt "dialogue/619/0x25a"
+msgid "dialogue/619/0x25a"
+msgstr "Moonbay\n¡Yo también me estoy\ndejando la piel!"
+
+msgctxt "dialogue/619/0x28e"
+msgid "dialogue/619/0x28e"
+msgstr "Moonbay\n¡Venga, trasto,\ndemuestra lo que vales!"
+
+msgctxt "dialogue/619/0x2c6"
+msgid "dialogue/619/0x2c6"
+msgstr "Thomas\n¡Hermano!"
+
+msgctxt "dialogue/619/0x2ee"
+msgid "dialogue/619/0x2ee"
+msgstr "Schwarz\n¡Objetivo fijado!"
+
+msgctxt "dialogue/619/0x324"
+msgid "dialogue/619/0x324"
+msgstr "Herman\n¡Fuegooo!"
+
+msgctxt "dialogue/619/0x350"
+msgid "dialogue/619/0x350"
+msgstr "Thomas\n¡Adelante, Van!"
+
+msgctxt "dialogue/619/0x37c"
+msgid "dialogue/619/0x37c"
+msgstr "Irvine\n¡Vamos, vamos!"
+
+msgctxt "dialogue/619/0x3aa"
+msgid "dialogue/619/0x3aa"
+msgstr "Schwarz\n¡Adelante, Van\nFlyheight!"
+
+msgctxt "dialogue/619/0x3e8"
+msgid "dialogue/619/0x3e8"
+msgstr "Dr. D\n¡Vamos! ¡Ve, muchacho!"
+
+msgctxt "dialogue/619/0x420"
+msgid "dialogue/619/0x420"
+msgstr "Moonbay\n¡Adelante, Vaaan!"
+
+msgctxt "dialogue/619/0x44e"
+msgid "dialogue/619/0x44e"
+msgstr "Fiona\n¡Van...!"
+
+msgctxt "dialogue/619/0x476"
+msgid "dialogue/619/0x476"
+msgstr "Van\n¡Uooooooaaaaaaah!"
+
+msgctxt "dialogue/619/0x4aa"
+msgid "dialogue/619/0x4aa"
+msgstr "Hiltz\n¡Muere!"
+
+msgctxt "dialogue/619/0x4d0"
+msgid "dialogue/619/0x4d0"
+msgstr "Van\n¡Aaaaaaallá voooooy!"
+
+msgctxt "dialogue/619/0x519"
+msgid "dialogue/619/0x519"
+msgstr "Hiltz\n¡Aaaaaaaaaargh!"
+
+msgctxt "dialogue/620/0xc"
+msgid "dialogue/620/0xc"
+msgstr "Regina\n...¿Hemos ganado?"
+
+msgctxt "dialogue/620/0x38"
+msgid "dialogue/620/0x38"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/620/0x5e"
+msgid "dialogue/620/0x5e"
+msgstr "Regina\nOye, ¿hemos ganado?"
+
+msgctxt "dialogue/620/0x90"
+msgid "dialogue/620/0x90"
+msgstr "Jack\n......Eso parece."
+
+msgctxt "dialogue/620/0xc6"
+msgid "dialogue/620/0xc6"
+msgstr "Regina\n¿{name}......?"
+
+msgctxt "dialogue/620/0xf2"
+msgid "dialogue/620/0xf2"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/620/0x113"
+msgid "dialogue/620/0x113"
+msgstr "Regina\n...¡Bien! ¡Lo has\nconseguido, {name}!"
+
+msgctxt "dialogue/620/0x140"
+msgid "dialogue/620/0x140"
+msgstr "Regina\n¡{name}!"
+
+msgctxt "dialogue/621/0xc"
+msgid "dialogue/621/0xc"
+msgstr "Van\n¡Eh! Sigues vivo, ¿eh?\n¡No está nada mal!"
+
+msgctxt "dialogue/621/0x4c"
+msgid "dialogue/621/0x4c"
+msgstr "Jack\nTú sí que... Mira que\nhacer semejante locura..."
+
+msgctxt "dialogue/621/0x8a"
+msgid "dialogue/621/0x8a"
+msgstr "Van\n¡Ya sabía que era una\nlocura!"
+
+msgctxt "dialogue/621/0xb6"
+msgid "dialogue/621/0xb6"
+msgstr "Van\n¡Pues vosotros tampoco\nos quedáis cortos!"
+
+msgctxt "dialogue/621/0xf6"
+msgid "dialogue/621/0xf6"
+msgstr "Van\nPero gracias. Lo he\nlogrado por vosotros."
+
+msgctxt "dialogue/621/0x132"
+msgid "dialogue/621/0x132"
+msgstr "Jack\nNo, nosotros solo\nconfiamos en ti. Eso es\ntodo."
+
+msgctxt "dialogue/621/0x18f"
+msgid "dialogue/621/0x18f"
+msgstr "Van\nJe, je, je."
+
+msgctxt "dialogue/621/0x1ad"
+msgid "dialogue/621/0x1ad"
+msgstr "Fiona\nAhora te toca a ti,\n{name}."
+
+msgctxt "dialogue/621/0x1df"
+msgid "dialogue/621/0x1df"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/621/0x200"
+msgid "dialogue/621/0x200"
+msgstr "Fiona\nLibera pronto también a\nlos Zoids de tu mundo de\nla guerra."
+
+msgctxt "dialogue/621/0x254"
+msgid "dialogue/621/0x254"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/621/0x275"
+msgid "dialogue/621/0x275"
+msgstr "Van\nSi hay ocasión, ya nos\nveremos. ¡Hasta otra!"
+
+msgctxt "dialogue/621/0x2b4"
+msgid "dialogue/621/0x2b4"
+msgstr "Fiona\n¡Mucho ánimo!"
+
+msgctxt "dialogue/621/0x2dc"
+msgid "dialogue/621/0x2dc"
+msgstr "Fiona\nY tú ayuda también a\n{name}, ¿vale?"
+
+msgctxt "dialogue/621/0x315"
+msgid "dialogue/621/0x315"
+msgstr "Regina\n¡Sí!"
+
+msgctxt "dialogue/621/0x337"
+msgid "dialogue/621/0x337"
+msgstr "Regina\nVolvamos a nuestro\nmundo."
+
+msgctxt "dialogue/621/0x36e"
+msgid "dialogue/621/0x36e"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/622/0xc"
+msgid "dialogue/622/0xc"
+msgstr "Opis\nQuién iba a decir que\nacabaríais con el\nDeath Saurer."
+
+msgctxt "dialogue/622/0x50"
+msgid "dialogue/622/0x50"
+msgstr "Opis\n¡Ji, ji, ji! Príncipe\n{name}, tú también eres\nun espécimen de lo más\ninteresante."
+
+msgctxt "dialogue/622/0x98"
+msgid "dialogue/622/0x98"
+msgstr "Regina\n¡Opis! ¿Dónde te habías\nescondido todo este\ntiempo?"
+
+msgctxt "dialogue/622/0xdc"
+msgid "dialogue/622/0xdc"
+msgstr "Opis\nQué grosería. Mi objetivo\nno es combatir, sino\ninvestigar a los Zoids."
+
+msgctxt "dialogue/622/0x127"
+msgid "dialogue/622/0x127"
+msgstr "Opis\nAun así, esta operación\nha sido de lo más\nprovechosa."
+
+msgctxt "dialogue/622/0x169"
+msgid "dialogue/622/0x169"
+msgstr "Opis\nBueno, Blood se metió en\nmedio, pero casi he\ncumplido mi objetivo."
+
+msgctxt "dialogue/622/0x1b4"
+msgid "dialogue/622/0x1b4"
+msgstr "Opis\n¡Nada menos que el factor\nZoid del Death Saurer!\n¡Y del original, ojo!"
+
+msgctxt "dialogue/622/0x219"
+msgid "dialogue/622/0x219"
+msgstr "Jack\n¿¡El f-factor Zoid del\nDeath Saurer!?"
+
+msgctxt "dialogue/622/0x255"
+msgid "dialogue/622/0x255"
+msgstr "Arth\nDéjalo aquí."
+
+msgctxt "dialogue/622/0x279"
+msgid "dialogue/622/0x279"
+msgstr "Opis\n¿¡Que lo deje aquí!?\n¿¡Acaso crees que voy a\nhacer algo así!?"
+
+msgctxt "dialogue/622/0x2d4"
+msgid "dialogue/622/0x2d4"
+msgstr "Arth\nYa veo. Entonces, por la\nfuerza."
+
+msgctxt "dialogue/623/0xc"
+msgid "dialogue/623/0xc"
+msgstr "Opis\n¡Jiii! ¡Qué salvajes!"
+
+msgctxt "dialogue/623/0x44"
+msgid "dialogue/623/0x44"
+msgstr "Regina\n¡Silencio! ¡Venga, dame\nel factor Zoid!"
+
+msgctxt "dialogue/623/0x8f"
+msgid "dialogue/623/0x8f"
+msgstr "Opis\n¿Factor Zoid? ¿De qué\nme hablas?"
+
+msgctxt "dialogue/623/0xc7"
+msgid "dialogue/623/0xc7"
+msgstr "Regina\n¡No te hagas el tonto!\n¡El factor Zoid del\nDeath Saurer!"
+
+msgctxt "dialogue/623/0x110"
+msgid "dialogue/623/0x110"
+msgstr "Opis\nJi, ji, ji. Eso hace\nmucho que está en manos\nde Su Majestad."
+
+msgctxt "dialogue/623/0x163"
+msgid "dialogue/623/0x163"
+msgstr "Regina\n¿¡Cómo dices!?"
+
+msgctxt "dialogue/623/0x18d"
+msgid "dialogue/623/0x18d"
+msgstr "Opis\nJi, ji, ji. Ya tenemos\ntodos los datos que\nnecesitábamos. Por fin..."
+
+msgctxt "dialogue/623/0x1e8"
+msgid "dialogue/623/0x1e8"
+msgstr "Arth\n¿Por fin qué?"
+
+msgctxt "dialogue/623/0x212"
+msgid "dialogue/623/0x212"
+msgstr "Opis\n¡Por fin estará listo\nnuestro Zoid más\npoderoso!"
+
+msgctxt "dialogue/623/0x246"
+msgid "dialogue/623/0x246"
+msgstr "Opis\nNaturalmente, a su lado\nel Death Saurer no es\nnada. ¡Ji, ji, ji!"
+
+msgctxt "dialogue/623/0x293"
+msgid "dialogue/623/0x293"
+msgstr "Jack\n¡El Zoid más poderoso...!"
+
+msgctxt "dialogue/623/0x2c1"
+msgid "dialogue/623/0x2c1"
+msgstr "Opis\n¡Su despertar es cuestión\nde tiempo! Cuando llegue\nel momento, no dejéis de\nasistir..."
+
+msgctxt "dialogue/623/0x31a"
+msgid "dialogue/623/0x31a"
+msgstr "Opis\n¡Como sus primeras\nvíctimas! ¡Ji, ji, ji,\nji, ji, ji, ji!"
+
+msgctxt "dialogue/624/0xc"
+msgid "dialogue/624/0xc"
+msgstr "Regina\n¿¡El Zoid más fuerte!?"
+
+msgctxt "dialogue/624/0x36"
+msgid "dialogue/624/0x36"
+msgstr "Regina\n¿Todavía... todavía más\nquieren jugar con la\nvida de los Zoids...?"
+
+msgctxt "dialogue/624/0x8d"
+msgid "dialogue/624/0x8d"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/624/0xb5"
+msgid "dialogue/624/0xb5"
+msgstr "Regina\n{name}...... Sí...\nNo es momento de\nlamentarse."
+
+msgctxt "dialogue/624/0x107"
+msgid "dialogue/624/0x107"
+msgstr "Regina\nNo dejaré que sigan\nhaciendo lo que quieran.\n¡Volvamos deprisa!"
+
+msgctxt "dialogue/624/0x164"
+msgid "dialogue/624/0x164"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/726/0x1b"
+msgid "dialogue/726/0x1b"
+msgstr "Jack\nEn estas ruinas quedan\n3 señales de Planetal\nSites."
+
+msgctxt "dialogue/726/0x5c"
+msgid "dialogue/726/0x5c"
+msgstr "Jack\nEn estas ruinas quedan\n2 señales de Planetal\nSites."
+
+msgctxt "dialogue/726/0x9d"
+msgid "dialogue/726/0x9d"
+msgstr "Jack\nEn estas ruinas queda\n1 señal de Planetal Site."
+
+msgctxt "dialogue/726/0xde"
+msgid "dialogue/726/0xde"
+msgstr "Jack\nEn estas ruinas ya no\nhay señales de Planetal\nSites."
+
 msgctxt "dialogue/727/0xc"
 msgid "dialogue/727/0xc"
 msgstr "Dr. D\nEstoy calculando la\nposición. ¿Podéis seguir\nluchando un poco más...?"
@@ -23794,6 +28362,174 @@ msgctxt "dialogue/896/0x3"
 msgid "dialogue/896/0x3"
 msgstr "Investigador\n¿¡Quiénes sois!?\n¿¡Ladrones!? ¡Iiiih,\nsocorro!"
 
+msgctxt "dialogue/899/0x3"
+msgid "dialogue/899/0x3"
+msgstr "Aldeano\nOh, Alster. Gracias por\npatrullar siempre.\n¿Gente sospechosa? ¿Te\nrefieres a los que te\nacompañan?"
+
+msgctxt "dialogue/900/0x3"
+msgid "dialogue/900/0x3"
+msgstr "Niña\nAlster, ¿otra vez te has\npeleado con Palty? Hay\nque ser amable con las\nchicas."
+
+msgctxt "dialogue/901/0x3"
+msgid "dialogue/901/0x3"
+msgstr "Niño\n¡Alster! ¡Llévame al\nbosque la próxima vez!"
+
+msgctxt "dialogue/902/0x3"
+msgid "dialogue/902/0x3"
+msgstr "Aldeano\n¡Alster! ¿Has echado a\nlos Zoids que dan miedo?"
+
+msgctxt "dialogue/903/0x3"
+msgid "dialogue/903/0x3"
+msgstr "Aldeano\nBuen trabajo, Alster.\n¿Alguien sospechoso? No\nhe visto a nadie. Lo\nsiento."
+
+msgctxt "dialogue/904/0x3"
+msgid "dialogue/904/0x3"
+msgstr "Aldeano\n¿Alguien sospechoso? No,\nno he visto a nadie.\nPero ha llegado el\nejército imperial al\nbosque. ¿Otra guerra?"
+
+msgctxt "dialogue/905/0x3"
+msgid "dialogue/905/0x3"
+msgstr "Vecino\nÚltimamente el ejército\nimperial está muy\ncallado. Qué inquietante.\nMe da mala espina..."
+
+msgctxt "dialogue/906/0x3"
+msgid "dialogue/906/0x3"
+msgstr "Vecino\nHasta hace poco se les\nveía de vez en cuando...\nY ahora ya no aparecen\npor ningún lado."
+
+msgctxt "dialogue/907/0x3"
+msgid "dialogue/907/0x3"
+msgstr "Vecino\nDicen que en el ejército\nimperial hay rencillas.\nO sea, que no están tan\nunidos. ¡Que se\nfastidien!"
+
+msgctxt "dialogue/908/0x3"
+msgid "dialogue/908/0x3"
+msgstr "Vecino\nQué inquietante...\nEs como la calma antes\nde la tormenta..."
+
+msgctxt "dialogue/909/0x3"
+msgid "dialogue/909/0x3"
+msgstr "Vecino\n¡Qué pasada! ¡Han echado\na los malos del pueblo!\n¡De mayor quiero ser\nsecuaz del príncipe\n{name}!"
+
+msgctxt "dialogue/910/0x3"
+msgid "dialogue/910/0x3"
+msgstr "Vecino\nQuiero salir a jugar\nfuera del pueblo, pero\nmamá no me deja. Qué\nraro, si los malos ya se\nhan ido."
+
+msgctxt "dialogue/911/0x3"
+msgid "dialogue/911/0x3"
+msgstr "Tabernero\n¡Hombre, bienvenido!\n¿Qué tal va todo?"
+
+msgctxt "dialogue/912/0x3"
+msgid "dialogue/912/0x3"
+msgstr "Roman\nParece que el ejército\nimperial concentra sus\nfuerzas en el castillo.\nLa batalla final debe\nde estar cerca...\n¡Mucho ánimo!"
+
+msgctxt "dialogue/913/0x3"
+msgid "dialogue/913/0x3"
+msgstr "Roman\nParece que el ejército\nimperial concentra sus\nfuerzas en el castillo.\nLa batalla final debe\nde estar cerca...\n¡Mucho ánimo!"
+
+msgctxt "dialogue/914/0x3"
+msgid "dialogue/914/0x3"
+msgstr "Soldado de la República\nPor un solo Zoid, New\nHelic City ha... ¿De\nverdad podemos vencer a\nsemejante monstruo?"
+
+msgctxt "dialogue/915/0x3"
+msgid "dialogue/915/0x3"
+msgstr "Soldado de la República\nEl Death Stinger burló\nnuestra línea defensiva\ny apareció de repente en\nla ciudad... La línea se\nvino abajo sin más."
+
+msgctxt "dialogue/916/0x3"
+msgid "dialogue/916/0x3"
+msgstr "Soldado de la República\nBuscamos supervivientes y\ncubrimos la retirada de\nlas unidades restantes.\nEl jefe de la Primera\nDivisión Acorazada\nimperial debe de andar\npor aquí también."
+
+msgctxt "dialogue/917/0x3"
+msgid "dialogue/917/0x3"
+msgstr "Soldado de la República\nA las unidades restantes\nles han ordenado ir al\nlago Windine... ¿Qué\nhabrá allí?"
+
+msgctxt "dialogue/918/0x3"
+msgid "dialogue/918/0x3"
+msgstr "Soldado de la República\n¡Es imposible vencer a\nsemejante monstruo!\n¡Más vale rendirse ya!"
+
+msgctxt "dialogue/919/0x3"
+msgid "dialogue/919/0x3"
+msgstr "Soldado de la República\nPensé en huir... pero da\nigual adónde vaya. Así\nque mejor luchar. Eso\nes lo que pienso yo."
+
+msgctxt "dialogue/920/0x3"
+msgid "dialogue/920/0x3"
+msgstr "Soldado de la República\nAntes del ataque del\nDeath Stinger, casi todos\nlos civiles pudieron\nevacuar. Quizá sea el\núnico consuelo."
+
+msgctxt "dialogue/921/0x3"
+msgid "dialogue/921/0x3"
+msgstr "Soldado de la República\n¿Se lo puede creer?\n¡Que esto fuera la\ncapital de la República\nde Helic...!"
+
+msgctxt "dialogue/922/0x3"
+msgid "dialogue/922/0x3"
+msgstr "Dependiente\n¡Bienvenidos! O eso\nquerría decir... pero ya\nveis: abierto, aunque sin\nnada que vender."
+
+msgctxt "dialogue/923/0x3"
+msgid "dialogue/923/0x3"
+msgstr "Vecino\nNací en esta ciudad y me\ncrié en esta ciudad...\nY he decidido morir en\nella. Dejadme en paz."
+
+msgctxt "dialogue/924/0x3"
+msgid "dialogue/924/0x3"
+msgstr "Militar de la República\nEste Ultrasaurus se ha\nido reformando según el\nplan para la batalla\nfinal. Es nuestra arma\ndefinitiva."
+
+msgctxt "dialogue/925/0x3"
+msgid "dialogue/925/0x3"
+msgstr "Militar de la República\nDesde que se descubrió\nhace 10 años, el\nUltrasaurus no se ha\nactivado ni una vez.\n¿De verdad arrancará?"
+
+msgctxt "dialogue/926/0x3"
+msgid "dialogue/926/0x3"
+msgstr "Militar de la República\nEl Ultrasaurus no puede\nactivarse hasta que\ntermine de cargar la\nenergía. Si el enemigo\natacara ahora..."
+
+msgctxt "dialogue/927/0x3"
+msgid "dialogue/927/0x3"
+msgstr "Investigador\n¡¡El próximo Zoid es\neste!!"
+
+msgctxt "dialogue/928/0x3"
+msgid "dialogue/928/0x3"
+msgstr "Científico\nAl fin y al cabo, el\nGravity Cannon es un arma\ndesconocida. Sin apenas\npoder probarlo... ¿irá\ntodo bien?"
+
+msgctxt "dialogue/929/0x3"
+msgid "dialogue/929/0x3"
+msgstr "Soldado de la República\n¡El Ultrasaurus con el\nGravity Cannon es la\ncombinación definitiva!\n¡No hay por qué temer\nal Death Stinger!"
+
+msgctxt "dialogue/930/0x3"
+msgid "dialogue/930/0x3"
+msgstr "Soldado de la República\nPor muy disparatado que\nsea el Death Stinger,\ntenemos al Dr. D. ¡En\ndisparates no nos gana\nnadie!"
+
+msgctxt "dialogue/931/0x3"
+msgid "dialogue/931/0x3"
+msgstr "Secretaria\nPor fin ha llegado el\ndía en que se termina el\nGravity Cannon. Ha valido\nla pena aguantar a las\nórdenes del doctor."
+
+msgctxt "dialogue/932/0x3"
+msgid "dialogue/932/0x3"
+msgstr "Vecino\nÚltimamente el ejército\nimperial está muy\ncallado. Qué inquietante.\nTengo un mal\npresentimiento..."
+
+msgctxt "dialogue/933/0x3"
+msgid "dialogue/933/0x3"
+msgstr "Vecino\nHasta hace poco se les\nveía de vez en cuando...\nY ahora ya no aparecen\npor ningún lado."
+
+msgctxt "dialogue/934/0x3"
+msgid "dialogue/934/0x3"
+msgstr "Vecino\nDicen que en el ejército\nimperial se han peleado\nentre ellos. Así que no\nestán tan unidos.\n¡Que se aguanten!"
+
+msgctxt "dialogue/935/0x3"
+msgid "dialogue/935/0x3"
+msgstr "Vecino\nQué inquietante...\nParece la calma que\nprecede a la tormenta..."
+
+msgctxt "dialogue/936/0x3"
+msgid "dialogue/936/0x3"
+msgstr "Vecino\n¡Qué pasada! ¡Han echado\na los malos de la\nciudad! ¡De mayor seré\nayudante del príncipe\n{name}!"
+
+msgctxt "dialogue/937/0x3"
+msgid "dialogue/937/0x3"
+msgstr "Vecino\nTengo ganas de jugar\nfuera de la ciudad. Pero\nmamá dice que no. Qué\nraro, si los malos ya\nse han ido."
+
+msgctxt "dialogue/938/0x3"
+msgid "dialogue/938/0x3"
+msgstr "Tabernero\n¡Hombre, bienvenidos!\n¿Cómo va el negocio?"
+
+msgctxt "dialogue/939/0x3"
+msgid "dialogue/939/0x3"
+msgstr "Roman\nParece que el ejército\nimperial está reuniendo\nsus fuerzas en el\ncastillo. La batalla\nfinal debe de estar\ncerca... ¡Mucho ánimo!"
+
+msgctxt "dialogue/940/0x3"
+msgid "dialogue/940/0x3"
+msgstr "Roman\nParece que el ejército\nimperial está reuniendo\nsus fuerzas en el\ncastillo. La batalla\nfinal debe de estar\ncerca... ¡Mucho ánimo!"
+
 msgctxt "dialogue/977/0x3"
 msgid "dialogue/977/0x3"
 msgstr "Vecino\nLe enseñaré una táctica\nque conozco."
@@ -23862,6 +28598,18 @@ msgctxt "dialogue/993/0x3"
 msgid "dialogue/993/0x3"
 msgstr "Investigador\nLe enseñaré una táctica\nque conozco."
 
+msgctxt "dialogue/994/0x3"
+msgid "dialogue/994/0x3"
+msgstr "Vecino\nLe enseñaré una táctica\nque conozco."
+
+msgctxt "dialogue/995/0x3"
+msgid "dialogue/995/0x3"
+msgstr "Vecino\nLe enseñaré una táctica\nque conozco."
+
+msgctxt "dialogue/996/0x3"
+msgid "dialogue/996/0x3"
+msgstr "Militar imperial\n¡Usa esto y ánimo!"
+
 msgctxt "dialogue/998/0x3"
 msgid "dialogue/998/0x3"
 msgstr "Vecino\nÚsela bien."
@@ -23925,6 +28673,18 @@ msgstr "Vecino\nEl resto depende de\nustedes..."
 msgctxt "dialogue/1013/0x3"
 msgid "dialogue/1013/0x3"
 msgstr "Investigador\nÚsela bien, ¿eh?"
+
+msgctxt "dialogue/1014/0x3"
+msgid "dialogue/1014/0x3"
+msgstr "Vecino\nEl resto depende de\nustedes..."
+
+msgctxt "dialogue/1015/0x3"
+msgid "dialogue/1015/0x3"
+msgstr "Vecino\nEl resto depende de\nustedes..."
+
+msgctxt "dialogue/1016/0x3"
+msgid "dialogue/1016/0x3"
+msgstr "Militar imperial\nEl resto depende de\nvosotros. ¡Ánimo!"
 
 msgctxt "item/0/0x0"
 msgid "item/0/0x0"
