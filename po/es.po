@@ -12894,6 +12894,14 @@ msgctxt "port/options/damage-numbers-help"
 msgid "port/options/damage-numbers-help"
 msgstr "Con SÍ se ve el daño bajo cada Zoid"
 
+msgctxt "port/options/auto-text"
+msgid "port/options/auto-text"
+msgstr "Texto auto."
+
+msgctxt "port/options/auto-text-help"
+msgid "port/options/auto-text-help"
+msgstr "El texto avanza solo. SELECT: cambiar"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "SÍ"
@@ -13224,6 +13232,10 @@ msgstr "Animaciones de combate"
 msgctxt "port/launcher/damage-numbers"
 msgid "port/launcher/damage-numbers"
 msgstr "Números de daño"
+
+msgctxt "port/launcher/auto-text"
+msgid "port/launcher/auto-text"
+msgstr "Texto automático"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"
