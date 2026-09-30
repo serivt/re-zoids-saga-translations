@@ -12870,6 +12870,16 @@ msgctxt "port/save-slots/overwrite"
 msgid "port/save-slots/overwrite"
 msgstr "Overwrite slot {slot}?"
 
+#. The autosave's mark in the list of games to continue, where the other slots show their number: up to 2 cells (16 pixels)
+msgctxt "port/save-slots/autosave"
+msgid "port/save-slots/autosave"
+msgstr "A"
+
+#. The help line while the autosave, the game saved on each change of map, is under the cursor; 224 pixels
+msgctxt "port/save-slots/autosave-help"
+msgid "port/save-slots/autosave-help"
+msgstr "Autosave, made on each change of map"
+
 msgctxt "port/options/speed"
 msgid "port/options/speed"
 msgstr "Message speed"
@@ -12902,6 +12912,14 @@ msgctxt "port/options/auto-text-help"
 msgid "port/options/auto-text-help"
 msgstr "Text goes on by itself. SELECT: switch"
 
+msgctxt "port/options/autosave"
+msgid "port/options/autosave"
+msgstr "Autosave"
+
+msgctxt "port/options/autosave-help"
+msgid "port/options/autosave-help"
+msgstr "ON saves on each change of map"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "ON"
@@ -12913,6 +12931,10 @@ msgstr "OFF"
 msgctxt "port/options/keys"
 msgid "port/options/keys"
 msgstr "Left/Right: change   B: back"
+
+msgctxt "port/autosave/notice"
+msgid "port/autosave/notice"
+msgstr "Autosaving"
 
 #. The thanks once chapter 1, the end of the demo, is over: up to 3 lines of 224 pixels in the story box
 msgctxt "port/demo/thanks"
@@ -13236,6 +13258,10 @@ msgstr "Damage numbers"
 msgctxt "port/launcher/auto-text"
 msgid "port/launcher/auto-text"
 msgstr "Auto text"
+
+msgctxt "port/launcher/autosave"
+msgid "port/launcher/autosave"
+msgstr "Autosave"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"
