@@ -27770,6 +27770,2190 @@ msgctxt "dialogue/624/0x164"
 msgid "dialogue/624/0x164"
 msgstr "{name}\n......"
 
+msgctxt "dialogue/625/0xc"
+msgid "dialogue/625/0xc"
+msgstr "Emperador\n¿Y bien, Opis?"
+
+msgctxt "dialogue/626/0xc"
+msgid "dialogue/626/0xc"
+msgstr "Emperador\n¡Contesta de una vez!"
+
+msgctxt "dialogue/627/0xc"
+msgid "dialogue/627/0xc"
+msgstr "Gale\nMajestad. He traído a\nFran."
+
+msgctxt "dialogue/627/0x46"
+msgid "dialogue/627/0x46"
+msgstr "Emperador\n¡Bien hecho!\nFran..."
+
+msgctxt "dialogue/627/0x75"
+msgid "dialogue/627/0x75"
+msgstr "Fran\n...Sí."
+
+msgctxt "dialogue/627/0x97"
+msgid "dialogue/627/0x97"
+msgstr "Emperador\nEjecuta a Blood."
+
+msgctxt "dialogue/627/0xc1"
+msgid "dialogue/627/0xc1"
+msgstr "Fran\n¿Cómo?"
+
+msgctxt "dialogue/627/0xe1"
+msgid "dialogue/627/0xe1"
+msgstr "Gale\n¡...!"
+
+msgctxt "dialogue/627/0xfd"
+msgid "dialogue/627/0xfd"
+msgstr "Emperador\nMe ha traicionado. Ha\nolvidado que yo lo crié."
+
+msgctxt "dialogue/627/0x144"
+msgid "dialogue/627/0x144"
+msgstr "Emperador\nAunque sea mi hijo, ya\nno puedo perdonarlo."
+
+msgctxt "dialogue/627/0x182"
+msgid "dialogue/627/0x182"
+msgstr "Fran\nNo puede ser......\n¿Blood...?"
+
+msgctxt "dialogue/627/0x1c7"
+msgid "dialogue/627/0x1c7"
+msgstr "Emperador\nFran, te daré dos\ncaminos a elegir."
+
+msgctxt "dialogue/627/0x1f9"
+msgid "dialogue/627/0x1f9"
+msgstr "Emperador\nO me obedeces... o te\nconviertes en carne y\nsangre de este Zoid, el\nmás poderoso."
+
+msgctxt "dialogue/627/0x242"
+msgid "dialogue/627/0x242"
+msgstr "Emperador\n¡Elige, Fran!"
+
+msgctxt "dialogue/627/0x270"
+msgid "dialogue/627/0x270"
+msgstr "Fran\n.........Blood..."
+
+msgctxt "dialogue/627/0x2aa"
+msgid "dialogue/627/0x2aa"
+msgstr "Emperador\n¡Vamos! ¡Elige!\n¡¡Fran!!"
+
+msgctxt "dialogue/627/0x2e4"
+msgid "dialogue/627/0x2e4"
+msgstr "Fran\n...C-carne y sangre..."
+
+msgctxt "dialogue/627/0x310"
+msgid "dialogue/627/0x310"
+msgstr "Gale\nUn momento, Majestad."
+
+msgctxt "dialogue/627/0x33e"
+msgid "dialogue/627/0x33e"
+msgstr "Emperador\n¿Qué ocurre, Gale?\n¿Pretendes que salve a\nesta insensata?"
+
+msgctxt "dialogue/627/0x381"
+msgid "dialogue/627/0x381"
+msgstr "Gale\nNo. Pero necesitamos\ntiempo."
+
+msgctxt "dialogue/627/0x3b5"
+msgid "dialogue/627/0x3b5"
+msgstr "Gale\nPor lo que veo, al Zoid\nmás poderoso aún le\nfalta tiempo para su\ndespertar completo,\n¿no es así?"
+
+msgctxt "dialogue/627/0x418"
+msgid "dialogue/627/0x418"
+msgstr "Emperador\n¡¡Opis!!"
+
+msgctxt "dialogue/628/0xc"
+msgid "dialogue/628/0xc"
+msgstr "Opis\nEl núcleo Zoid está a\npunto de despertar.\nPero hasta que pueda\nmoverse......"
+
+msgctxt "dialogue/628/0x73"
+msgid "dialogue/628/0x73"
+msgstr "Emperador\n...¿Llevará tiempo?"
+
+msgctxt "dialogue/628/0xa1"
+msgid "dialogue/628/0xa1"
+msgstr "Opis\nSí. Con cinco horas, no,\ncon cuatro bastaría..."
+
+msgctxt "dialogue/628/0xe5"
+msgid "dialogue/628/0xe5"
+msgstr "Gale\nFran defenderá a muerte\nla puerta principal del\ncastillo de Arcadia. Nos\ndará algo de tiempo."
+
+msgctxt "dialogue/628/0x148"
+msgid "dialogue/628/0x148"
+msgstr "Emperador\n¿O sea, que si ha de\nmorir, que al menos\nsirva de algo?"
+
+msgctxt "dialogue/628/0x18f"
+msgid "dialogue/628/0x18f"
+msgstr "Gale\nSí."
+
+msgctxt "dialogue/628/0x1ab"
+msgid "dialogue/628/0x1ab"
+msgstr "Fran\n......"
+
+msgctxt "dialogue/628/0x1d1"
+msgid "dialogue/628/0x1d1"
+msgstr "Emperador\nHmpf. ¡Está bien!"
+
+msgctxt "dialogue/628/0x1f9"
+msgid "dialogue/628/0x1f9"
+msgstr "Emperador\n¡Fran, confío en ti!\n¡Muere por mí!"
+
+msgctxt "dialogue/628/0x23c"
+msgid "dialogue/628/0x23c"
+msgstr "Fran\n......Sí."
+
+msgctxt "dialogue/628/0x264"
+msgid "dialogue/628/0x264"
+msgstr "Gale\n......"
+
+msgctxt "dialogue/629/0xc"
+msgid "dialogue/629/0xc"
+msgstr "Emperador\n¡Ha despertado!"
+
+msgctxt "dialogue/629/0x32"
+msgid "dialogue/629/0x32"
+msgstr "Fran\n¡...!"
+
+msgctxt "dialogue/629/0x4e"
+msgid "dialogue/629/0x4e"
+msgstr "Gale\n¡...!"
+
+msgctxt "dialogue/629/0x6a"
+msgid "dialogue/629/0x6a"
+msgstr "Opis\n¡Ji, ji, ji! Vamos, abre\nlos ojos despacito..."
+
+msgctxt "dialogue/629/0xa9"
+msgid "dialogue/629/0xa9"
+msgstr "Opis\n¿Ves el mundo...? ¡El\nmundo que vas a arrasar\nhasta no dejar nada!\n¡Ji, ji, ji, jiiii!"
+
+msgctxt "dialogue/629/0x110"
+msgid "dialogue/629/0x110"
+msgstr "Emperador\nJe, je, je, je, je...\n¡¡¡Ja, ja, ja, jaaa!!!"
+
+msgctxt "dialogue/629/0x14b"
+msgid "dialogue/629/0x14b"
+msgstr "Emperador\n¡Por fin has despertado!"
+
+msgctxt "dialogue/629/0x16b"
+msgid "dialogue/629/0x16b"
+msgstr "Emperador\n¡Soy tu padre! ¡Vamos,\nsaluda a tu padre!"
+
+msgctxt "dialogue/629/0x1a4"
+msgid "dialogue/629/0x1a4"
+msgstr "Emperador\n¡¡¡Muéstrale tu poder a\ntu padre!!!"
+
+msgctxt "dialogue/630/0xc"
+msgid "dialogue/630/0xc"
+msgstr "Fran\n¿¡Qué!?"
+
+msgctxt "dialogue/630/0x2e"
+msgid "dialogue/630/0x2e"
+msgstr "Gale\n...¡Es un monstruo!"
+
+msgctxt "dialogue/631/0xc"
+msgid "dialogue/631/0xc"
+msgstr "Emperador\n¡¡¡Ja, ja, ja, jaaa!!!"
+
+msgctxt "dialogue/631/0x3e"
+msgid "dialogue/631/0x3e"
+msgstr "Emperador\n¡Magnífico! ¡¡Magnífico!!\n¡¡¡Así es mi hijo!!!"
+
+msgctxt "dialogue/632/0x3"
+msgid "dialogue/632/0x3"
+msgstr "Soldado del Reino\n¡Detectamos energía de\naltísima tensión en el\ncastillo de Arcadia!\n¡¡Venga enseguida!!"
+
+msgctxt "dialogue/632/0x6e"
+msgid "dialogue/632/0x6e"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/632/0x8f"
+msgid "dialogue/632/0x8f"
+msgstr "Jack\n¿¡Cuál es la causa!?"
+
+msgctxt "dialogue/632/0xb4"
+msgid "dialogue/632/0xb4"
+msgstr "Soldado del Reino 1\n¡No lo sabemos! ¡En todo\ncaso, vengan a la sala\nde mando!"
+
+msgctxt "dialogue/633/0x3"
+msgid "dialogue/633/0x3"
+msgstr "Soldado del Reino 2\n¡E-es terrible! ¡El\ncastillo! ¡¡El castillo\nde Arcadia!!"
+
+msgctxt "dialogue/633/0x54"
+msgid "dialogue/633/0x54"
+msgstr "Arth\n¿¡Qué pasa!?"
+
+msgctxt "dialogue/634/0xc"
+msgid "dialogue/634/0xc"
+msgstr "Regina\n¡{name}! ¡¡Espera!!"
+
+msgctxt "dialogue/635/0xc"
+msgid "dialogue/635/0xc"
+msgstr "Jack\n¿¡U-un cañón de\npartículas cargadas...!?"
+
+msgctxt "dialogue/635/0x40"
+msgid "dialogue/635/0x40"
+msgstr "Regina\n¿¡Q-qué es esto!? ¡Qué\nsensación tan siniestra!"
+
+msgctxt "dialogue/635/0x8b"
+msgid "dialogue/635/0x8b"
+msgstr "Arth\nNi idea. Pero está claro\nque en el castillo hay\nalgo descomunal."
+
+msgctxt "dialogue/635/0xdf"
+msgid "dialogue/635/0xdf"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/636/0xc"
+msgid "dialogue/636/0xc"
+msgstr "Emperador\n¡Oídme bien, necios\ngusanos!"
+
+msgctxt "dialogue/637/0xc"
+msgid "dialogue/637/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/637/0x2d"
+msgid "dialogue/637/0x2d"
+msgstr "Regina\n¿¡Ese hombre es...!?"
+
+msgctxt "dialogue/637/0x57"
+msgid "dialogue/637/0x57"
+msgstr "Emperador\n¡Soy el Emperador del\nnuevo Imperio de Arcadia!"
+
+msgctxt "dialogue/637/0x81"
+msgid "dialogue/637/0x81"
+msgstr "Emperador\n¡Soy el nuevo soberano\nde esta tierra... no, de\ntodo el planeta Zi!"
+
+msgctxt "dialogue/637/0xce"
+msgid "dialogue/637/0xce"
+msgstr "Emperador\n¡¡Mirad el brillo del\ncañón de partículas\ncargadas!! ¡¡Este es mi\npoder!!"
+
+msgctxt "dialogue/637/0x10f"
+msgid "dialogue/637/0x10f"
+msgstr "Emperador\n¡¡Ante mí no sois más que\ndestellos de partículas\ncondenados a volver a la\ntierra!!"
+
+msgctxt "dialogue/637/0x164"
+msgid "dialogue/637/0x164"
+msgstr "Emperador\n¡¡Estoy dispuesto a\nllenar este planeta con\nel brillo de las\npartículas cargadas!!"
+
+msgctxt "dialogue/637/0x1a3"
+msgid "dialogue/637/0x1a3"
+msgstr "Emperador\n¡¡Aceptad mi dominio!!\n¡¡Asumid que no sois más\nque gusanos!!"
+
+msgctxt "dialogue/637/0x1fa"
+msgid "dialogue/637/0x1fa"
+msgstr "Emperador\n¡¡Yo soy el Emperador del\nnuevo Imperio de\nArcadia!!"
+
+msgctxt "dialogue/637/0x23a"
+msgid "dialogue/637/0x23a"
+msgstr "Emperador\nJe, je, je, je...\n¡¡¡¡Ja, ja, ja, jaaa!!!!"
+
+msgctxt "dialogue/638/0xc"
+msgid "dialogue/638/0xc"
+msgstr "Regina\n¿¡Pero qué dice!? ¡¡No\npienso consentir\nsemejante capricho!!"
+
+msgctxt "dialogue/638/0x4f"
+msgid "dialogue/638/0x4f"
+msgstr "Regina\nEste planeta no es de\nnadie... ¡No es de nadie!"
+
+msgctxt "dialogue/638/0xa0"
+msgid "dialogue/638/0xa0"
+msgstr "Jack\nUn ultimátum, ¿eh? ¿Así\nque su Zoid más poderoso\nya está terminado?"
+
+msgctxt "dialogue/638/0xf5"
+msgid "dialogue/638/0xf5"
+msgstr "Arth\nEso parece."
+
+msgctxt "dialogue/638/0x11b"
+msgid "dialogue/638/0x11b"
+msgstr "Regina\n¡Vosotros dos! ¿¡No veis\nque esto también va con\nnosotros!?"
+
+msgctxt "dialogue/638/0x15d"
+msgid "dialogue/638/0x15d"
+msgstr "Jack\n¿Qué dices, Regina?"
+
+msgctxt "dialogue/638/0x18b"
+msgid "dialogue/638/0x18b"
+msgstr "Jack\nNosotros somos los Tres\nGuerreros, y siempre\ncaminaremos junto al\npríncipe, pase lo que\npase."
+
+msgctxt "dialogue/638/0x1de"
+msgid "dialogue/638/0x1de"
+msgstr "Arth\nSi el príncipe ya lo ha\ndecidido, no tenemos\nnada que objetar."
+
+msgctxt "dialogue/638/0x231"
+msgid "dialogue/638/0x231"
+msgstr "Regina\n......¿{name}...?"
+
+msgctxt "dialogue/639/0xc"
+msgid "dialogue/639/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/639/0x2d"
+msgid "dialogue/639/0x2d"
+msgstr "Regina\n{name}... ¿Desde cuándo\npones esa cara?"
+
+msgctxt "dialogue/639/0x79"
+msgid "dialogue/639/0x79"
+msgstr "Regina\nMira que eres descarado,\n{name}..."
+
+msgctxt "dialogue/639/0xae"
+msgid "dialogue/639/0xae"
+msgstr "Regina\n¡En estas cosas lo que\nimporta es el ánimo!"
+
+msgctxt "dialogue/639/0xea"
+msgid "dialogue/639/0xea"
+msgstr "Jack\n...Puede que Regina\ntenga razón."
+
+msgctxt "dialogue/639/0x131"
+msgid "dialogue/639/0x131"
+msgstr "Arth\nEso parece.\n¿Verdad, príncipe?"
+
+msgctxt "dialogue/639/0x160"
+msgid "dialogue/639/0x160"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/639/0x181"
+msgid "dialogue/639/0x181"
+msgstr "Regina\n¡Vamos, que llega la\nbatalla final!"
+
+msgctxt "dialogue/639/0x1b8"
+msgid "dialogue/639/0x1b8"
+msgstr "Arth\n¡Sí!"
+
+msgctxt "dialogue/639/0x1d7"
+msgid "dialogue/639/0x1d7"
+msgstr "Arth\n¡¡Adelante!!"
+
+msgctxt "dialogue/639/0x1fc"
+msgid "dialogue/639/0x1fc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/640/0xc"
+msgid "dialogue/640/0xc"
+msgstr "Jack\nBien, príncipe, le\nexplicaré lo que sabemos\nhasta ahora del castillo\nde Arcadia."
+
+msgctxt "dialogue/640/0x5d"
+msgid "dialogue/640/0x5d"
+msgstr "Jack\nDesde que ocupó nuestro\ncastillo de Arcadia, el\nenemigo ha hecho obras\npara reforzar las\ndefensas."
+
+msgctxt "dialogue/640/0xb4"
+msgid "dialogue/640/0xb4"
+msgstr "Jack\nAsí que el interior debe\nde ser muy distinto del\nque conocemos."
+
+msgctxt "dialogue/640/0x107"
+msgid "dialogue/640/0x107"
+msgstr "Jack\nAdemás, de las dos\ngrandes puertas, norte y\nsur, la del norte se\nderrumbó por el cañón de\npartículas cargadas."
+
+msgctxt "dialogue/640/0x15a"
+msgid "dialogue/640/0x15a"
+msgstr "Jack\nEl pasadizo subterráneo\nque usamos para huir\ntambién se ha hundido y\nno se puede usar."
+
+msgctxt "dialogue/640/0x1b1"
+msgid "dialogue/640/0x1b1"
+msgstr "Regina\nEntonces, ¿solo nos queda\nla puerta sur?"
+
+msgctxt "dialogue/640/0x1e9"
+msgid "dialogue/640/0x1e9"
+msgstr "Jack\nSí. La puerta sur estaba\nbien cerrada, pero ahora\nestá abierta."
+
+msgctxt "dialogue/640/0x246"
+msgid "dialogue/640/0x246"
+msgstr "Regina\n¿Abierta?\nQué confiados, ¿no?"
+
+msgctxt "dialogue/640/0x28b"
+msgid "dialogue/640/0x28b"
+msgstr "Arth\n¿O es una trampa?"
+
+msgctxt "dialogue/640/0x2b5"
+msgid "dialogue/640/0x2b5"
+msgstr "Jack\nPuede ser cualquiera de\nlas dos cosas. En todo\ncaso, sin cruzarla no\npodremos entrar."
+
+msgctxt "dialogue/640/0x317"
+msgid "dialogue/640/0x317"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/640/0x338"
+msgid "dialogue/640/0x338"
+msgstr "Regina\nUn ataque frontal, ¿eh?\nPero nosotros solos lo\nvamos a tener difícil."
+
+msgctxt "dialogue/640/0x389"
+msgid "dialogue/640/0x389"
+msgstr "Jack\nPara la falta de fuerzas\ntenemos una solución.\n¿Verdad, Arth?"
+
+msgctxt "dialogue/640/0x3e2"
+msgid "dialogue/640/0x3e2"
+msgstr "Arth\nSí. Hemos cruzado muchos\ntiempos y espacios, y\nhemos ayudado a mucha\ngente."
+
+msgctxt "dialogue/640/0x437"
+msgid "dialogue/640/0x437"
+msgstr "Arth\nYa va siendo hora de que\nnos devuelvan el favor."
+
+msgctxt "dialogue/640/0x47e"
+msgid "dialogue/640/0x47e"
+msgstr "Regina\n¿? ¡¿No será...?!"
+
+msgctxt "dialogue/640/0x4a8"
+msgid "dialogue/640/0x4a8"
+msgstr "Jack\nPues sí. Esta vez les\npediremos que vengan a\neste mundo y nos echen\nuna mano."
+
+msgctxt "dialogue/640/0x4ff"
+msgid "dialogue/640/0x4ff"
+msgstr "Jack\nPero, por un problema del\ndispositivo de transporte\nespaciotemporal, no\npodemos traer a varios de\ndistintos tiempos a la\nvez."
+
+msgctxt "dialogue/640/0x55a"
+msgid "dialogue/640/0x55a"
+msgstr "Jack\nY solo podrán ayudarnos\ndos personas como mucho."
+
+msgctxt "dialogue/640/0x595"
+msgid "dialogue/640/0x595"
+msgstr "Jack\n¿Le parece bien,\npríncipe? Eso es todo\nlo que tenía que decir."
+
+msgctxt "dialogue/640/0x5d6"
+msgid "dialogue/640/0x5d6"
+msgstr "Jack\nPríncipe, Arth y yo\nvamos a organizar la\nllegada de refuerzos."
+
+msgctxt "dialogue/640/0x61f"
+msgid "dialogue/640/0x61f"
+msgstr "Jack\nSi quiere llamar a los\nrefuerzos, hable con\nArth o conmigo."
+
+msgctxt "dialogue/640/0x672"
+msgid "dialogue/640/0x672"
+msgstr "Arth\nHasta luego."
+
+msgctxt "dialogue/640/0x690"
+msgid "dialogue/640/0x690"
+msgstr "Regina\nYo voy a ultimar los\npreparativos con el\nejército del Reino."
+
+msgctxt "dialogue/640/0x6c6"
+msgid "dialogue/640/0x6c6"
+msgstr "Regina\nPríncipe, cuando esté\nlisto para partir,\navíseme."
+
+msgctxt "dialogue/640/0x703"
+msgid "dialogue/640/0x703"
+msgstr "Regina\n...Vamos a ganar sí o sí,\n{name}."
+
+msgctxt "dialogue/641/0xc"
+msgid "dialogue/641/0xc"
+msgstr "Jack\nHemos podido contactar\ncon estas personas."
+
+msgctxt "dialogue/641/0x3b"
+msgid "dialogue/641/0x3b"
+msgstr "Jack\n¿A quién quiere pedirle\nayuda?"
+
+msgctxt "dialogue/641/0x79"
+msgid "dialogue/641/0x79\n"
+msgstr "Van\n"
+
+msgctxt "dialogue/641/0x8a"
+msgid "dialogue/641/0x8a\n"
+msgstr "Fiona\n"
+
+msgctxt "dialogue/641/0x9f"
+msgid "dialogue/641/0x9f\n"
+msgstr "Irvine\n"
+
+msgctxt "dialogue/641/0xb6"
+msgid "dialogue/641/0xb6\n"
+msgstr "Moonbay\n"
+
+msgctxt "dialogue/641/0xcb"
+msgid "dialogue/641/0xcb\n"
+msgstr "Herman\n"
+
+msgctxt "dialogue/641/0xe0"
+msgid "dialogue/641/0xe0\n"
+msgstr "Ford\n"
+
+msgctxt "dialogue/641/0xf5"
+msgid "dialogue/641/0xf5\n"
+msgstr "O'Connell\n"
+
+msgctxt "dialogue/641/0x10c"
+msgid "dialogue/641/0x10c\n"
+msgstr "Krueger\n"
+
+msgctxt "dialogue/641/0x123"
+msgid "dialogue/641/0x123\n"
+msgstr "Van (parte 2)\n"
+
+msgctxt "dialogue/641/0x13a"
+msgid "dialogue/641/0x13a\n"
+msgstr "Fiona (parte 2)\n"
+
+msgctxt "dialogue/641/0x155"
+msgid "dialogue/641/0x155\n"
+msgstr "Irvine (parte 2)\n"
+
+msgctxt "dialogue/641/0x172"
+msgid "dialogue/641/0x172\n"
+msgstr "Moonbay (parte 2)\n"
+
+msgctxt "dialogue/641/0x18d"
+msgid "dialogue/641/0x18d\n"
+msgstr "Schwarz\n"
+
+msgctxt "dialogue/641/0x1a4"
+msgid "dialogue/641/0x1a4\n"
+msgstr "Thomas\n"
+
+msgctxt "dialogue/641/0x1b7"
+msgid "dialogue/641/0x1b7\n"
+msgstr "Bit\n"
+
+msgctxt "dialogue/641/0x1ca"
+msgid "dialogue/641/0x1ca\n"
+msgstr "Leena\n"
+
+msgctxt "dialogue/641/0x1dd"
+msgid "dialogue/641/0x1dd\n"
+msgstr "Jamie\n"
+
+msgctxt "dialogue/641/0x1f2"
+msgid "dialogue/641/0x1f2\n"
+msgstr "Leon\n"
+
+msgctxt "dialogue/641/0x205"
+msgid "dialogue/641/0x205\n"
+msgstr "Alster\n"
+
+msgctxt "dialogue/641/0x21c"
+msgid "dialogue/641/0x21c\n"
+msgstr "Solid\n"
+
+msgctxt "dialogue/641/0x231"
+msgid "dialogue/641/0x231\n"
+msgstr "Brad\n"
+
+msgctxt "dialogue/641/0x246"
+msgid "dialogue/641/0x246\n"
+msgstr "Naomi\n"
+
+msgctxt "dialogue/641/0x259"
+msgid "dialogue/641/0x259\n"
+msgstr "Harry\n"
+
+msgctxt "dialogue/641/0x26c"
+msgid "dialogue/641/0x26c\n"
+msgstr "Raven\n"
+
+msgctxt "dialogue/641/0x281"
+msgid "dialogue/641/0x281\n"
+msgstr "Reese\n"
+
+msgctxt "dialogue/641/0x294"
+msgid "dialogue/641/0x294\n"
+msgstr "Rosso\n"
+
+msgctxt "dialogue/641/0x2a7"
+msgid "dialogue/641/0x2a7\n"
+msgstr "Viola\n"
+
+msgctxt "dialogue/641/0x2be"
+msgid "dialogue/641/0x2be\n"
+msgstr "Hombre enmascarado\n"
+
+msgctxt "dialogue/641/0x2d3"
+msgid "dialogue/641/0x2d3\n"
+msgstr "Mujer enmascarada\n"
+
+msgctxt "dialogue/641/0x2e2"
+msgid "dialogue/641/0x2e2"
+msgstr "No elegir a nadie"
+
+msgctxt "dialogue/642/0xc"
+msgid "dialogue/642/0xc"
+msgstr "Jack\nHemos podido contactar\ncon estas personas."
+
+msgctxt "dialogue/642/0x3b"
+msgid "dialogue/642/0x3b"
+msgstr "Jack\n¿A quién quiere pedirle\nayuda?"
+
+msgctxt "dialogue/642/0x79"
+msgid "dialogue/642/0x79\n"
+msgstr "Van\n"
+
+msgctxt "dialogue/642/0x8a"
+msgid "dialogue/642/0x8a\n"
+msgstr "Fiona\n"
+
+msgctxt "dialogue/642/0x9f"
+msgid "dialogue/642/0x9f\n"
+msgstr "Irvine\n"
+
+msgctxt "dialogue/642/0xb6"
+msgid "dialogue/642/0xb6\n"
+msgstr "Moonbay\n"
+
+msgctxt "dialogue/642/0xcb"
+msgid "dialogue/642/0xcb\n"
+msgstr "Herman\n"
+
+msgctxt "dialogue/642/0xe0"
+msgid "dialogue/642/0xe0\n"
+msgstr "Ford\n"
+
+msgctxt "dialogue/642/0xf5"
+msgid "dialogue/642/0xf5\n"
+msgstr "O'Connell\n"
+
+msgctxt "dialogue/642/0x10c"
+msgid "dialogue/642/0x10c\n"
+msgstr "Krueger\n"
+
+msgctxt "dialogue/642/0x123"
+msgid "dialogue/642/0x123\n"
+msgstr "Van (parte 2)\n"
+
+msgctxt "dialogue/642/0x13a"
+msgid "dialogue/642/0x13a\n"
+msgstr "Fiona (parte 2)\n"
+
+msgctxt "dialogue/642/0x155"
+msgid "dialogue/642/0x155\n"
+msgstr "Irvine (parte 2)\n"
+
+msgctxt "dialogue/642/0x172"
+msgid "dialogue/642/0x172\n"
+msgstr "Moonbay (parte 2)\n"
+
+msgctxt "dialogue/642/0x18d"
+msgid "dialogue/642/0x18d\n"
+msgstr "Schwarz\n"
+
+msgctxt "dialogue/642/0x1a4"
+msgid "dialogue/642/0x1a4\n"
+msgstr "Thomas\n"
+
+msgctxt "dialogue/642/0x1b7"
+msgid "dialogue/642/0x1b7\n"
+msgstr "Bit\n"
+
+msgctxt "dialogue/642/0x1ca"
+msgid "dialogue/642/0x1ca\n"
+msgstr "Leena\n"
+
+msgctxt "dialogue/642/0x1dd"
+msgid "dialogue/642/0x1dd\n"
+msgstr "Jamie\n"
+
+msgctxt "dialogue/642/0x1f2"
+msgid "dialogue/642/0x1f2\n"
+msgstr "Leon\n"
+
+msgctxt "dialogue/642/0x205"
+msgid "dialogue/642/0x205\n"
+msgstr "Alster\n"
+
+msgctxt "dialogue/642/0x21c"
+msgid "dialogue/642/0x21c\n"
+msgstr "Solid\n"
+
+msgctxt "dialogue/642/0x231"
+msgid "dialogue/642/0x231\n"
+msgstr "Brad\n"
+
+msgctxt "dialogue/642/0x246"
+msgid "dialogue/642/0x246\n"
+msgstr "Naomi\n"
+
+msgctxt "dialogue/642/0x259"
+msgid "dialogue/642/0x259\n"
+msgstr "Harry\n"
+
+msgctxt "dialogue/642/0x26c"
+msgid "dialogue/642/0x26c\n"
+msgstr "Raven\n"
+
+msgctxt "dialogue/642/0x281"
+msgid "dialogue/642/0x281\n"
+msgstr "Reese\n"
+
+msgctxt "dialogue/642/0x294"
+msgid "dialogue/642/0x294\n"
+msgstr "Rosso\n"
+
+msgctxt "dialogue/642/0x2a7"
+msgid "dialogue/642/0x2a7\n"
+msgstr "Viola\n"
+
+msgctxt "dialogue/642/0x2be"
+msgid "dialogue/642/0x2be\n"
+msgstr "Hombre enmascarado\n"
+
+msgctxt "dialogue/642/0x2d3"
+msgid "dialogue/642/0x2d3\n"
+msgstr "Mujer enmascarada\n"
+
+msgctxt "dialogue/642/0x2e2"
+msgid "dialogue/642/0x2e2"
+msgstr "No elegir a nadie"
+
+msgctxt "dialogue/643/0xc"
+msgid "dialogue/643/0xc"
+msgstr "Jack\n¿Quiere pedirle ayuda\na otra persona?"
+
+msgctxt "dialogue/643/0x51"
+msgid "dialogue/643/0x51"
+msgstr "Jack\nSi quiere volver a pedir\nrefuerzos, hable\nconmigo otra vez."
+
+msgctxt "dialogue/644/0xc"
+msgid "dialogue/644/0xc"
+msgstr "Jack\n¿Quiere pedirle ayuda\na otra persona?"
+
+msgctxt "dialogue/644/0x51"
+msgid "dialogue/644/0x51"
+msgstr "Jack\nSi quiere volver a pedir\nrefuerzos, hable\nconmigo otra vez."
+
+msgctxt "dialogue/645/0xc"
+msgid "dialogue/645/0xc"
+msgstr "Jack\nEntendido. Los llamaré\nantes de partir."
+
+msgctxt "dialogue/646/0xc"
+msgid "dialogue/646/0xc"
+msgstr "Jack\nEntendido. Los llamaré\nantes de partir."
+
+msgctxt "dialogue/647/0xc"
+msgid "dialogue/647/0xc"
+msgstr "Arth\nHe podido contactar\ncon estos."
+
+msgctxt "dialogue/647/0x39"
+msgid "dialogue/647/0x39"
+msgstr "Arth\n¿A quién se lo pido?"
+
+msgctxt "dialogue/647/0x69"
+msgid "dialogue/647/0x69\n"
+msgstr "Van\n"
+
+msgctxt "dialogue/647/0x7a"
+msgid "dialogue/647/0x7a\n"
+msgstr "Fiona\n"
+
+msgctxt "dialogue/647/0x8f"
+msgid "dialogue/647/0x8f\n"
+msgstr "Irvine\n"
+
+msgctxt "dialogue/647/0xa6"
+msgid "dialogue/647/0xa6\n"
+msgstr "Moonbay\n"
+
+msgctxt "dialogue/647/0xbb"
+msgid "dialogue/647/0xbb\n"
+msgstr "Herman\n"
+
+msgctxt "dialogue/647/0xd0"
+msgid "dialogue/647/0xd0\n"
+msgstr "Ford\n"
+
+msgctxt "dialogue/647/0xe5"
+msgid "dialogue/647/0xe5\n"
+msgstr "O'Connell\n"
+
+msgctxt "dialogue/647/0xfc"
+msgid "dialogue/647/0xfc\n"
+msgstr "Krueger\n"
+
+msgctxt "dialogue/647/0x113"
+msgid "dialogue/647/0x113\n"
+msgstr "Van (parte 2)\n"
+
+msgctxt "dialogue/647/0x12a"
+msgid "dialogue/647/0x12a\n"
+msgstr "Fiona (parte 2)\n"
+
+msgctxt "dialogue/647/0x145"
+msgid "dialogue/647/0x145\n"
+msgstr "Irvine (parte 2)\n"
+
+msgctxt "dialogue/647/0x162"
+msgid "dialogue/647/0x162\n"
+msgstr "Moonbay (parte 2)\n"
+
+msgctxt "dialogue/647/0x17d"
+msgid "dialogue/647/0x17d\n"
+msgstr "Schwarz\n"
+
+msgctxt "dialogue/647/0x194"
+msgid "dialogue/647/0x194\n"
+msgstr "Thomas\n"
+
+msgctxt "dialogue/647/0x1a7"
+msgid "dialogue/647/0x1a7\n"
+msgstr "Bit\n"
+
+msgctxt "dialogue/647/0x1ba"
+msgid "dialogue/647/0x1ba\n"
+msgstr "Leena\n"
+
+msgctxt "dialogue/647/0x1cd"
+msgid "dialogue/647/0x1cd\n"
+msgstr "Jamie\n"
+
+msgctxt "dialogue/647/0x1e2"
+msgid "dialogue/647/0x1e2\n"
+msgstr "Leon\n"
+
+msgctxt "dialogue/647/0x1f5"
+msgid "dialogue/647/0x1f5\n"
+msgstr "Alster\n"
+
+msgctxt "dialogue/647/0x20c"
+msgid "dialogue/647/0x20c\n"
+msgstr "Solid\n"
+
+msgctxt "dialogue/647/0x221"
+msgid "dialogue/647/0x221\n"
+msgstr "Brad\n"
+
+msgctxt "dialogue/647/0x236"
+msgid "dialogue/647/0x236\n"
+msgstr "Naomi\n"
+
+msgctxt "dialogue/647/0x249"
+msgid "dialogue/647/0x249\n"
+msgstr "Harry\n"
+
+msgctxt "dialogue/647/0x25c"
+msgid "dialogue/647/0x25c\n"
+msgstr "Raven\n"
+
+msgctxt "dialogue/647/0x271"
+msgid "dialogue/647/0x271\n"
+msgstr "Reese\n"
+
+msgctxt "dialogue/647/0x284"
+msgid "dialogue/647/0x284\n"
+msgstr "Rosso\n"
+
+msgctxt "dialogue/647/0x297"
+msgid "dialogue/647/0x297\n"
+msgstr "Viola\n"
+
+msgctxt "dialogue/647/0x2ae"
+msgid "dialogue/647/0x2ae\n"
+msgstr "Hombre enmascarado\n"
+
+msgctxt "dialogue/647/0x2c3"
+msgid "dialogue/647/0x2c3\n"
+msgstr "Mujer enmascarada\n"
+
+msgctxt "dialogue/647/0x2d2"
+msgid "dialogue/647/0x2d2"
+msgstr "No elegir a nadie"
+
+msgctxt "dialogue/648/0xc"
+msgid "dialogue/648/0xc"
+msgstr "Arth\nHe podido contactar\ncon estos."
+
+msgctxt "dialogue/648/0x39"
+msgid "dialogue/648/0x39"
+msgstr "Arth\n¿A quién se lo pido?"
+
+msgctxt "dialogue/648/0x69"
+msgid "dialogue/648/0x69\n"
+msgstr "Van\n"
+
+msgctxt "dialogue/648/0x7a"
+msgid "dialogue/648/0x7a\n"
+msgstr "Fiona\n"
+
+msgctxt "dialogue/648/0x8f"
+msgid "dialogue/648/0x8f\n"
+msgstr "Irvine\n"
+
+msgctxt "dialogue/648/0xa6"
+msgid "dialogue/648/0xa6\n"
+msgstr "Moonbay\n"
+
+msgctxt "dialogue/648/0xbb"
+msgid "dialogue/648/0xbb\n"
+msgstr "Herman\n"
+
+msgctxt "dialogue/648/0xd0"
+msgid "dialogue/648/0xd0\n"
+msgstr "Ford\n"
+
+msgctxt "dialogue/648/0xe5"
+msgid "dialogue/648/0xe5\n"
+msgstr "O'Connell\n"
+
+msgctxt "dialogue/648/0xfc"
+msgid "dialogue/648/0xfc\n"
+msgstr "Krueger\n"
+
+msgctxt "dialogue/648/0x113"
+msgid "dialogue/648/0x113\n"
+msgstr "Van (parte 2)\n"
+
+msgctxt "dialogue/648/0x12a"
+msgid "dialogue/648/0x12a\n"
+msgstr "Fiona (parte 2)\n"
+
+msgctxt "dialogue/648/0x145"
+msgid "dialogue/648/0x145\n"
+msgstr "Irvine (parte 2)\n"
+
+msgctxt "dialogue/648/0x162"
+msgid "dialogue/648/0x162\n"
+msgstr "Moonbay (parte 2)\n"
+
+msgctxt "dialogue/648/0x17d"
+msgid "dialogue/648/0x17d\n"
+msgstr "Schwarz\n"
+
+msgctxt "dialogue/648/0x194"
+msgid "dialogue/648/0x194\n"
+msgstr "Thomas\n"
+
+msgctxt "dialogue/648/0x1a7"
+msgid "dialogue/648/0x1a7\n"
+msgstr "Bit\n"
+
+msgctxt "dialogue/648/0x1ba"
+msgid "dialogue/648/0x1ba\n"
+msgstr "Leena\n"
+
+msgctxt "dialogue/648/0x1cd"
+msgid "dialogue/648/0x1cd\n"
+msgstr "Jamie\n"
+
+msgctxt "dialogue/648/0x1e2"
+msgid "dialogue/648/0x1e2\n"
+msgstr "Leon\n"
+
+msgctxt "dialogue/648/0x1f5"
+msgid "dialogue/648/0x1f5\n"
+msgstr "Alster\n"
+
+msgctxt "dialogue/648/0x20c"
+msgid "dialogue/648/0x20c\n"
+msgstr "Solid\n"
+
+msgctxt "dialogue/648/0x221"
+msgid "dialogue/648/0x221\n"
+msgstr "Brad\n"
+
+msgctxt "dialogue/648/0x236"
+msgid "dialogue/648/0x236\n"
+msgstr "Naomi\n"
+
+msgctxt "dialogue/648/0x249"
+msgid "dialogue/648/0x249\n"
+msgstr "Harry\n"
+
+msgctxt "dialogue/648/0x25c"
+msgid "dialogue/648/0x25c\n"
+msgstr "Raven\n"
+
+msgctxt "dialogue/648/0x271"
+msgid "dialogue/648/0x271\n"
+msgstr "Reese\n"
+
+msgctxt "dialogue/648/0x284"
+msgid "dialogue/648/0x284\n"
+msgstr "Rosso\n"
+
+msgctxt "dialogue/648/0x297"
+msgid "dialogue/648/0x297\n"
+msgstr "Viola\n"
+
+msgctxt "dialogue/648/0x2ae"
+msgid "dialogue/648/0x2ae\n"
+msgstr "Hombre enmascarado\n"
+
+msgctxt "dialogue/648/0x2c3"
+msgid "dialogue/648/0x2c3\n"
+msgstr "Mujer enmascarada\n"
+
+msgctxt "dialogue/648/0x2d2"
+msgid "dialogue/648/0x2d2"
+msgstr "No elegir a nadie"
+
+msgctxt "dialogue/649/0xc"
+msgid "dialogue/649/0xc"
+msgstr "Arth\n¿Quiere cambiar a algún\nmiembro del grupo?"
+
+msgctxt "dialogue/649/0x4f"
+msgid "dialogue/649/0x4f"
+msgstr "Arth\nPara pedir refuerzos,\nvuelva a hablar conmigo."
+
+msgctxt "dialogue/650/0xc"
+msgid "dialogue/650/0xc"
+msgstr "Arth\n¿Quiere cambiar a algún\nmiembro del grupo?"
+
+msgctxt "dialogue/650/0x4f"
+msgid "dialogue/650/0x4f"
+msgstr "Arth\nPara pedir refuerzos,\nvuelva a hablar conmigo."
+
+msgctxt "dialogue/651/0xc"
+msgid "dialogue/651/0xc"
+msgstr "Arth\nEntendido. Los llamaré\nantes de salir."
+
+msgctxt "dialogue/652/0xc"
+msgid "dialogue/652/0xc"
+msgstr "Arth\nEntendido. Los llamaré\nantes de salir."
+
+msgctxt "dialogue/653/0xc"
+msgid "dialogue/653/0xc"
+msgstr "Regina\nPríncipe, ¿está todo\nlisto?"
+
+msgctxt "dialogue/653/0x51"
+msgid "dialogue/653/0x51"
+msgstr "Regina\nLlega la batalla final.\n¡Vamos al castillo de\nArcadia!"
+
+msgctxt "dialogue/654/0x3"
+msgid "dialogue/654/0x3"
+msgstr "Soldado del Reino\nLo siento mucho...\nQuizá por tantos saltos\nespaciotemporales,"
+
+msgctxt "dialogue/654/0x48"
+msgid "dialogue/654/0x48"
+msgstr "Soldado del Reino\nel dispositivo se ha\nvuelto inestable y ahora\nno se puede usar."
+
+msgctxt "dialogue/655/0xc"
+msgid "dialogue/655/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/655/0x2d"
+msgid "dialogue/655/0x2d"
+msgstr "Regina\nPor fin hemos vuelto...\nal castillo de Arcadia."
+
+msgctxt "dialogue/655/0x74"
+msgid "dialogue/655/0x74"
+msgstr "Arth\nSí."
+
+msgctxt "dialogue/655/0x92"
+msgid "dialogue/655/0x92"
+msgstr "Jack\nAún no hay que bajar la\nguardia. La verdadera\nbatalla empieza ahora."
+
+msgctxt "dialogue/655/0xd5"
+msgid "dialogue/655/0xd5"
+msgstr "Jack\nParece que hay una gran\nreacción de energía bajo\nel castillo."
+
+msgctxt "dialogue/655/0x112"
+msgid "dialogue/655/0x112"
+msgstr "Jack\nAvanzaremos hasta allí\nsin detenernos."
+
+msgctxt "dialogue/655/0x144"
+msgid "dialogue/655/0x144"
+msgstr "Jack\nDejemos que el ejército\ndel Reino libere el\ncastillo."
+
+msgctxt "dialogue/655/0x196"
+msgid "dialogue/655/0x196"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/655/0x1b7"
+msgid "dialogue/655/0x1b7"
+msgstr "Jack\n¡Vamos!"
+
+msgctxt "dialogue/655/0x1e1"
+msgid "dialogue/655/0x1e1"
+msgstr "Regina\n¡Entendido!"
+
+msgctxt "dialogue/655/0x203"
+msgid "dialogue/655/0x203"
+msgstr "Arth\nEntendido."
+
+msgctxt "dialogue/656/0xc"
+msgid "dialogue/656/0xc"
+msgstr "Fran\n......Has venido."
+
+msgctxt "dialogue/656/0x3a"
+msgid "dialogue/656/0x3a"
+msgstr "Arth\nFran. ...¿Vas a luchar?"
+
+msgctxt "dialogue/656/0x6c"
+msgid "dialogue/656/0x6c"
+msgstr "Fran\nJe, je, qué pregunta.\nClaro que lucharé. Pero\nno para derrotarte a ti."
+
+msgctxt "dialogue/656/0xbd"
+msgid "dialogue/656/0xbd"
+msgstr "Arth\n...¿Por Blood?"
+
+msgctxt "dialogue/656/0xef"
+msgid "dialogue/656/0xef"
+msgstr "Fran\nSí, lucho por él. Es lo\núnico que puedo hacer\nahora."
+
+msgctxt "dialogue/656/0x142"
+msgid "dialogue/656/0x142"
+msgstr "Arth\nYa veo."
+
+msgctxt "dialogue/656/0x162"
+msgid "dialogue/656/0x162"
+msgstr "Fran\nSolo puedo servir a\nalguien luchando...\n¿Te parezco una tonta?"
+
+msgctxt "dialogue/656/0x1bb"
+msgid "dialogue/656/0x1bb"
+msgstr "Arth\nQué pregunta. No se lo\npreguntes a un hombre que\nsolo sabe luchar."
+
+msgctxt "dialogue/656/0x208"
+msgid "dialogue/656/0x208"
+msgstr "Fran\n......Je, je."
+
+msgctxt "dialogue/656/0x232"
+msgid "dialogue/656/0x232"
+msgstr "Fran\nEmpecemos."
+
+msgctxt "dialogue/657/0xc"
+msgid "dialogue/657/0xc"
+msgstr "Fran\n¡Aaah!"
+
+msgctxt "dialogue/657/0x30"
+msgid "dialogue/657/0x30"
+msgstr "Fran\n...He perdido. Blood, no\nhe podido serte útil..."
+
+msgctxt "dialogue/657/0x8b"
+msgid "dialogue/657/0x8b"
+msgstr "Arth\n......Vamos."
+
+msgctxt "dialogue/657/0xb8"
+msgid "dialogue/657/0xb8"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/657/0xd9"
+msgid "dialogue/657/0xd9"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/657/0x101"
+msgid "dialogue/657/0x101"
+msgstr "Jack\n......Sí."
+
+msgctxt "dialogue/658/0xc"
+msgid "dialogue/658/0xc"
+msgstr "Emperador\nFran... Qué mujer tan\nnecia..."
+
+msgctxt "dialogue/658/0x44"
+msgid "dialogue/658/0x44"
+msgstr "Emperador\n¡Desaparece cubierta\nde vergüenza!"
+
+msgctxt "dialogue/658/0x64"
+msgid "dialogue/658/0x64"
+msgstr "Emperador\n¡No toleraré a ningún\ninútil a mi alrededor!"
+
+msgctxt "dialogue/659/0xc"
+msgid "dialogue/659/0xc"
+msgstr "Fran\n......Hasta aquí he\nllegado... Adiós,\nBlood..."
+
+msgctxt "dialogue/660/0xc"
+msgid "dialogue/660/0xc"
+msgstr "Blood\n¡No decidas eso tú sola!"
+
+msgctxt "dialogue/660/0x3e"
+msgid "dialogue/660/0x3e"
+msgstr "Fran\nB-Blood..."
+
+msgctxt "dialogue/660/0x6a"
+msgid "dialogue/660/0x6a"
+msgstr "Blood\n¡Ven, Fran!\n¡Ven conmigo!"
+
+msgctxt "dialogue/660/0xad"
+msgid "dialogue/660/0xad"
+msgstr "Fran\n¡Blood...!"
+
+msgctxt "dialogue/661/0xc"
+msgid "dialogue/661/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/661/0x2d"
+msgid "dialogue/661/0x2d"
+msgstr "Regina\n¿Qué? ¿¡Una explosión!?\n¿¡Y Fran!?"
+
+msgctxt "dialogue/661/0x69"
+msgid "dialogue/661/0x69"
+msgstr "Jack\n¡Volvamos!"
+
+msgctxt "dialogue/661/0x95"
+msgid "dialogue/661/0x95"
+msgstr "Arth\n¡No olvides nuestro\nobjetivo!"
+
+msgctxt "dialogue/661/0xcb"
+msgid "dialogue/661/0xcb"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/661/0xf4"
+msgid "dialogue/661/0xf4"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/661/0x115"
+msgid "dialogue/661/0x115"
+msgstr "Jack\n...Tienes razón."
+
+msgctxt "dialogue/661/0x141"
+msgid "dialogue/661/0x141"
+msgstr "Jack\nArth, avisa al ejército\ndel Reino de que hemos\ncruzado la puerta."
+
+msgctxt "dialogue/661/0x177"
+msgid "dialogue/661/0x177"
+msgstr "Jack\nNosotros seguiremos\nhasta el fondo."
+
+msgctxt "dialogue/661/0x1b3"
+msgid "dialogue/661/0x1b3"
+msgstr "Arth\nSí, así está bien...\nVamos."
+
+msgctxt "dialogue/662/0xc"
+msgid "dialogue/662/0xc"
+msgstr "Gale\n...Ya estáis aquí. Antes\nde lo que esperaba."
+
+msgctxt "dialogue/662/0x44"
+msgid "dialogue/662/0x44"
+msgstr "Jack\nGale, ya están acabados.\nRíndase, por favor."
+
+msgctxt "dialogue/662/0x91"
+msgid "dialogue/662/0x91"
+msgstr "Gale\nJe, je, je. Hablas como\nsi pudieras vencerme."
+
+msgctxt "dialogue/662/0xd3"
+msgid "dialogue/662/0xd3"
+msgstr "Jack\nVenceremos. No vamos a\nperder contra alguien\nsin convicciones como\nusted."
+
+msgctxt "dialogue/662/0x122"
+msgid "dialogue/662/0x122"
+msgstr "Gale\nConvicciones... Hacía\nmucho que no oía esa\npalabra."
+
+msgctxt "dialogue/662/0x164"
+msgid "dialogue/662/0x164"
+msgstr "Jack\n¡Dígamelo! ¿Por qué\ncolabora con el\nEmperador?"
+
+msgctxt "dialogue/662/0x1b7"
+msgid "dialogue/662/0x1b7"
+msgstr "Gale\n¿Y qué harás si lo\nsabes? ¿Perdonarme?\n¡No seas presuntuoso!"
+
+msgctxt "dialogue/662/0x20c"
+msgid "dialogue/662/0x20c"
+msgstr "Jack\n¡...!"
+
+msgctxt "dialogue/662/0x22a"
+msgid "dialogue/662/0x22a"
+msgstr "Gale\n¿De qué sirve compadecer\nal enemigo en combate?"
+
+msgctxt "dialogue/662/0x252"
+msgid "dialogue/662/0x252"
+msgstr "Gale\n¿Así puedes luchar?\n¿Así puedes proteger lo\nque te importa?"
+
+msgctxt "dialogue/662/0x29d"
+msgid "dialogue/662/0x29d"
+msgstr "Gale\n¿Así podréis cumplir\nvuestra gran ambición?"
+
+msgctxt "dialogue/662/0x2d5"
+msgid "dialogue/662/0x2d5"
+msgstr "Gale\n¿Esas son las\nconvicciones de las que\nhablas?"
+
+msgctxt "dialogue/662/0x30d"
+msgid "dialogue/662/0x30d"
+msgstr "Gale\n¡Los sueños, para cuando\nduermas!"
+
+msgctxt "dialogue/662/0x343"
+msgid "dialogue/662/0x343"
+msgstr "Jack\n.........Gale."
+
+msgctxt "dialogue/662/0x36b"
+msgid "dialogue/662/0x36b"
+msgstr "Jack\nEntendido. No volveré a\npreguntarle por sus\nmotivos."
+
+msgctxt "dialogue/662/0x3a3"
+msgid "dialogue/662/0x3a3"
+msgstr "Jack\nLo derrotaré como a un\nenemigo."
+
+msgctxt "dialogue/662/0x3d5"
+msgid "dialogue/662/0x3d5"
+msgstr "Gale\nEso es. En la batalla no\nhay sitio para la\nblandura. Algún día te\ncostaría la vida."
+
+msgctxt "dialogue/662/0x434"
+msgid "dialogue/662/0x434"
+msgstr "Gale\n¡Vamos, muéstrame tus\nconvicciones!"
+
+msgctxt "dialogue/662/0x472"
+msgid "dialogue/662/0x472"
+msgstr "Jack\n¡Allá voy!"
+
+msgctxt "dialogue/663/0xc"
+msgid "dialogue/663/0xc"
+msgstr "Gale\n¡Guaaaaah!"
+
+msgctxt "dialogue/663/0x2c"
+msgid "dialogue/663/0x2c"
+msgstr "Gale\nJe, je, je. He visto\nvuestras convicciones..."
+
+msgctxt "dialogue/663/0x73"
+msgid "dialogue/663/0x73"
+msgstr "Jack\nInstructor Gale..."
+
+msgctxt "dialogue/663/0x9f"
+msgid "dialogue/663/0x9f"
+msgstr "Gale\nInstructor... ¿Aún me\nllamas así?"
+
+msgctxt "dialogue/663/0xd6"
+msgid "dialogue/663/0xd6"
+msgstr "Gale\nPero ya no me queda nada\nque enseñarte."
+
+msgctxt "dialogue/663/0x10a"
+msgid "dialogue/663/0x10a"
+msgstr "Gale\nAhora, id. El Emperador\ndebe de estar en la\nfábrica subterránea."
+
+msgctxt "dialogue/663/0x151"
+msgid "dialogue/663/0x151"
+msgstr "Gale\nCumple con tu deber...\nY cumplid vuestra gran\nambición."
+
+msgctxt "dialogue/663/0x1a8"
+msgid "dialogue/663/0x1a8"
+msgstr "Jack\nInstructor Gale...\nGracias por sus\nenseñanzas."
+
+msgctxt "dialogue/663/0x1f5"
+msgid "dialogue/663/0x1f5"
+msgstr "Jack\nPríncipe, vamos."
+
+msgctxt "dialogue/663/0x224"
+msgid "dialogue/663/0x224"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/664/0xc"
+msgid "dialogue/664/0xc"
+msgstr "Gale\nJack, me habría gustado\nhablar mucho más...\npero ya no queda tiempo."
+
+msgctxt "dialogue/664/0x67"
+msgid "dialogue/664/0x67"
+msgstr "Gale\nJulia, papá ha perdido."
+
+msgctxt "dialogue/664/0x95"
+msgid "dialogue/664/0x95"
+msgstr "Gale\nPerdona a papá por no\nhaber podido salvarte."
+
+msgctxt "dialogue/664/0xd4"
+msgid "dialogue/664/0xd4"
+msgstr "Gale\nPero no estarás sola.\nPapá se irá primero y\nte estará esperando."
+
+msgctxt "dialogue/665/0xc"
+msgid "dialogue/665/0xc"
+msgstr "Fran\n¡Espera, Gale!"
+
+msgctxt "dialogue/665/0x34"
+msgid "dialogue/665/0x34"
+msgstr "Gale\n¿Fran? Así que estabas\na salvo..."
+
+msgctxt "dialogue/665/0x6c"
+msgid "dialogue/665/0x6c"
+msgstr "Gale\nBlood...\nJe, je. Ya entiendo..."
+
+msgctxt "dialogue/665/0xb1"
+msgid "dialogue/665/0xb1"
+msgstr "Blood\nGale, tu vida queda en\nmis manos."
+
+msgctxt "dialogue/665/0xf3"
+msgid "dialogue/665/0xf3"
+msgstr "Gale\nVaya... ¿En qué te basas?"
+
+msgctxt "dialogue/665/0x123"
+msgid "dialogue/665/0x123"
+msgstr "Blood\nTu hija está conmigo.\nEn eso me baso."
+
+msgctxt "dialogue/665/0x167"
+msgid "dialogue/665/0x167"
+msgstr "Gale\n¿Julia?"
+
+msgctxt "dialogue/665/0x18d"
+msgid "dialogue/665/0x18d"
+msgstr "Gale\nYa veo. Te debo lo\nbastante como para\nconfiarte mi vida."
+
+msgctxt "dialogue/665/0x1d4"
+msgid "dialogue/665/0x1d4"
+msgstr "Blood\nYo decidiré dónde\nmueres. ¡Sígueme!"
+
+msgctxt "dialogue/666/0xc"
+msgid "dialogue/666/0xc"
+msgstr "Gale\nCreía que lo tuyo era\natacar por la espalda."
+
+msgctxt "dialogue/666/0x53"
+msgid "dialogue/666/0x53"
+msgstr "Blood\nA los valientes los\nenfrento cara a cara.\nEsa es mi convicción."
+
+msgctxt "dialogue/667/0xc"
+msgid "dialogue/667/0xc"
+msgstr "Opis\nJi, ji, ji. Por fin\nos dignáis a aparecer."
+
+msgctxt "dialogue/667/0x42"
+msgid "dialogue/667/0x42"
+msgstr "Opis\n¡Conmigo no os será tan\nfácil como con Gale o\nFran! ¡Ji, ji, ji!"
+
+msgctxt "dialogue/667/0x8d"
+msgid "dialogue/667/0x8d"
+msgstr "Regina\n¡Cállate! ¡No vamos a\nperder contra alguien\nque solo usa trucos\nrastreros!"
+
+msgctxt "dialogue/667/0xf2"
+msgid "dialogue/667/0xf2"
+msgstr "Opis\n¿Trucos rastreros?\nMe ofendes."
+
+msgctxt "dialogue/667/0x124"
+msgid "dialogue/667/0x124"
+msgstr "Opis\nPero qué mal hablas.\nAsí nunca tendrás\nnovio."
+
+msgctxt "dialogue/667/0x17b"
+msgid "dialogue/667/0x17b"
+msgstr "Regina\n¡C-cállate! ¡No es\nasunto tuyo!"
+
+msgctxt "dialogue/667/0x1c0"
+msgid "dialogue/667/0x1c0"
+msgstr "Opis\nEntonces, los métodos que\nyo use tampoco son\nasunto tuyo, ¿no?"
+
+msgctxt "dialogue/667/0x21f"
+msgid "dialogue/667/0x21f"
+msgstr "Regina\n¡E-eso es...!"
+
+msgctxt "dialogue/667/0x24f"
+msgid "dialogue/667/0x24f"
+msgstr "Opis\nEn fin. Da gusto tomar\nel pelo a las jovencitas.\n¡Ji, ji, ji!"
+
+msgctxt "dialogue/667/0x29c"
+msgid "dialogue/667/0x29c"
+msgstr "Regina\n¡N-no te burles!"
+
+msgctxt "dialogue/667/0x2cc"
+msgid "dialogue/667/0x2cc"
+msgstr "Opis\nYo siempre voy en serio.\n¡También cuando se trata\nde acabar con vosotros\naquí y ahora!"
+
+msgctxt "dialogue/668/0xc"
+msgid "dialogue/668/0xc"
+msgstr "Opis\n¡Grrr! ¿Es que no\nrespetáis a vuestros\nmayores?"
+
+msgctxt "dialogue/668/0x57"
+msgid "dialogue/668/0x57"
+msgstr "Regina\n¡Mira quién habla! ¡Ya\npodrías dejar paso a\nlos jóvenes!"
+
+msgctxt "dialogue/668/0xa4"
+msgid "dialogue/668/0xa4"
+msgstr "Opis\n¡Qué mocosa tan\ndeslenguada! ¡Muere\nconmigo! ¡Así te\nperdonaré! ¡Ji, ji, ji!"
+
+msgctxt "dialogue/669/0xc"
+msgid "dialogue/669/0xc"
+msgstr "Opis\n¡Grrraaah...!\n...¡Ugh!"
+
+msgctxt "dialogue/670/0xc"
+msgid "dialogue/670/0xc"
+msgstr "Regina\n¡¿Va a autodestruirse?!"
+
+msgctxt "dialogue/670/0x38"
+msgid "dialogue/670/0x38"
+msgstr "Arth\nQué mal perdedor."
+
+msgctxt "dialogue/670/0x64"
+msgid "dialogue/670/0x64"
+msgstr "Jack\n¡Qué estás diciendo!\n¡Vámonos de aquí!"
+
+msgctxt "dialogue/671/0xc"
+msgid "dialogue/671/0xc"
+msgstr "Opis\n............¿Se han ido?"
+
+msgctxt "dialogue/671/0x4a"
+msgid "dialogue/671/0x4a"
+msgstr "Opis\nJi, ji, ji. ¡Soy un\ngenio! Previendo algo\nasí, preparé toda clase\nde recursos—"
+
+msgctxt "dialogue/671/0xa9"
+msgid "dialogue/671/0xa9"
+msgstr "Blood\nMenudo genio de tres\nal cuarto."
+
+msgctxt "dialogue/672/0xc"
+msgid "dialogue/672/0xc"
+msgstr "Opis\nJi, ji, ji. Blood. Y con\nGale y Fran, nada\nmenos..."
+
+msgctxt "dialogue/672/0x51"
+msgid "dialogue/672/0x51"
+msgstr "Opis\n¿Vosotros también habéis\ntraicionado al Emperador?"
+
+msgctxt "dialogue/672/0x8b"
+msgid "dialogue/672/0x8b"
+msgstr "Gale\nNunca le he sido leal.\nY tú tampoco, ¿verdad?"
+
+msgctxt "dialogue/672/0xde"
+msgid "dialogue/672/0xde"
+msgstr "Opis\nJi, ji, ji. Soy un\ncientífico. ¡Por mis\ninvestigaciones vendería\nmi alma al diablo!"
+
+msgctxt "dialogue/672/0x13d"
+msgid "dialogue/672/0x13d"
+msgstr "Fran\nMenuda convicción."
+
+msgctxt "dialogue/672/0x165"
+msgid "dialogue/672/0x165"
+msgstr "Opis\nJi, ji, ji. ¿Y ahora qué\nvais a hacer?"
+
+msgctxt "dialogue/672/0x19f"
+msgid "dialogue/672/0x19f"
+msgstr "Blood\nNuestro último deber como\nlos Cuatro Reyes: ver\nel final del Emperador."
+
+msgctxt "dialogue/672/0x1ea"
+msgid "dialogue/672/0x1ea"
+msgstr "Opis\nYa veo. Pues mucha\nsuerte."
+
+msgctxt "dialogue/673/0xc"
+msgid "dialogue/673/0xc"
+msgstr "Blood\nNi hablar. Como uno de\nlos Cuatro Reyes, tú\nvienes con nosotros,\nOpis."
+
+msgctxt "dialogue/674/0xc"
+msgid "dialogue/674/0xc"
+msgstr "Emperador\nConque habéis llegado\nhasta aquí."
+
+msgctxt "dialogue/674/0x3e"
+msgid "dialogue/674/0x3e"
+msgstr "Emperador\n¡Los Cuatro Reyes no son\nmás que unos inútiles!"
+
+msgctxt "dialogue/675/0xc"
+msgid "dialogue/675/0xc"
+msgstr "Regina\n¡Vamos, ya estás\nacabado! ¡Reconoce tu\nderrota!"
+
+msgctxt "dialogue/675/0x59"
+msgid "dialogue/675/0x59"
+msgstr "Emperador\n¿Mi derrota...?\nJe, je, je, je, je..."
+
+msgctxt "dialogue/675/0x9c"
+msgid "dialogue/675/0x9c"
+msgstr "Regina\n¡¿De qué te ríes?!"
+
+msgctxt "dialogue/675/0xca"
+msgid "dialogue/675/0xca"
+msgstr "Emperador\n¡Mientras yo tenga\nel Zoid más poderoso!"
+
+msgctxt "dialogue/675/0xf6"
+msgid "dialogue/675/0xf6"
+msgstr "Emperador\n¡El soberano de este\npaís! ¡No, del planeta\nZi entero, soy yo!"
+
+msgctxt "dialogue/676/0xc"
+msgid "dialogue/676/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/676/0x2d"
+msgid "dialogue/676/0x2d"
+msgstr "Regina\n¡¿Q-qué...? ¿Qué es este\nZoid tan siniestro...?"
+
+msgctxt "dialogue/676/0x76"
+msgid "dialogue/676/0x76"
+msgstr "Arth\nTsk. Por fin sale la\nestrella del espectáculo."
+
+msgctxt "dialogue/676/0xa2"
+msgid "dialogue/676/0xa2"
+msgstr "Jack\n¡Así que este es el\nsímbolo del poder de\nese hombre...!"
+
+msgctxt "dialogue/676/0xe0"
+msgid "dialogue/676/0xe0"
+msgstr "Emperador\n¿Qué os parece? ¡Este es\nmi poder!"
+
+msgctxt "dialogue/676/0x116"
+msgid "dialogue/676/0x116"
+msgstr "Emperador\n¡Esa es la diferencia\nentre quien se aferraba\na este reino mohoso\ny yo!"
+
+msgctxt "dialogue/676/0x15b"
+msgid "dialogue/676/0x15b"
+msgstr "Emperador\n{name}... ¡Y también la\ndiferencia entre tú,\nsu hijo, y yo!"
+
+msgctxt "dialogue/676/0x1ac"
+msgid "dialogue/676/0x1ac"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/676/0x1cd"
+msgid "dialogue/676/0x1cd"
+msgstr "Jack\n¿Qué quiere decir?"
+
+msgctxt "dialogue/676/0x1fb"
+msgid "dialogue/676/0x1fb"
+msgstr "Emperador\n......"
+
+msgctxt "dialogue/676/0x220"
+msgid "dialogue/676/0x220"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/676/0x241"
+msgid "dialogue/676/0x241"
+msgstr "Regina\n......No puede ser..."
+
+msgctxt "dialogue/676/0x275"
+msgid "dialogue/676/0x275"
+msgstr "Arth\n¡¿Q-qué significa esto?!"
+
+msgctxt "dialogue/676/0x2a3"
+msgid "dialogue/676/0x2a3"
+msgstr "Jack\nM-Majestad..."
+
+msgctxt "dialogue/676/0x2cd"
+msgid "dialogue/676/0x2cd"
+msgstr "Emperador\nJe, je, je, je. ¿Os\nsorprende, gusanos?"
+
+msgctxt "dialogue/676/0x307"
+msgid "dialogue/676/0x307"
+msgstr "Jack\n¿Q-quién es usted en\nrealidad...?"
+
+msgctxt "dialogue/676/0x343"
+msgid "dialogue/676/0x343"
+msgstr "Emperador\nSu hermano menor..."
+
+msgctxt "dialogue/676/0x367"
+msgid "dialogue/676/0x367"
+msgstr "Arth\n...¿Hermano menor?"
+
+msgctxt "dialogue/676/0x38b"
+msgid "dialogue/676/0x38b"
+msgstr "Regina\nP-pero nunca he oído\nque Su Majestad tuviera\nun hermano..."
+
+msgctxt "dialogue/676/0x3de"
+msgid "dialogue/676/0x3de"
+msgstr "Emperador\nEs natural que no lo\nsepáis."
+
+msgctxt "dialogue/676/0x406"
+msgid "dialogue/676/0x406"
+msgstr "Emperador\nEn este reino mohoso,\ncuando nacen gemelos en\nla familia real, matan\nal menor enseguida."
+
+msgctxt "dialogue/676/0x465"
+msgid "dialogue/676/0x465"
+msgstr "Jack\nS-sí, he oído hablar\nde esa costumbre."
+
+msgctxt "dialogue/676/0x49d"
+msgid "dialogue/676/0x49d"
+msgstr "Jack\nPero nunca se ha dicho\nque hayan nacido\ngemelos..."
+
+msgctxt "dialogue/676/0x4e6"
+msgid "dialogue/676/0x4e6"
+msgstr "Emperador\n¿Crees que harían\npúblico que nacieron\ngemelos y mataron al\nmenor?"
+
+msgctxt "dialogue/676/0x53d"
+msgid "dialogue/676/0x53d"
+msgstr "Jack\n........."
+
+msgctxt "dialogue/676/0x56b"
+msgid "dialogue/676/0x56b"
+msgstr "Emperador\nEsta cicatriz en mi cara\nes de aquel día..."
+
+msgctxt "dialogue/676/0x5a3"
+msgid "dialogue/676/0x5a3"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/676/0x5c4"
+msgid "dialogue/676/0x5c4"
+msgstr "Arth\nY por eso... ¿quieres\nvengarte del Reino de\nArcadia?"
+
+msgctxt "dialogue/676/0x619"
+msgid "dialogue/676/0x619"
+msgstr "Emperador\n¿Venganza? No."
+
+msgctxt "dialogue/676/0x633"
+msgid "dialogue/676/0x633"
+msgstr "Emperador\nYo, que debía morir,\nsigo vivo. ¿No os\nparece extraño?"
+
+msgctxt "dialogue/676/0x684"
+msgid "dialogue/676/0x684"
+msgstr "Emperador\nEs muy sencillo. Fui\nelegido... por Dios.\n¡Tenía su bendición!"
+
+msgctxt "dialogue/676/0x6cf"
+msgid "dialogue/676/0x6cf"
+msgstr "Emperador\nNadie más que yo puede\ngobernar el Reino de\nArcadia."
+
+msgctxt "dialogue/676/0x714"
+msgid "dialogue/676/0x714"
+msgstr "Emperador\n¡Mi inútil hermano es un\nvillano que estorba la\nmisión que Dios me ha\nencomendado!"
+
+msgctxt "dialogue/676/0x769"
+msgid "dialogue/676/0x769"
+msgstr "Emperador\n¡Y el pueblo que le\nsirvió es igual de\nculpable!"
+
+msgctxt "dialogue/676/0x7a2"
+msgid "dialogue/676/0x7a2"
+msgstr "Emperador\n¡También esta tierra que\nsoportó su dominio, y\nel planeta Zi que lo\ndejó vivir!"
+
+msgctxt "dialogue/676/0x7f1"
+msgid "dialogue/676/0x7f1"
+msgstr "Emperador\n¡Castigaré a todo lo que\nme traicionó! ¡Este es\nel castigo de Dios!"
+
+msgctxt "dialogue/677/0xc"
+msgid "dialogue/677/0xc"
+msgstr "Emperador\nPara empezar, mi hermano\nya ha recibido su\ncastigo."
+
+msgctxt "dialogue/677/0x34"
+msgid "dialogue/677/0x34"
+msgstr "Emperador\nA estas horas ya será\nsolo partículas flotando\npor ahí."
+
+msgctxt "dialogue/677/0x73"
+msgid "dialogue/677/0x73"
+msgstr "Emperador\n¡¡Ja, ja, ja, ja, ja!!"
+
+msgctxt "dialogue/677/0x97"
+msgid "dialogue/677/0x97"
+msgstr "Emperador\n¡Ojalá pudierais haber\nvisto su cara desencajada\npor el terror!"
+
+msgctxt "dialogue/677/0xd2"
+msgid "dialogue/677/0xd2"
+msgstr "Emperador\nSobre todo tú,\n{name}... Je, je, je."
+
+msgctxt "dialogue/677/0x10c"
+msgid "dialogue/677/0x10c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/677/0x12d"
+msgid "dialogue/677/0x12d"
+msgstr "Regina\n¿Ha... ha matado a\nSu Majestad...?"
+
+msgctxt "dialogue/678/0xc"
+msgid "dialogue/678/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/678/0x2d"
+msgid "dialogue/678/0x2d"
+msgstr "Emperador\n...¿Qué es esa mirada?"
+
+msgctxt "dialogue/678/0x4f"
+msgid "dialogue/678/0x4f"
+msgstr "Emperador\n¡Qué mirada tan odiosa!\n¡Me miras igual que\nmi hermano!"
+
+msgctxt "dialogue/678/0x88"
+msgid "dialogue/678/0x88"
+msgstr "Emperador\nNo permitiré que me mires\ncon esos ojos. ¡¡Jamás!!\n¡¡{name}!!"
+
+msgctxt "dialogue/679/0xc"
+msgid "dialogue/679/0xc"
+msgstr "Emperador\n¡¡Ooooooh!! ¡¿Por qué?!"
+
+msgctxt "dialogue/679/0x38"
+msgid "dialogue/679/0x38"
+msgstr "Emperador\n¡¿Voy a perder yo?!\n¡¿Van a derrotarme a mí?!"
+
+msgctxt "dialogue/679/0x79"
+msgid "dialogue/679/0x79"
+msgstr "Emperador\n¡¿Por qué?! ¡¿Por qué?!\n¡¡¿¿Por quééééé??!!"
+
+msgctxt "dialogue/680/0xc"
+msgid "dialogue/680/0xc"
+msgstr "Regina\n...¿Se acabó?"
+
+msgctxt "dialogue/680/0x3a"
+msgid "dialogue/680/0x3a"
+msgstr "Arth\nSeguramente..."
+
+msgctxt "dialogue/680/0x64"
+msgid "dialogue/680/0x64"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/680/0x85"
+msgid "dialogue/680/0x85"
+msgstr "Jack\nPríncipe... Levantemos\nel ánimo."
+
+msgctxt "dialogue/680/0xb3"
+msgid "dialogue/680/0xb3"
+msgstr "Jack\nPríncipe, hay mucha gente\nque os necesita."
+
+msgctxt "dialogue/680/0xee"
+msgid "dialogue/680/0xee"
+msgstr "Jack\nAún os quedan muchas\ncosas por hacer."
+
+msgctxt "dialogue/680/0x13f"
+msgid "dialogue/680/0x13f"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/680/0x160"
+msgid "dialogue/680/0x160"
+msgstr "Opis\n¡Jiiiii! ¡E-el Zoid más\nfuerte que yo creé...!"
+
+msgctxt "dialogue/681/0xc"
+msgid "dialogue/681/0xc"
+msgstr "Regina\n¡Opis! ¡¿Estabas vivo?!"
+
+msgctxt "dialogue/682/0xc"
+msgid "dialogue/682/0xc"
+msgstr "Blood\nVolvemos a vernos,\n{name}..."
+
+msgctxt "dialogue/682/0x3b"
+msgid "dialogue/682/0x3b"
+msgstr "Blood\nVamos...\n¡¡Pelea conmigo!!"
+
+msgctxt "dialogue/683/0xc"
+msgid "dialogue/683/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/683/0x2d"
+msgid "dialogue/683/0x2d"
+msgstr "Blood\n¡Te derrotaré y\ngobernaré este país!"
+
+msgctxt "dialogue/683/0x61"
+msgid "dialogue/683/0x61"
+msgstr "Blood\n¡Vamos, demuéstrame\nde qué eres capaz!"
+
+msgctxt "dialogue/683/0x93"
+msgid "dialogue/683/0x93"
+msgstr "Blood\n¡¡Decidamos de una vez\nquién de los dos merece\nser el soberano de este\npaís!!"
+
+msgctxt "dialogue/683/0xf4"
+msgid "dialogue/683/0xf4"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/684/0xc"
+msgid "dialogue/684/0xc"
+msgstr "Fran\nHe decidido seguir a\nBlood. Así que te\nderrotaré, Arth."
+
+msgctxt "dialogue/684/0x65"
+msgid "dialogue/684/0x65"
+msgstr "Arth\nYa veo... Parece que has\nencontrado otra forma de\nvivir que no sea la\nvenganza."
+
+msgctxt "dialogue/684/0xb2"
+msgid "dialogue/684/0xb2"
+msgstr "Fran\n...Sí."
+
+msgctxt "dialogue/685/0xc"
+msgid "dialogue/685/0xc"
+msgstr "Jack\nInstructor Gale..."
+
+msgctxt "dialogue/685/0x38"
+msgid "dialogue/685/0x38"
+msgstr "Gale\nYa no soy tu instructor.\nQuiero luchar contra ti\ncomo un simple soldado."
+
+msgctxt "dialogue/685/0x8d"
+msgid "dialogue/685/0x8d"
+msgstr "Gale\n¿Me concedes este\ncombate?"
+
+msgctxt "dialogue/685/0xb5"
+msgid "dialogue/685/0xb5"
+msgstr "Jack\nInstructor Gale... No,\nGale."
+
+msgctxt "dialogue/685/0xef"
+msgid "dialogue/685/0xef"
+msgstr "Jack\n¡Nada me gustaría más!"
+
+msgctxt "dialogue/686/0xc"
+msgid "dialogue/686/0xc"
+msgstr "Opis\n......"
+
+msgctxt "dialogue/686/0x3a"
+msgid "dialogue/686/0x3a"
+msgstr "Regina\n......¿Qué haces tan\ncallado?"
+
+msgctxt "dialogue/686/0x7c"
+msgid "dialogue/686/0x7c"
+msgstr "Opis\nNo, nada. Pensaba si\nnosotros dos no tenemos\nnada que decirnos."
+
+msgctxt "dialogue/686/0xcd"
+msgid "dialogue/686/0xcd"
+msgstr "Regina\n¡Pues claro que no!"
+
+msgctxt "dialogue/686/0xfd"
+msgid "dialogue/686/0xfd"
+msgstr "Opis\nTambién es verdad.\n¡Ji, ji, ji!"
+
+msgctxt "dialogue/687/0xc"
+msgid "dialogue/687/0xc"
+msgstr "Blood\n¡Allá voy! ¡¡{name}!!"
+
+msgctxt "dialogue/687/0x39"
+msgid "dialogue/687/0x39"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/688/0xc"
+msgid "dialogue/688/0xc"
+msgstr "Blood\n¡¿Qué?!"
+
+msgctxt "dialogue/688/0x32"
+msgid "dialogue/688/0x32"
+msgstr "Jack\n¡El dispositivo de\ntransporte\nespaciotemporal!"
+
+msgctxt "dialogue/689/0xc"
+msgid "dialogue/689/0xc"
+msgstr "Emperador\n¡Soy el Emperador! ¡Yo\nno conozco la derrota!"
+
+msgctxt "dialogue/689/0x3a"
+msgid "dialogue/689/0x3a"
+msgstr "Emperador\nJe, je, je, je...\n¡¡Ja, ja, ja, ja, jaaa!!"
+
+msgctxt "dialogue/689/0x6a"
+msgid "dialogue/689/0x6a"
+msgstr "Emperador\n¡¡Pereced conmigo en la\nhora de la destrucción!!"
+
+msgctxt "dialogue/690/0xc"
+msgid "dialogue/690/0xc"
+msgstr "Opis\n¡Ha hecho que se\ndescontrole el\ndispositivo de transporte\nespaciotemporal!"
+
+msgctxt "dialogue/690/0x48"
+msgid "dialogue/690/0x48"
+msgstr "Regina\n¡¿Qué va a pasar?!"
+
+msgctxt "dialogue/690/0x74"
+msgid "dialogue/690/0x74"
+msgstr "Opis\n¡El dispositivo de\ntransporte\nespaciotemporal genera\nuna especie de agujero\nnegro para cruzar el\nespaciotiempo!"
+
+msgctxt "dialogue/690/0xc3"
+msgid "dialogue/690/0xc3"
+msgstr "Opis\nSi ese agujero negro se\ndescontrola..."
+
+msgctxt "dialogue/690/0x110"
+msgid "dialogue/690/0x110"
+msgstr "Regina\n¡¿Q-qué va a pasar?!"
+
+msgctxt "dialogue/690/0x142"
+msgid "dialogue/690/0x142"
+msgstr "Opis\nEl planeta entero\ndesaparecerá."
+
+msgctxt "dialogue/690/0x172"
+msgid "dialogue/690/0x172"
+msgstr "Emperador\nJe, je, je, je...\n¡¡Ja, ja, ja, ja, jaaa!!"
+
+msgctxt "dialogue/690/0x1ae"
+msgid "dialogue/690/0x1ae"
+msgstr "Jack\n¡¿No hay forma de\ndetenerlo?!"
+
+msgctxt "dialogue/690/0x1e6"
+msgid "dialogue/690/0x1e6"
+msgstr "Opis\nEl agujero negro está\nconectado a un agujero\nblanco."
+
+msgctxt "dialogue/690/0x225"
+msgid "dialogue/690/0x225"
+msgstr "Opis\nUna entrada y una salida.\nCon ambas, se puede\ncruzar el espaciotiempo\nde forma estable."
+
+msgctxt "dialogue/690/0x286"
+msgid "dialogue/690/0x286"
+msgstr "Jack\nEntonces, ¿si destruimos\nla salida...?"
+
+msgctxt "dialogue/690/0x2c0"
+msgid "dialogue/690/0x2c0"
+msgstr "Opis\nEl agujero negro, sin\nsalida, desaparecerá."
+
+msgctxt "dialogue/690/0x2f4"
+msgid "dialogue/690/0x2f4"
+msgstr "Opis\nPero para destruir la\nsalida hay que cruzar el\nespaciotiempo."
+
+msgctxt "dialogue/690/0x335"
+msgid "dialogue/690/0x335"
+msgstr "Opis\n¡Y jamás se podrá volver\na este mundo!"
+
+msgctxt "dialogue/690/0x375"
+msgid "dialogue/690/0x375"
+msgstr "Regina\nPero si usamos el\ndispositivo de transporte\nespaciotemporal de las\nruinas..."
+
+msgctxt "dialogue/690/0x3b7"
+msgid "dialogue/690/0x3b7"
+msgstr "Opis\n¡Con este descontrol,\nno hay forma de saber\nadónde conduce!"
+
+msgctxt "dialogue/690/0x40e"
+msgid "dialogue/690/0x40e"
+msgstr "Emperador\n¡¡Desapareced!!...\n¡¡Ja, ja, ja, jaaa!!"
+
+msgctxt "dialogue/691/0xc"
+msgid "dialogue/691/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/692/0xc"
+msgid "dialogue/692/0xc"
+msgstr "Blood\n¡Esto me toca a mí,\n{name}!"
+
+msgctxt "dialogue/692/0x31"
+msgid "dialogue/692/0x31"
+msgstr "Blood\nTú haz lo que tengas\nque hacer."
+
+msgctxt "dialogue/693/0xc"
+msgid "dialogue/693/0xc"
+msgstr "Fran\n¡Blood! No dejaré que\nvayas solo."
+
+msgctxt "dialogue/693/0x4c"
+msgid "dialogue/693/0x4c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/693/0x6d"
+msgid "dialogue/693/0x6d"
+msgstr "Blood\n{name}, ya te he\ndevuelto el favor."
+
+msgctxt "dialogue/693/0xa0"
+msgid "dialogue/693/0xa0"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/694/0xc"
+msgid "dialogue/694/0xc"
+msgstr "Regina\n¡E-esperad un momento!"
+
+msgctxt "dialogue/694/0x46"
+msgid "dialogue/694/0x46"
+msgstr "Gale\nLos jóvenes siempre\ncometen locuras. Parece\nque tendré que ir con\nellos."
+
+msgctxt "dialogue/694/0x9f"
+msgid "dialogue/694/0x9f"
+msgstr "Jack\n¡¡Gale!!"
+
+msgctxt "dialogue/694/0xc5"
+msgid "dialogue/694/0xc5"
+msgstr "Gale\nJack. Cuida de mi hija,\nde Julia."
+
+msgctxt "dialogue/694/0xfb"
+msgid "dialogue/694/0xfb"
+msgstr "Jack\n......Gale."
+
+msgctxt "dialogue/695/0xc"
+msgid "dialogue/695/0xc"
+msgstr "Regina\n¡O-oye, esperad...!"
+
+msgctxt "dialogue/695/0x3e"
+msgid "dialogue/695/0x3e"
+msgstr "Opis\nVaya, vaya. Ni siquiera\nsaben cómo destruir la\npuerta y se lanzan a lo\nloco."
+
+msgctxt "dialogue/695/0x91"
+msgid "dialogue/695/0x91"
+msgstr "Regina\n¡Opis!"
+
+msgctxt "dialogue/696/0xc"
+msgid "dialogue/696/0xc"
+msgstr "Regina\n¡¿Por qué?! ¡¿Por qué?!\n¡¿Por qué todos...?!\n¡¡Todos...!!!"
+
+msgctxt "dialogue/696/0x6f"
+msgid "dialogue/696/0x6f"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/696/0x90"
+msgid "dialogue/696/0x90"
+msgstr "Regina\nSnif... ¡Buaaaah!\n¡{name}, {name}!"
+
+msgctxt "dialogue/696/0xcf"
+msgid "dialogue/696/0xcf"
+msgstr "Arth\n......"
+
+msgctxt "dialogue/696/0xef"
+msgid "dialogue/696/0xef"
+msgstr "Arth\nPríncipe, vamos. A hacer\nlo que está en nuestra\nmano..."
+
+msgctxt "dialogue/696/0x13e"
+msgid "dialogue/696/0x13e"
+msgstr "Jack\nAsí es, príncipe. Todos\nnos esperan. Vamos."
+
+msgctxt "dialogue/696/0x189"
+msgid "dialogue/696/0x189"
+msgstr "Regina\n......{name}"
+
+msgctxt "dialogue/696/0x1b2"
+msgid "dialogue/696/0x1b2"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/696/0x1d9"
+msgid "dialogue/696/0x1d9"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/697/0x3"
+msgid "dialogue/697/0x3"
+msgstr "Reina\n{name}... Estás hecho\ntodo un hombre."
+
+msgctxt "dialogue/697/0x2c"
+msgid "dialogue/697/0x2c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/697/0x4a"
+msgid "dialogue/697/0x4a"
+msgstr "Reina\nLo de tu padre fue una\ndesgracia... pero si te\nviera ahora, tu padre..."
+
+msgctxt "dialogue/697/0x97"
+msgid "dialogue/697/0x97"
+msgstr "Reina\nSeguro que tu padre se\nquedaría tranquilo."
+
+msgctxt "dialogue/697/0xcb"
+msgid "dialogue/697/0xcb"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/697/0xe9"
+msgid "dialogue/697/0xe9"
+msgstr "Reina\n{name}, no\npongas esa cara."
+
+msgctxt "dialogue/697/0x119"
+msgid "dialogue/697/0x119"
+msgstr "Reina\nA partir de ahora te\nesperan tus deberes como\nrey del Reino de Arcadia."
+
+msgctxt "dialogue/697/0x174"
+msgid "dialogue/697/0x174"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/698/0xc"
+msgid "dialogue/698/0xc"
+msgstr "Regina\nMajestad, príncipe\n{name}, todo está listo\npara la ceremonia. Pasad\na la sala del trono."
+
+msgctxt "dialogue/698/0x5d"
+msgid "dialogue/698/0x5d"
+msgstr "Reina\n...Entendido. Entonces\nyo iré primero. Regina,\nte encargo a {name}."
+
+msgctxt "dialogue/698/0xb9"
+msgid "dialogue/698/0xb9"
+msgstr "Regina\n¡S-sí, Majestad!"
+
+msgctxt "dialogue/699/0xc"
+msgid "dialogue/699/0xc"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/699/0x3a"
+msgid "dialogue/699/0x3a"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/699/0x61"
+msgid "dialogue/699/0x61"
+msgstr "Regina\n...Ya llega el\nmomento, {name}..."
+
+msgctxt "dialogue/699/0x8a"
+msgid "dialogue/699/0x8a"
+msgstr "Regina\n......Han pasado muchas\ncosas, pero... parece que\nha sido un suspiro..."
+
+msgctxt "dialogue/699/0xeb"
+msgid "dialogue/699/0xeb"
+msgstr "Regina\n......{name} también\nera un chico, al fin y\nal cabo......"
+
+msgctxt "dialogue/699/0x12b"
+msgid "dialogue/699/0x12b"
+msgstr "Regina\nY yo que siempre lo veía\ncomo a un hermanito..."
+
+msgctxt "dialogue/699/0x168"
+msgid "dialogue/699/0x168"
+msgstr "Regina\n......"
+
+msgctxt "dialogue/699/0x19c"
+msgid "dialogue/699/0x19c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/699/0x1c3"
+msgid "dialogue/699/0x1c3"
+msgstr "Regina\nVamos, príncipe."
+
+msgctxt "dialogue/700/0xc"
+msgid "dialogue/700/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/700/0x33"
+msgid "dialogue/700/0x33"
+msgstr "Regina\n......¿Príncipe?"
+
+msgctxt "dialogue/700/0x61"
+msgid "dialogue/700/0x61"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/700/0x88"
+msgid "dialogue/700/0x88"
+msgstr "Regina\n......Ay, de verdad.\nQué hermanito más\ntrabajoso..."
+
+msgctxt "dialogue/700/0xd1"
+msgid "dialogue/700/0xd1"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/700/0xf8"
+msgid "dialogue/700/0xf8"
+msgstr "Regina\n¡Vamos, {name}!"
+
+msgctxt "dialogue/701/0xc"
+msgid "dialogue/701/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/702/0xc"
+msgid "dialogue/702/0xc"
+msgstr "Arth\n¿Ya se acabó la escena\nde amor?"
+
+msgctxt "dialogue/702/0x40"
+msgid "dialogue/702/0x40"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/702/0x67"
+msgid "dialogue/702/0x67"
+msgstr "Regina\n¡¿Q-q-q-qué?!\n¡¿Pero qué dices?!"
+
+msgctxt "dialogue/702/0xae"
+msgid "dialogue/702/0xae"
+msgstr "Jack\nVeo que está listo,\npríncipe."
+
+msgctxt "dialogue/702/0xe8"
+msgid "dialogue/702/0xe8"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/702/0x10f"
+msgid "dialogue/702/0x10f"
+msgstr "Jack\nArth, Regina, vamos."
+
+msgctxt "dialogue/702/0x149"
+msgid "dialogue/702/0x149"
+msgstr "Arth\nSí."
+
+msgctxt "dialogue/702/0x167"
+msgid "dialogue/702/0x167"
+msgstr "Regina\nSí."
+
 msgctxt "dialogue/726/0x1b"
 msgid "dialogue/726/0x1b"
 msgstr "Jack\nEn estas ruinas quedan\n3 señales de Planetal\nSites."
@@ -28529,6 +30713,50 @@ msgstr "Roman\nParece que el ejército\nimperial está reuniendo\nsus fuerzas en
 msgctxt "dialogue/940/0x3"
 msgid "dialogue/940/0x3"
 msgstr "Roman\nParece que el ejército\nimperial está reuniendo\nsus fuerzas en el\ncastillo. La batalla\nfinal debe de estar\ncerca... ¡Mucho ánimo!"
+
+msgctxt "dialogue/941/0x3"
+msgid "dialogue/941/0x3"
+msgstr "Vecino\nPor fin ha llegado este\ndía... No tengo nada que\nañadir. ¡Id y dadlo todo!"
+
+msgctxt "dialogue/942/0x3"
+msgid "dialogue/942/0x3"
+msgstr "Vecino\nQué rápido se hacen\nhombres los chicos...\n¡Venga, a por ellos!\n¡Estoy con vosotros!"
+
+msgctxt "dialogue/943/0x3"
+msgid "dialogue/943/0x3"
+msgstr "Vecino\nSi ves al príncipe\n{name}, dile que le\napoyo, ¡y que mucho\nánimo!"
+
+msgctxt "dialogue/944/0x3"
+msgid "dialogue/944/0x3"
+msgstr "Vecino\n¡Yo me voy a casar con\nel príncipe {name}!\n¡Así que tiene que\nvolver sí o sí!"
+
+msgctxt "dialogue/945/0x3"
+msgid "dialogue/945/0x3"
+msgstr "Guardia real\n¡Príncipe! ¡Yo... yo\nsiempre creí que llegaría\neste día!\n¡Que la fortuna os\nacompañe en la batalla!"
+
+msgctxt "dialogue/946/0x3"
+msgid "dialogue/946/0x3"
+msgstr "Guardia real\nPríncipe, deje el resto\nen nuestras manos.\nCuídese, por favor.\nQue la fortuna os\nacompañe en la batalla."
+
+msgctxt "dialogue/947/0x3"
+msgid "dialogue/947/0x3"
+msgstr "Tabernero\nBienvenidos... Esa es\nvuestra mesa de siempre.\nSiempre la tendré libre\npara vosotros."
+
+msgctxt "dialogue/948/0x3"
+msgid "dialogue/948/0x3"
+msgstr "Roman\n......Un viejo como yo\nno tiene nada que decir.\nQue la fortuna os\nacompañe en la batalla."
+
+msgctxt "dialogue/949/0x3"
+msgid "dialogue/949/0x3"
+msgstr "Roman\n......Un viejo como yo\nno tiene nada que decir.\nQue la fortuna os\nacompañe en la batalla."
+
+msgctxt "dialogue/950/0x3"
+msgid "dialogue/950/0x3"
+msgstr "Guardia real\n¡Deje en nuestras manos\nla defensa de Arcana!\n¡Príncipe, vaya cuanto\nantes al castillo de\nArcadia!"
+
+msgctxt "dialogue/951/0x3"
+msgid "dialogue/951/0x3"
+msgstr "Guardia real\n¡Que la fortuna os\nacompañe!\n¡Gloria al Reino de\nArcadia!"
 
 msgctxt "dialogue/977/0x3"
 msgid "dialogue/977/0x3"
