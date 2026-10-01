@@ -12920,6 +12920,14 @@ msgctxt "port/options/autosave-help"
 msgid "port/options/autosave-help"
 msgstr "Con SÍ guarda al cambiar de mapa"
 
+msgctxt "port/options/weapon-reach"
+msgid "port/options/weapon-reach"
+msgstr "Alcance armas"
+
+msgctxt "port/options/weapon-reach-help"
+msgid "port/options/weapon-reach-help"
+msgstr "Con SÍ se ve el alcance. SELECT: fila"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "SÍ"
@@ -12931,6 +12939,14 @@ msgstr "NO"
 msgctxt "port/options/keys"
 msgid "port/options/keys"
 msgstr "Izq./Der.: cambiar   B: volver"
+
+msgctxt "port/reach/front"
+msgid "port/reach/front"
+msgstr "DELANTE"
+
+msgctxt "port/reach/back"
+msgid "port/reach/back"
+msgstr "DETRÁS"
 
 msgctxt "port/autosave/notice"
 msgid "port/autosave/notice"
@@ -13262,6 +13278,10 @@ msgstr "Texto automático"
 msgctxt "port/launcher/autosave"
 msgid "port/launcher/autosave"
 msgstr "Autoguardado"
+
+msgctxt "port/launcher/weapon-reach"
+msgid "port/launcher/weapon-reach"
+msgstr "Alcance de las armas"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"

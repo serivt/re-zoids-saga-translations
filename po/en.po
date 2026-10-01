@@ -12920,6 +12920,14 @@ msgctxt "port/options/autosave-help"
 msgid "port/options/autosave-help"
 msgstr "ON saves on each change of map"
 
+msgctxt "port/options/weapon-reach"
+msgid "port/options/weapon-reach"
+msgstr "Weapon reach"
+
+msgctxt "port/options/weapon-reach-help"
+msgid "port/options/weapon-reach-help"
+msgstr "ON shows the reach. SELECT: row"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "ON"
@@ -12931,6 +12939,14 @@ msgstr "OFF"
 msgctxt "port/options/keys"
 msgid "port/options/keys"
 msgstr "Left/Right: change   B: back"
+
+msgctxt "port/reach/front"
+msgid "port/reach/front"
+msgstr "FRONT"
+
+msgctxt "port/reach/back"
+msgid "port/reach/back"
+msgstr "BACK"
 
 msgctxt "port/autosave/notice"
 msgid "port/autosave/notice"
@@ -13262,6 +13278,10 @@ msgstr "Auto text"
 msgctxt "port/launcher/autosave"
 msgid "port/launcher/autosave"
 msgstr "Autosave"
+
+msgctxt "port/launcher/weapon-reach"
+msgid "port/launcher/weapon-reach"
+msgstr "Weapon reach"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"
