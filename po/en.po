@@ -12928,6 +12928,18 @@ msgctxt "port/options/weapon-reach-help"
 msgid "port/options/weapon-reach-help"
 msgstr "ON shows the reach. SELECT: row"
 
+msgctxt "port/options/fast-forward"
+msgid "port/options/fast-forward"
+msgstr "Fast forward"
+
+msgctxt "port/options/fast-forward-help"
+msgid "port/options/fast-forward-help"
+msgstr "Speed while the >> button is held"
+
+msgctxt "port/options/fast-forward-value"
+msgid "port/options/fast-forward-value"
+msgstr "{count}x"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "ON"
@@ -13282,6 +13294,10 @@ msgstr "Autosave"
 msgctxt "port/launcher/weapon-reach"
 msgid "port/launcher/weapon-reach"
 msgstr "Weapon reach"
+
+msgctxt "port/launcher/fast-forward"
+msgid "port/launcher/fast-forward"
+msgstr "Fast forward"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"

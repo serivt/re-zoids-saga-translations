@@ -12928,6 +12928,18 @@ msgctxt "port/options/weapon-reach-help"
 msgid "port/options/weapon-reach-help"
 msgstr "Con SÍ se ve el alcance. SELECT: fila"
 
+msgctxt "port/options/fast-forward"
+msgid "port/options/fast-forward"
+msgstr "Avance rápido"
+
+msgctxt "port/options/fast-forward-help"
+msgid "port/options/fast-forward-help"
+msgstr "Velocidad al mantener el botón >>"
+
+msgctxt "port/options/fast-forward-value"
+msgid "port/options/fast-forward-value"
+msgstr "{count}x"
+
 msgctxt "port/options/on"
 msgid "port/options/on"
 msgstr "SÍ"
@@ -13282,6 +13294,10 @@ msgstr "Autoguardado"
 msgctxt "port/launcher/weapon-reach"
 msgid "port/launcher/weapon-reach"
 msgstr "Alcance de las armas"
+
+msgctxt "port/launcher/fast-forward"
+msgid "port/launcher/fast-forward"
+msgstr "Avance rápido"
 
 msgctxt "port/launcher/pick-mode"
 msgid "port/launcher/pick-mode"
