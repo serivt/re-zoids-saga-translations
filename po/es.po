@@ -13295,6 +13295,14 @@ msgctxt "port/launcher/weapon-reach"
 msgid "port/launcher/weapon-reach"
 msgstr "Alcance de las armas"
 
+msgctxt "port/launcher/update"
+msgid "port/launcher/update"
+msgstr "Actualización disponible"
+
+msgctxt "port/launcher/update-help"
+msgid "port/launcher/update-help"
+msgstr "Hay una versión nueva: abre su página."
+
 msgctxt "port/launcher/fast-forward"
 msgid "port/launcher/fast-forward"
 msgstr "Avance rápido"
