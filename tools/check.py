@@ -31,7 +31,7 @@ KEY = re.compile(
     r"|^name-entry/(help|alphabet/\d+)$"
     r"|^port/[a-z0-9-]+(/[a-z0-9-]+)*$"
 )
-MARKER = re.compile(r"\{(name|var\d+:\d+|window:\d+|level|area|money|slot|button|count)\}")
+MARKER = re.compile(r"\{(name|var\d+:\d+|window:\d+|level|area|money|slot|button|count|total|page|pages|hours|minutes)\}")
 BRACES = re.compile(r"\{[^{}]*\}")
 JAPANESE = re.compile("[\u3040-\u30ff\u3400-\u9fff\uff01-\uff5e\uff61-\uff9f]")
 CODE = re.compile(r"^[A-Za-z0-9_-]+$")

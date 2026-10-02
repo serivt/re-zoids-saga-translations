@@ -13236,6 +13236,122 @@ msgctxt "port/options/keys"
 msgid "port/options/keys"
 msgstr "Izq./Der.: cambiar   B: volver"
 
+msgctxt "port/menu/stats"
+msgid "port/menu/stats"
+msgstr "Récords"
+
+msgctxt "port/menu/quit"
+msgid "port/menu/quit"
+msgstr "Salir"
+
+msgctxt "port/menu/quit-question"
+msgid "port/menu/quit-question"
+msgstr "¿Volver al launcher?"
+
+msgctxt "port/menu/quit-unsaved"
+msgid "port/menu/quit-unsaved"
+msgstr "Se perderá lo que no hayas guardado."
+
+msgctxt "port/stats/page-battles"
+msgid "port/stats/page-battles"
+msgstr "Récords {page}/{pages}: combates"
+
+msgctxt "port/stats/page-collection"
+msgid "port/stats/page-collection"
+msgstr "Récords {page}/{pages}: colección"
+
+msgctxt "port/stats/page-records"
+msgid "port/stats/page-records"
+msgstr "Récords {page}/{pages}: otros"
+
+msgctxt "port/stats/keys"
+msgid "port/stats/keys"
+msgstr "Izq./Der.: página   B: volver"
+
+msgctxt "port/stats/won"
+msgid "port/stats/won"
+msgstr "Victorias"
+
+msgctxt "port/stats/lost"
+msgid "port/stats/lost"
+msgstr "Derrotas"
+
+msgctxt "port/stats/retreated"
+msgid "port/stats/retreated"
+msgstr "Retiradas"
+
+msgctxt "port/stats/enemies"
+msgid "port/stats/enemies"
+msgstr "Enemigos abatidos"
+
+msgctxt "port/stats/destroyed"
+msgid "port/stats/destroyed"
+msgstr "Zoids perdidos"
+
+msgctxt "port/stats/money"
+msgid "port/stats/money"
+msgstr "Dinero ganado"
+
+msgctxt "port/stats/zi-data"
+msgid "port/stats/zi-data"
+msgstr "Datos Zi"
+
+msgctxt "port/stats/zoids"
+msgid "port/stats/zoids"
+msgstr "Tipos de Zoid"
+
+msgctxt "port/stats/characters"
+msgid "port/stats/characters"
+msgstr "Personajes"
+
+msgctxt "port/stats/commands"
+msgid "port/stats/commands"
+msgstr "Comandos"
+
+msgctxt "port/stats/time"
+msgid "port/stats/time"
+msgstr "Tiempo de juego"
+
+msgctxt "port/stats/best-hit"
+msgid "port/stats/best-hit"
+msgstr "Mayor daño"
+
+msgctxt "port/stats/longest"
+msgid "port/stats/longest"
+msgstr "Combate más largo"
+
+msgctxt "port/stats/story"
+msgid "port/stats/story"
+msgstr "Batallas de historia"
+
+msgctxt "port/stats/times"
+msgid "port/stats/times"
+msgstr "{count}"
+
+msgctxt "port/stats/units"
+msgid "port/stats/units"
+msgstr "{count}"
+
+msgctxt "port/stats/gold"
+msgid "port/stats/gold"
+msgstr "{money} G"
+
+msgctxt "port/stats/of"
+msgid "port/stats/of"
+msgstr "{count}/{total}"
+
+msgctxt "port/stats/hours"
+msgid "port/stats/hours"
+msgstr "{hours} h {minutes} min"
+
+msgctxt "port/stats/damage"
+msgid "port/stats/damage"
+msgstr "{count}"
+
+msgctxt "port/stats/rounds"
+msgid "port/stats/rounds"
+msgstr "{count} turnos"
+
 msgctxt "port/reach/front"
 msgid "port/reach/front"
 msgstr "DELANTE"

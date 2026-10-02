@@ -13236,6 +13236,122 @@ msgctxt "port/options/keys"
 msgid "port/options/keys"
 msgstr "Left/Right: change   B: back"
 
+msgctxt "port/menu/stats"
+msgid "port/menu/stats"
+msgstr "Records"
+
+msgctxt "port/menu/quit"
+msgid "port/menu/quit"
+msgstr "Quit"
+
+msgctxt "port/menu/quit-question"
+msgid "port/menu/quit-question"
+msgstr "Return to the launcher?"
+
+msgctxt "port/menu/quit-unsaved"
+msgid "port/menu/quit-unsaved"
+msgstr "Unsaved progress will be lost."
+
+msgctxt "port/stats/page-battles"
+msgid "port/stats/page-battles"
+msgstr "Records {page}/{pages}: battles"
+
+msgctxt "port/stats/page-collection"
+msgid "port/stats/page-collection"
+msgstr "Records {page}/{pages}: collection"
+
+msgctxt "port/stats/page-records"
+msgid "port/stats/page-records"
+msgstr "Records {page}/{pages}: other"
+
+msgctxt "port/stats/keys"
+msgid "port/stats/keys"
+msgstr "Left/Right: page   B: back"
+
+msgctxt "port/stats/won"
+msgid "port/stats/won"
+msgstr "Victories"
+
+msgctxt "port/stats/lost"
+msgid "port/stats/lost"
+msgstr "Defeats"
+
+msgctxt "port/stats/retreated"
+msgid "port/stats/retreated"
+msgstr "Retreats"
+
+msgctxt "port/stats/enemies"
+msgid "port/stats/enemies"
+msgstr "Enemies destroyed"
+
+msgctxt "port/stats/destroyed"
+msgid "port/stats/destroyed"
+msgstr "Zoids lost"
+
+msgctxt "port/stats/money"
+msgid "port/stats/money"
+msgstr "Money earned"
+
+msgctxt "port/stats/zi-data"
+msgid "port/stats/zi-data"
+msgstr "Zi data"
+
+msgctxt "port/stats/zoids"
+msgid "port/stats/zoids"
+msgstr "Zoid kinds"
+
+msgctxt "port/stats/characters"
+msgid "port/stats/characters"
+msgstr "Characters"
+
+msgctxt "port/stats/commands"
+msgid "port/stats/commands"
+msgstr "Deck commands"
+
+msgctxt "port/stats/time"
+msgid "port/stats/time"
+msgstr "Play time"
+
+msgctxt "port/stats/best-hit"
+msgid "port/stats/best-hit"
+msgstr "Biggest hit"
+
+msgctxt "port/stats/longest"
+msgid "port/stats/longest"
+msgstr "Longest battle"
+
+msgctxt "port/stats/story"
+msgid "port/stats/story"
+msgstr "Story battles"
+
+msgctxt "port/stats/times"
+msgid "port/stats/times"
+msgstr "{count}"
+
+msgctxt "port/stats/units"
+msgid "port/stats/units"
+msgstr "{count}"
+
+msgctxt "port/stats/gold"
+msgid "port/stats/gold"
+msgstr "{money} G"
+
+msgctxt "port/stats/of"
+msgid "port/stats/of"
+msgstr "{count}/{total}"
+
+msgctxt "port/stats/hours"
+msgid "port/stats/hours"
+msgstr "{hours} h {minutes} min"
+
+msgctxt "port/stats/damage"
+msgid "port/stats/damage"
+msgstr "{count}"
+
+msgctxt "port/stats/rounds"
+msgid "port/stats/rounds"
+msgstr "{count} turns"
+
 msgctxt "port/reach/front"
 msgid "port/reach/front"
 msgstr "FRONT"
