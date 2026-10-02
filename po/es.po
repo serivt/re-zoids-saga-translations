@@ -2278,6 +2278,14 @@ msgctxt "pause-menu/697/0x0"
 msgid "pause-menu/697/0x0"
 msgstr "Datos del\nCommand Wolf AS\npara el\nLightning Saix A."
 
+msgctxt "dialogue/11/0x3"
+msgid "dialogue/11/0x3"
+msgstr "Los datos guardados están\ndañados."
+
+msgctxt "dialogue/12/0x3"
+msgid "dialogue/12/0x3"
+msgstr "Los datos guardados están\ndañados, así que se\nrecuperarán los anteriores."
+
 msgctxt "dialogue/37/0x8"
 msgid "dialogue/37/0x8"
 msgstr "Sí\nNo"
@@ -2345,6 +2353,146 @@ msgstr "Regina\n¡No salga de esta habitación!\n¿Entendido, {name}?"
 msgctxt "dialogue/44/0xc"
 msgid "dialogue/44/0xc"
 msgstr "Regina\n¡Príncipe! ¡Le dije que no\nsaliera de la habitación!\n¿No irá a escaquearse?\n¡Ni se le ocurra!"
+
+msgctxt "dialogue/235/0xc"
+msgid "dialogue/235/0xc"
+msgstr "Dr. D\nEs nuestro último recurso.\nCuento contigo."
+
+msgctxt "dialogue/703/0xc"
+msgid "dialogue/703/0xc"
+msgstr "Regina\n¡¿Esto es el Trinity Liger?!"
+
+msgctxt "dialogue/703/0x44"
+msgid "dialogue/703/0x44"
+msgstr "Jack\n¿Trinity Liger?\nNunca he oído hablar de él."
+
+msgctxt "dialogue/703/0x8f"
+msgid "dialogue/703/0x8f"
+msgstr "Regina\nDicen que se creó para\nproteger el legado de Arcadia."
+
+msgctxt "dialogue/703/0xe8"
+msgid "dialogue/703/0xe8"
+msgstr "Arth\nPero en este estado..."
+
+msgctxt "dialogue/703/0x11c"
+msgid "dialogue/703/0x11c"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/703/0x13d"
+msgid "dialogue/703/0x13d"
+msgstr "Regina\nSu núcleo Zoid está muerto...\nPero sus datos Zi sirven."
+
+msgctxt "dialogue/703/0x196"
+msgid "dialogue/703/0x196"
+msgstr "Jack\n¿Datos Zi?"
+
+msgctxt "dialogue/703/0x1be"
+msgid "dialogue/703/0x1be"
+msgstr "Regina\nSon como los planos para crear\nun Zoid desde un núcleo Zoid."
+
+msgctxt "dialogue/703/0x207"
+msgid "dialogue/703/0x207"
+msgstr "Regina\nEs un invento de Arcadia. Así\nno hace falta una base militar:"
+
+msgctxt "dialogue/703/0x266"
+msgid "dialogue/703/0x266"
+msgstr "Regina\nun laboratorio Zoid civil\npuede fabricar el Zoid."
+
+msgctxt "dialogue/703/0x2a9"
+msgid "dialogue/703/0x2a9"
+msgstr "Regina\nClaro que también hacen falta\nnúcleo, piezas... y dinero."
+
+msgctxt "dialogue/703/0x305"
+msgid "dialogue/703/0x305"
+msgstr "¡Conseguiste los datos Zi del\nTrinity Liger!"
+
+msgctxt "dialogue/717/0xc"
+msgid "dialogue/717/0xc"
+msgstr "Regina\n¡{name}, mira que\nquerer salir otra vez de\nviaje! ¡No tienes ninguna\nconciencia de rey!"
+
+msgctxt "dialogue/717/0x66"
+msgid "dialogue/717/0x66"
+msgstr "Arth\nSi tanto te molesta, ¿por\nqué vienes? ¿Cosas de\nenamorada?"
+
+msgctxt "dialogue/717/0xb5"
+msgid "dialogue/717/0xb5"
+msgstr "Regina\n¡Y-y-yo solo cumplo con mi\ndeber como uno de los\nTres Guerreros!"
+
+msgctxt "dialogue/717/0x104"
+msgid "dialogue/717/0x104"
+msgstr "Jack\nDe todos modos, ese\nespacio-tiempo recién\ndescubierto es interesante."
+
+msgctxt "dialogue/717/0x141"
+msgid "dialogue/717/0x141"
+msgstr "Jack\nParece estar en un lugar\ndistinto a todos los\nanteriores. Hay que\ninvestigarlo."
+
+msgctxt "dialogue/717/0x19e"
+msgid "dialogue/717/0x19e"
+msgstr "Arth\nYa me estaba cansando de\nla vida en el castillo.\nY volver a viajar con\nlos demás no está mal."
+
+msgctxt "dialogue/717/0x201"
+msgid "dialogue/717/0x201"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/718/0xc"
+msgid "dialogue/718/0xc"
+msgstr "Regina\nAh, rey {name}, cuando\nesté listo para partir,\nhable conmigo."
+
+msgctxt "dialogue/718/0x5c"
+msgid "dialogue/718/0x5c"
+msgstr "Jack\nArth y yo llamaremos a\nlos compañeros que vendrán\ncon nosotros."
+
+msgctxt "dialogue/719/0xc"
+msgid "dialogue/719/0xc"
+msgstr "Regina\nPríncipe, ¿está todo\nlisto?"
+
+msgctxt "dialogue/719/0x51"
+msgid "dialogue/719/0x51"
+msgstr "Regina\n¡Pues en marcha hacia\nun nuevo viaje!"
+
+msgctxt "dialogue/720/0xc"
+msgid "dialogue/720/0xc"
+msgstr "Vega\n¿Eh? Creo que he salido\nen un sitio rarísimo..."
+
+msgctxt "dialogue/720/0x3c"
+msgid "dialogue/720/0x3c"
+msgstr "Vega\n...¡Bah, qué más da!\n¡Vosotros, venid a jugar\ncon mi Fury!"
+
+msgctxt "dialogue/721/0xc"
+msgid "dialogue/721/0xc"
+msgstr "Vega\n¡Uaaah, no puede ser!\n¡Esto tiene que ser\nun sueño!"
+
+msgctxt "dialogue/722/0xc"
+msgid "dialogue/722/0xc"
+msgstr "{name}\n......"
+
+msgctxt "dialogue/722/0x2d"
+msgid "dialogue/722/0x2d"
+msgstr "Arth\n...Ha desaparecido."
+
+msgctxt "dialogue/722/0x53"
+msgid "dialogue/722/0x53"
+msgstr "Regina\nParece que se lo ha llevado\nun salto espaciotemporal."
+
+msgctxt "dialogue/722/0x91"
+msgid "dialogue/722/0x91"
+msgstr "Jack\nPor lo visto, él también\nreunía datos Zi y núcleos\nZoid..."
+
+msgctxt "dialogue/722/0xe4"
+msgid "dialogue/722/0xe4"
+msgstr "Jack\nNos ha dejado algo muy\ninteresante."
+
+msgctxt "dialogue/723/0x3"
+msgid "dialogue/723/0x3"
+msgstr "Investigador\n¡Hemos encontrado los datos\nZi de los Zoids que usaba\nel ejército del Emperador!"
+
+msgctxt "dialogue/724/0x3"
+msgid "dialogue/724/0x3"
+msgstr "Investigador\n¡Hemos encontrado los datos\nZi de los Zoids que reunía\nel ejército del Emperador!"
+
+msgctxt "dialogue/725/0x3"
+msgid "dialogue/725/0x3"
+msgstr "Investigador\nOjalá podamos desarrollar\nZoids en nuestro país a\npartir de estos datos."
 
 msgctxt "dialogue/735/0x3"
 msgid "dialogue/735/0x3"
@@ -11270,6 +11418,18 @@ msgctxt "dialogue/716/0x130"
 msgid "dialogue/716/0x130"
 msgstr "Investigador\nSi los domina, el combate\nirá a su favor."
 
+msgctxt "dialogue/742/0x3"
+msgid "dialogue/742/0x3"
+msgstr "Guardia real\nAquí abajo está el hangar\nde los Zoids. Es peligroso,\nno entre."
+
+msgctxt "dialogue/743/0x3"
+msgid "dialogue/743/0x3\n"
+msgstr "Guardia real\nPríncipe, no salga del\ncastillo, por favor.\n"
+
+msgctxt "dialogue/744/0x3"
+msgid "dialogue/744/0x3"
+msgstr "Reina de Arcadia\n{name}... ¿qué haces\naquí? ¿No deberías estar\nestudiando?"
+
 msgctxt "dialogue/745/0x3"
 msgid "dialogue/745/0x3"
 msgstr "Niño\n¡Han entrado un montón de\nZoids en el castillo! ¡De mayor\nyo seré piloto de Zoids!"
@@ -11313,6 +11473,130 @@ msgstr "Roman\nPríncipe, sobreviva\npase lo que pase...\n"
 msgctxt "dialogue/755/0x3"
 msgid "dialogue/755/0x3"
 msgstr "Roman\n...¡Ah, es verdad!\n¡Le enseñaré esta táctica!"
+
+msgctxt "dialogue/760/0x3"
+msgid "dialogue/760/0x3"
+msgstr "Roman\n...¡Ah, es verdad!\n¡Le enseñaré esta táctica!"
+
+msgctxt "dialogue/764/0x3"
+msgid "dialogue/764/0x3"
+msgstr "Investigador\n¿Qué Zoid desarrollaré\nahora?..."
+
+msgctxt "dialogue/775/0x3"
+msgid "dialogue/775/0x3"
+msgstr "Investigador\n¿Qué Zoid desarrollaré\nahora?..."
+
+msgctxt "dialogue/886/0x3"
+msgid "dialogue/886/0x3"
+msgstr "Investigador\n¿Qué Zoid desarrollaré\nahora?..."
+
+msgctxt "dialogue/897/0x3"
+msgid "dialogue/897/0x3"
+msgstr "Investigador\n¡Aaah, aaah, aaah!\n¡N-no me matéis!\n¡¡Yo no sé nada!!"
+
+msgctxt "dialogue/898/0x3"
+msgid "dialogue/898/0x3"
+msgstr "Investigador\n¡¿Quiénes sois vosotros?!\n¡No estorbéis mi\ninvestigación!"
+
+msgctxt "dialogue/952/0x3"
+msgid "dialogue/952/0x3"
+msgstr "Guardia real\nRey {name}, ¿viene a\nentrenar? No en vano es el\nmejor piloto de Zoids\ndel reino."
+
+msgctxt "dialogue/953/0x3"
+msgid "dialogue/953/0x3"
+msgstr "Guardia real\nMajestad, no salga del\ncastillo, se lo ruego..."
+
+msgctxt "dialogue/954/0x3"
+msgid "dialogue/954/0x3\n"
+msgstr "Guardia real\nAhí abajo está el hangar\nde los Zoids.\n"
+
+msgctxt "dialogue/955/0x3"
+msgid "dialogue/955/0x3"
+msgstr "Guardia real\nAhora que hay un nuevo rey,\n¿se elegirán nuevos\nTres Guerreros?"
+
+msgctxt "dialogue/956/0x3"
+msgid "dialogue/956/0x3"
+msgstr "Guardia real\nEl ejército del Emperador ha\ncaído, pero puede que el\nImperio o la República aún\nquieran nuestro reino..."
+
+msgctxt "dialogue/957/0x3"
+msgid "dialogue/957/0x3"
+msgstr "Guardia real\n¡Los próximos Tres Guerreros\nme encantaría ser yo!"
+
+msgctxt "dialogue/958/0x3"
+msgid "dialogue/958/0x3"
+msgstr "Reina madre de Arcadia\n{name}... ¿qué haces\naquí? ¿No deberías estar\ntrabajando?"
+
+msgctxt "dialogue/959/0x3"
+msgid "dialogue/959/0x3"
+msgstr "Guardia real\nLos conflictos del Continente\nCentral se han calmado.\nOjalá todo el planeta viva\nen paz..."
+
+msgctxt "dialogue/960/0x3"
+msgid "dialogue/960/0x3"
+msgstr "Guardia real\nLa familia real de Arcadia\nlleva generaciones guardando\nun tesoro secreto. ¡Quién\ndiría que era el dispositivo\nde transporte\nespaciotemporal!"
+
+msgctxt "dialogue/961/0x3"
+msgid "dialogue/961/0x3"
+msgstr "Guardia real\n¿Va a salir?"
+
+msgctxt "dialogue/962/0x3"
+msgid "dialogue/962/0x3"
+msgstr "Vecino\nVolver a pasear libremente\npor ahí... Es gracias al\npríncipe {name}...\n¡Huy, al rey, quiero decir!"
+
+msgctxt "dialogue/963/0x3"
+msgid "dialogue/963/0x3"
+msgstr "Vecino\nAyer parecía un niño y hoy\nes todo un rey. Ahora solo\nfalta que encuentre pronto\nuna buena esposa."
+
+msgctxt "dialogue/964/0x3"
+msgid "dialogue/964/0x3"
+msgstr "Vecino\nCon tanta paz, uno se\naburre... Un poquito de\nemoción no vendría mal."
+
+msgctxt "dialogue/965/0x3"
+msgid "dialogue/965/0x3"
+msgstr "Vecino\nCreo que aprenderé a pilotar\nZoids como Regina. Una\nmujer también quiere\nproteger con sus manos\nlo que más quiere."
+
+msgctxt "dialogue/966/0x3"
+msgid "dialogue/966/0x3"
+msgstr "Vecino\n¡Yo seré un piloto de Zoids\ncomo el señor {name}!\n¡Y les daré su merecido\na los malos!"
+
+msgctxt "dialogue/967/0x3"
+msgid "dialogue/967/0x3"
+msgstr "Vecino\n¡Ya podemos jugar otra vez\nfuera del pueblo! ¡Mamá\ndice que podremos jugar\nsiempre!"
+
+msgctxt "dialogue/968/0x3"
+msgid "dialogue/968/0x3"
+msgstr "Guardia real\n¡Majestad! ¡Esforcémonos\npara que este país no vuelva\na sufrir una guerra!"
+
+msgctxt "dialogue/969/0x3"
+msgid "dialogue/969/0x3"
+msgstr "Guardia real\n¡Majestad! ¡Estoy\nprofundamente emocionado!\n¡Luchar a su lado me ha\nhecho el hombre más feliz!"
+
+msgctxt "dialogue/970/0x3"
+msgid "dialogue/970/0x3"
+msgstr "Tabernero\nTe estaba esperando.\nEse es tu sitio. Siempre\nte lo guardaré libre."
+
+msgctxt "dialogue/971/0x3"
+msgid "dialogue/971/0x3"
+msgstr "Camarera\n¡Bienvenido! Aunque sea\nel rey, nada de alcohol\nhasta los veinte años."
+
+msgctxt "dialogue/972/0x3"
+msgid "dialogue/972/0x3"
+msgstr "Guardia real\nCuando acabe mi servicio,\nme licenciaré y volveré a\nmi tierra. Quiero ser útil\na mi pueblo aunque sea\nun poco."
+
+msgctxt "dialogue/973/0x3"
+msgid "dialogue/973/0x3"
+msgstr "Piloto de Zoids\nCon tanta paz, el negocio\nse hunde. Aquí se está\nbien, pero ya va siendo\nhora de echarse al camino."
+
+msgctxt "dialogue/974/0x3"
+msgid "dialogue/974/0x3"
+msgstr "Roman\nMajestad, ¿ha visto ya el\npueblo? Es el pueblo que\nSu Majestad protegió, y\nque seguirá protegiendo."
+
+msgctxt "dialogue/975/0x3"
+msgid "dialogue/975/0x3"
+msgstr "Roman\nMajestad, ¿ha visto ya el\npueblo? Es el pueblo que\nSu Majestad protegió, y\nque seguirá protegiendo."
+
+msgctxt "dialogue/975/0x6e"
+msgid "dialogue/975/0x6e"
+msgstr "Roman\nPues bien, por último le\nenseñaré todas las tácticas."
 
 msgctxt "dialogue/976/0x3"
 msgid "dialogue/976/0x3"
