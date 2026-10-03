@@ -13240,6 +13240,10 @@ msgctxt "port/menu/stats"
 msgid "port/menu/stats"
 msgstr "Records"
 
+msgctxt "port/menu/achievements"
+msgid "port/menu/achievements"
+msgstr "Trophies"
+
 msgctxt "port/menu/quit"
 msgid "port/menu/quit"
 msgstr "Quit"
@@ -13351,6 +13355,266 @@ msgstr "{count}"
 msgctxt "port/stats/rounds"
 msgid "port/stats/rounds"
 msgstr "{count} turns"
+
+msgctxt "port/achievements/page"
+msgid "port/achievements/page"
+msgstr "Trophies {page}/{pages}: {count}/{total}"
+
+msgctxt "port/achievements/unlocked"
+msgid "port/achievements/unlocked"
+msgstr "Trophy earned!"
+
+msgctxt "port/achievements/many"
+msgid "port/achievements/many"
+msgstr "{count} trophies"
+
+msgctxt "port/achievement/chapter-1"
+msgid "port/achievement/chapter-1"
+msgstr "Beyond the Red River"
+
+msgctxt "port/achievement/chapter-1-help"
+msgid "port/achievement/chapter-1-help"
+msgstr "Clear chapter 1"
+
+msgctxt "port/achievement/chapter-2"
+msgid "port/achievement/chapter-2"
+msgstr "Sand and Rebellion"
+
+msgctxt "port/achievement/chapter-2-help"
+msgid "port/achievement/chapter-2-help"
+msgstr "Clear chapter 2"
+
+msgctxt "port/achievement/chapter-3"
+msgid "port/achievement/chapter-3"
+msgstr "The Crater Awakens"
+
+msgctxt "port/achievement/chapter-3-help"
+msgid "port/achievement/chapter-3-help"
+msgstr "Clear chapter 3"
+
+msgctxt "port/achievement/chapter-4"
+msgid "port/achievement/chapter-4"
+msgstr "Steel Against Steel"
+
+msgctxt "port/achievement/chapter-4-help"
+msgid "port/achievement/chapter-4-help"
+msgstr "Clear chapter 4"
+
+msgctxt "port/achievement/chapter-5"
+msgid "port/achievement/chapter-5"
+msgstr "Dome Champion"
+
+msgctxt "port/achievement/chapter-5-help"
+msgid "port/achievement/chapter-5-help"
+msgstr "Clear chapter 5"
+
+msgctxt "port/achievement/chapter-6"
+msgid "port/achievement/chapter-6"
+msgstr "The Wind Falls Still"
+
+msgctxt "port/achievement/chapter-6-help"
+msgid "port/achievement/chapter-6-help"
+msgstr "Clear chapter 6"
+
+msgctxt "port/achievement/chapter-7"
+msgid "port/achievement/chapter-7"
+msgstr "A Promise to Blue Gem"
+
+msgctxt "port/achievement/chapter-7-help"
+msgid "port/achievement/chapter-7-help"
+msgstr "Clear chapter 7"
+
+msgctxt "port/achievement/chapter-8"
+msgid "port/achievement/chapter-8"
+msgstr "Nowhere to Run"
+
+msgctxt "port/achievement/chapter-8-help"
+msgid "port/achievement/chapter-8-help"
+msgstr "Clear chapter 8"
+
+msgctxt "port/achievement/chapter-9"
+msgid "port/achievement/chapter-9"
+msgstr "Fall of the Empire"
+
+msgctxt "port/achievement/chapter-9-help"
+msgid "port/achievement/chapter-9-help"
+msgstr "Clear chapter 9 and see the ending"
+
+msgctxt "port/achievement/chapter-10"
+msgid "port/achievement/chapter-10"
+msgstr "Fury Unleashed"
+
+msgctxt "port/achievement/chapter-10-help"
+msgid "port/achievement/chapter-10-help"
+msgstr "Defeat Vega's Berserk Fury"
+
+msgctxt "port/achievement/old-rivals"
+msgid "port/achievement/old-rivals"
+msgstr "Old Rivals"
+
+msgctxt "port/achievement/old-rivals-help"
+msgid "port/achievement/old-rivals-help"
+msgstr "Recruit Rosso and Viola"
+
+msgctxt "port/achievement/defiance"
+msgid "port/achievement/defiance"
+msgstr "Defiance"
+
+msgctxt "port/achievement/defiance-help"
+msgid "port/achievement/defiance-help"
+msgstr "Challenge the Ultrasaurus and win"
+
+msgctxt "port/achievement/lost-data"
+msgid "port/achievement/lost-data"
+msgstr "Lost Data"
+
+msgctxt "port/achievement/lost-data-help"
+msgid "port/achievement/lost-data-help"
+msgstr "Get the researchers' 16 Zi data"
+
+msgctxt "port/achievement/researcher"
+msgid "port/achievement/researcher"
+msgstr "Researcher"
+
+msgctxt "port/achievement/researcher-help"
+msgid "port/achievement/researcher-help"
+msgstr "Collect 50 Zi data"
+
+msgctxt "port/achievement/complete-archive"
+msgid "port/achievement/complete-archive"
+msgstr "Complete Archive"
+
+msgctxt "port/achievement/complete-archive-help"
+msgid "port/achievement/complete-archive-help"
+msgstr "Collect all 140 obtainable Zi data"
+
+msgctxt "port/achievement/treasure-hunter"
+msgid "port/achievement/treasure-hunter"
+msgstr "Treasure Hunter"
+
+msgctxt "port/achievement/treasure-hunter-help"
+msgid "port/achievement/treasure-hunter-help"
+msgstr "Open all 247 chests"
+
+msgctxt "port/achievement/whos-who"
+msgid "port/achievement/whos-who"
+msgstr "Who's Who"
+
+msgctxt "port/achievement/whos-who-help"
+msgid "port/achievement/whos-who-help"
+msgstr "Get all 63 characters in the guide"
+
+msgctxt "port/achievement/tactics-master"
+msgid "port/achievement/tactics-master"
+msgstr "Tactics Master"
+
+msgctxt "port/achievement/tactics-master-help"
+msgid "port/achievement/tactics-master-help"
+msgstr "Learn all 33 deck commands"
+
+msgctxt "port/achievement/lion-reborn"
+msgid "port/achievement/lion-reborn"
+msgstr "The Lion Reborn"
+
+msgctxt "port/achievement/lion-reborn-help"
+msgid "port/achievement/lion-reborn-help"
+msgstr "Obtain a Trinity Liger BA"
+
+msgctxt "port/achievement/core-forger"
+msgid "port/achievement/core-forger"
+msgstr "Core Forger"
+
+msgctxt "port/achievement/core-forger-help"
+msgid "port/achievement/core-forger-help"
+msgstr "Hold 10 kinds of Zoid core at once"
+
+msgctxt "port/achievement/full-hangar"
+msgid "port/achievement/full-hangar"
+msgstr "Full Hangar"
+
+msgctxt "port/achievement/full-hangar-help"
+msgid "port/achievement/full-hangar-help"
+msgstr "Own 50 Zoids"
+
+msgctxt "port/achievement/engineer"
+msgid "port/achievement/engineer"
+msgstr "Engineer"
+
+msgctxt "port/achievement/engineer-help"
+msgid "port/achievement/engineer-help"
+msgstr "Develop a Zoid in a lab"
+
+msgctxt "port/achievement/summit"
+msgid "port/achievement/summit"
+msgstr "Summit"
+
+msgctxt "port/achievement/summit-help"
+msgid "port/achievement/summit-help"
+msgstr "Reach level 99"
+
+msgctxt "port/achievement/millionaire"
+msgid "port/achievement/millionaire"
+msgstr "Millionaire"
+
+msgctxt "port/achievement/millionaire-help"
+msgid "port/achievement/millionaire-help"
+msgstr "Hold 1,000,000 G at once"
+
+msgctxt "port/achievement/veteran"
+msgid "port/achievement/veteran"
+msgstr "Veteran"
+
+msgctxt "port/achievement/veteran-help"
+msgid "port/achievement/veteran-help"
+msgstr "Win 300 battles"
+
+msgctxt "port/achievement/devastating-blow"
+msgid "port/achievement/devastating-blow"
+msgstr "Devastating Blow"
+
+msgctxt "port/achievement/devastating-blow-help"
+msgid "port/achievement/devastating-blow-help"
+msgstr "Deal 3000 damage in one blow"
+
+msgctxt "port/achievement/war-of-attrition"
+msgid "port/achievement/war-of-attrition"
+msgstr "War of Attrition"
+
+msgctxt "port/achievement/war-of-attrition-help"
+msgid "port/achievement/war-of-attrition-help"
+msgstr "Fight a battle of 20 rounds"
+
+msgctxt "port/achievement/flawless-victory"
+msgid "port/achievement/flawless-victory"
+msgstr "Flawless Victory"
+
+msgctxt "port/achievement/flawless-victory-help"
+msgid "port/achievement/flawless-victory-help"
+msgstr "Win a story battle with no losses"
+
+msgctxt "port/achievement/lightning-strike"
+msgid "port/achievement/lightning-strike"
+msgstr "Lightning Strike"
+
+msgctxt "port/achievement/lightning-strike-help"
+msgid "port/achievement/lightning-strike-help"
+msgstr "Win a battle in its first round"
+
+msgctxt "port/achievement/against-the-clock"
+msgid "port/achievement/against-the-clock"
+msgstr "Against the Clock"
+
+msgctxt "port/achievement/against-the-clock-help"
+msgid "port/achievement/against-the-clock-help"
+msgstr "See the ending within 15 hours"
+
+msgctxt "port/achievement/legend-of-zi"
+msgid "port/achievement/legend-of-zi"
+msgstr "Legend of Zi"
+
+msgctxt "port/achievement/legend-of-zi-help"
+msgid "port/achievement/legend-of-zi-help"
+msgstr "Earn every other trophy"
 
 msgctxt "port/reach/front"
 msgid "port/reach/front"
@@ -13497,7 +13761,7 @@ msgstr "empty"
 
 msgctxt "port/launcher/export"
 msgid "port/launcher/export"
-msgstr "Export..."
+msgstr "Export .sav..."
 
 msgctxt "port/launcher/import"
 msgid "port/launcher/import"
@@ -13509,11 +13773,55 @@ msgstr "Copy saves to or from an emulator."
 
 msgctxt "port/launcher/export-help"
 msgid "port/launcher/export-help"
-msgstr "Writes a copy of this save."
+msgstr "For an emulator or a flash cart."
 
 msgctxt "port/launcher/import-help"
 msgid "port/launcher/import-help"
 msgstr "Replaces this save (kept as .bak)."
+
+msgctxt "port/launcher/export-srm"
+msgid "port/launcher/export-srm"
+msgstr "Export .srm..."
+
+msgctxt "port/launcher/export-strict"
+msgid "port/launcher/export-strict"
+msgstr "Export as the cartridge..."
+
+msgctxt "port/launcher/export-srm-help"
+msgid "port/launcher/export-srm-help"
+msgstr "For RetroArch: the same save, as .srm."
+
+msgctxt "port/launcher/export-strict-help"
+msgid "port/launcher/export-strict-help"
+msgstr "Without the port's name and records."
+
+msgctxt "port/launcher/import-file"
+msgid "port/launcher/import-file"
+msgstr "File"
+
+msgctxt "port/launcher/import-check"
+msgid "port/launcher/import-check"
+msgstr "Replace? The slot's save is kept as .bak."
+
+msgctxt "port/launcher/save-level"
+msgid "port/launcher/save-level"
+msgstr "Lv {level}, area {area}"
+
+msgctxt "port/launcher/save-money"
+msgid "port/launcher/save-money"
+msgstr "{money} G"
+
+msgctxt "port/launcher/save-played"
+msgid "port/launcher/save-played"
+msgstr "{hours}:{minutes} played"
+
+msgctxt "port/launcher/replace"
+msgid "port/launcher/replace"
+msgstr "Replace the slot's save"
+
+msgctxt "port/launcher/cancel"
+msgid "port/launcher/cancel"
+msgstr "Cancel"
 
 msgctxt "port/launcher/exported"
 msgid "port/launcher/exported"
@@ -13639,6 +13947,18 @@ msgctxt "port/launcher/fullscreen"
 msgid "port/launcher/fullscreen"
 msgstr "Fullscreen"
 
+msgctxt "port/launcher/display"
+msgid "port/launcher/display"
+msgstr "Display"
+
+msgctxt "port/launcher/preset"
+msgid "port/launcher/preset"
+msgstr "Preset"
+
+msgctxt "port/launcher/custom"
+msgid "port/launcher/custom"
+msgstr "custom"
+
 msgctxt "port/launcher/filter"
 msgid "port/launcher/filter"
 msgstr "Filter"
@@ -13647,9 +13967,105 @@ msgctxt "port/launcher/sharp"
 msgid "port/launcher/sharp"
 msgstr "sharp"
 
+msgctxt "port/launcher/pixel-art"
+msgid "port/launcher/pixel-art"
+msgstr "pixel art"
+
 msgctxt "port/launcher/smooth"
 msgid "port/launcher/smooth"
 msgstr "smooth"
+
+msgctxt "port/launcher/lcd"
+msgid "port/launcher/lcd"
+msgstr "LCD"
+
+msgctxt "port/launcher/colors"
+msgid "port/launcher/colors"
+msgstr "Colors"
+
+msgctxt "port/launcher/color-original"
+msgid "port/launcher/color-original"
+msgstr "original"
+
+msgctxt "port/launcher/color-gba"
+msgid "port/launcher/color-gba"
+msgstr "GBA"
+
+msgctxt "port/launcher/color-gba-sp"
+msgid "port/launcher/color-gba-sp"
+msgstr "GBA SP AGS-101"
+
+msgctxt "port/launcher/upscaler"
+msgid "port/launcher/upscaler"
+msgstr "Upscaler"
+
+msgctxt "port/launcher/lcd-soft"
+msgid "port/launcher/lcd-soft"
+msgstr "LCD soft"
+
+msgctxt "port/launcher/lcd-fine"
+msgid "port/launcher/lcd-fine"
+msgstr "LCD fine"
+
+msgctxt "port/launcher/scanlines"
+msgid "port/launcher/scanlines"
+msgstr "scan lines"
+
+msgctxt "port/launcher/color-gba-sp-frontlit"
+msgid "port/launcher/color-gba-sp-frontlit"
+msgstr "GBA SP AGS-001"
+
+msgctxt "port/launcher/color-micro"
+msgid "port/launcher/color-micro"
+msgstr "Micro"
+
+msgctxt "port/launcher/color-ds"
+msgid "port/launcher/color-ds"
+msgstr "DS"
+
+msgctxt "port/launcher/trail-mix"
+msgid "port/launcher/trail-mix"
+msgstr "mix"
+
+msgctxt "port/launcher/trail-fade"
+msgid "port/launcher/trail-fade"
+msgstr "fade"
+
+msgctxt "port/launcher/preset-gba"
+msgid "port/launcher/preset-gba"
+msgstr "GBA"
+
+msgctxt "port/launcher/preset-gba-sp-frontlit"
+msgid "port/launcher/preset-gba-sp-frontlit"
+msgstr "GBA SP AGS-001"
+
+msgctxt "port/launcher/preset-gba-sp"
+msgid "port/launcher/preset-gba-sp"
+msgstr "GBA SP AGS-101"
+
+msgctxt "port/launcher/preset-micro"
+msgid "port/launcher/preset-micro"
+msgstr "Game Boy Micro"
+
+msgctxt "port/launcher/preset-ds"
+msgid "port/launcher/preset-ds"
+msgstr "Nintendo DS"
+
+msgctxt "port/launcher/preset-player"
+msgid "port/launcher/preset-player"
+msgstr "Game Boy Player"
+
+msgctxt "port/launcher/preset-modern"
+msgid "port/launcher/preset-modern"
+msgstr "modern"
+
+msgctxt "port/launcher/preset-smooth-pixel-art"
+msgid "port/launcher/preset-smooth-pixel-art"
+msgstr "smooth pixel art"
+
+msgctxt "port/launcher/trail"
+msgid "port/launcher/trail"
+msgstr "LCD trail"
 
 msgctxt "port/launcher/on"
 msgid "port/launcher/on"
